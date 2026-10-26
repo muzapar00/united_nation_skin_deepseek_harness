@@ -1,0 +1,83 @@
+{
+  "code": "to",
+  "namespaces": {
+    "common": {
+      "ok": "ʻIo",
+      "cancel": "Fakaʻikai",
+      "close": "Tāpuni",
+      "copy": "Kopi",
+      "copied": "Kuo kopi",
+      "copy.failed": "Naʻe ʻikai ke kopi",
+      "copy.value": "Kopi ʻa e mahuʻinga",
+      "retry": "Toe feinga",
+      "loading": "ʻOku uta mai…",
+      "load.failed": "Naʻe ʻikai ke uta",
+      "submit": "Fakahū",
+      "submitting": "ʻOku fakahū…",
+      "next": "Hoko",
+      "previous": "Kimuʻa",
+      "skip": "Laka",
+      "delete": "Tāmateʻi",
+      "edit": "Fakatonutonu",
+      "save": "Tauhi",
+      "search": "Kumi",
+      "more": "Lahi ange",
+      "collapse": "Fakasiʻisiʻi",
+      "expand": "Fakalahi",
+      "back": "Foki",
+      "brand.localBuild": "DSH Fau ʻi heni",
+      "unknown": "ʻIkai ʻiloa",
+      "none": "ʻIkai ʻi ai",
+      "truncated": "Kuo tuʻusi",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Fokotuʻutuʻu",
+      "title": "Fokotuʻutuʻu"
+    },
+    "sidebar": {
+      "session.new": "Talanoa foʻou",
+      "toggle.open": "Fakaava ʻa e tafaʻaki"
+    },
+    "conversation": {
+      "placeholder.default": "ʻAi ha pōpoaki pe fai ha ngāue, / ngaahi fekau, @ ngaahi faile pe ngaahi talanoa",
+      "placeholder.hero": "Fakamatalaʻi ʻa e meʻa ʻoku ke loto ke langa, / ngaahi fekau, @ ngaahi faile pe ngaahi talanoa",
+      "input.send": "ʻAve ʻa e pōpoaki",
+      "input.stop": "Taʻofi ʻa e faʻu"
+    },
+    "chat": {
+      "view.chat": "Talanoa"
+    },
+    "command": {
+      "search.placeholder": "Kumi…"
+    },
+    "model": {
+      "trigger.fallback": "Fili ha sīpinga",
+      "menu.model": "Sīpinga"
+    },
+    "approval": {
+      "waiting": "ʻOku tatali ki he fakangofua",
+      "reject": "Taʻofi"
+    },
+    "question": {
+      "action.next": "Hoko",
+      "option.recommended": "Fokotuʻu atu"
+    },
+    "plan": {
+      "chip.label": "Palani"
+    },
+    "workspace": {
+      "section.workspaces": "Ngaahi feituʻu ngāue",
+      "section.sessions": "Ngaahi talanoa",
+      "search.placeholder": "Kumi talanoa…"
+    },
+    "feedback": {
+      "action.like": "Tali lelei",
+      "action.dislike": "Tali kovi"
+    },
+    "job": {
+      "status.running": "ʻoku lele"
+    }
+  }
+}

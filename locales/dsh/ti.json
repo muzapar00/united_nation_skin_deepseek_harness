@@ -1,0 +1,83 @@
+{
+  "code": "ti",
+  "namespaces": {
+    "common": {
+      "ok": "ሕራይ",
+      "cancel": "ሰርዝ",
+      "close": "ዕጸው",
+      "copy": "ቅዳሕ",
+      "copied": "ተቐዲሑ",
+      "copy.failed": "ምቕዳሕ ኣይተዓወተን",
+      "copy.value": "እቲ ዋጋ ቅዳሕ",
+      "retry": "ደጊምካ ፈትን",
+      "loading": "ይጽዕን ኣሎ…",
+      "load.failed": "ምጽዓን ኣይተዓወተን",
+      "submit": "ኣቕርብ",
+      "submitting": "የቕርብ ኣሎ…",
+      "next": "ቀጻሊ",
+      "previous": "ዝሓለፈ",
+      "skip": "ስገር",
+      "delete": "ኣጥፍእ",
+      "edit": "ኣርትዕ",
+      "save": "ኣቐምጥ",
+      "search": "ድለ",
+      "more": "ተወሳኺ",
+      "collapse": "ኣንእስ",
+      "expand": "ኣስፍሕ",
+      "back": "ተመለስ",
+      "brand.localBuild": "DSH ናይ ከባቢ ህንጸት",
+      "unknown": "ዘይፍለጥ",
+      "none": "የለን",
+      "truncated": "ተቘሪጹ",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "ቅጥዕታት",
+      "title": "ቅጥዕታት"
+    },
+    "sidebar": {
+      "session.new": "ሓድሽ ዘተ",
+      "toggle.open": "ጎናዊ መስመር ክፈት"
+    },
+    "conversation": {
+      "placeholder.default": "መልእኽቲ ስደድ ወይ ዕዮ ኣካይድ፣ / ትእዛዛት፣ @ ፋይላት ወይ ዘተታት",
+      "placeholder.hero": "ክትሃንጽ እትደሊ ግለጽ፣ / ትእዛዛት፣ @ ፋይላት ወይ ዘተታት",
+      "input.send": "መልእኽቲ ስደድ",
+      "input.stop": "ምፍራስ ኣቋርጽ"
+    },
+    "chat": {
+      "view.chat": "ዘተ"
+    },
+    "command": {
+      "search.placeholder": "ድለ…"
+    },
+    "model": {
+      "trigger.fallback": "ሞዴል ምረጽ",
+      "menu.model": "ሞዴል"
+    },
+    "approval": {
+      "waiting": "ምጽዳቕ ይጽበ ኣሎ",
+      "reject": "ንጸግ"
+    },
+    "question": {
+      "action.next": "ቀጻሊ",
+      "option.recommended": "ዝተመኸረ"
+    },
+    "plan": {
+      "chip.label": "መደብ"
+    },
+    "workspace": {
+      "section.workspaces": "ናይ ስራሕ ቦታታት",
+      "section.sessions": "ዘተታት",
+      "search.placeholder": "ዘተታት ድለ..."
+    },
+    "feedback": {
+      "action.like": "ጽቡቕ መልሲ",
+      "action.dislike": "ሕማቕ መልሲ"
+    },
+    "job": {
+      "status.running": "ይሰርሕ ኣሎ"
+    }
+  }
+}

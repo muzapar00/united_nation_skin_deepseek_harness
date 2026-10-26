@@ -1,0 +1,83 @@
+{
+  "code": "sm",
+  "namespaces": {
+    "common": {
+      "ok": "Ua lelei",
+      "cancel": "Faaleaogaina",
+      "close": "Tapuni",
+      "copy": "Kopi",
+      "copied": "Ua kopiina",
+      "copy.failed": "Ua lē mafai ona kopi",
+      "copy.value": "Kopi le tau",
+      "retry": "Toe taumafai",
+      "loading": "O loʻo utaina…",
+      "load.failed": "Ua lē mafai ona uta",
+      "submit": "Tuʻuina atu",
+      "submitting": "O loʻo tuʻuina atu…",
+      "next": "Le isi",
+      "previous": "Le muamua",
+      "skip": "Sopo",
+      "delete": "Tape",
+      "edit": "Fetuʻunaʻi",
+      "save": "Faasaoina",
+      "search": "Suʻe",
+      "more": "Nisi",
+      "collapse": "Faʻapotopoto",
+      "expand": "Faʻalautele",
+      "back": "Toe foʻi",
+      "brand.localBuild": "DSH Fausia i Lotoifale",
+      "unknown": "E le iloa",
+      "none": "Leai",
+      "truncated": "Ua tipi",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Faatulagaga",
+      "title": "Faatulagaga"
+    },
+    "sidebar": {
+      "session.new": "Talanoaga fou",
+      "toggle.open": "Tatala le itu"
+    },
+    "conversation": {
+      "placeholder.default": "Lafo se feʻau pe faatino se galuega, / poloaiga, @ faila poʻo talanoaga",
+      "placeholder.hero": "Faamatala le mea e te fia fausia, / poloaiga, @ faila poʻo talanoaga",
+      "input.send": "Lafo le feʻau",
+      "input.stop": "Taofi le faia"
+    },
+    "chat": {
+      "view.chat": "Talanoaga"
+    },
+    "command": {
+      "search.placeholder": "Suʻe…"
+    },
+    "model": {
+      "trigger.fallback": "Filifili se faʻataʻitaʻiga",
+      "menu.model": "Faʻataʻitaʻiga"
+    },
+    "approval": {
+      "waiting": "O loʻo faʻatali le faʻatagaga",
+      "reject": "Teena"
+    },
+    "question": {
+      "action.next": "Le isi",
+      "option.recommended": "Fautuaina"
+    },
+    "plan": {
+      "chip.label": "Fuafuaga"
+    },
+    "workspace": {
+      "section.workspaces": "Nofoaga o galuega",
+      "section.sessions": "Talanoaga",
+      "search.placeholder": "Suʻe talanoaga…"
+    },
+    "feedback": {
+      "action.like": "Tali lelei",
+      "action.dislike": "Tali leaga"
+    },
+    "job": {
+      "status.running": "o loʻo alu"
+    }
+  }
+}

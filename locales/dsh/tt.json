@@ -1,0 +1,83 @@
+{
+  "code": "tt",
+  "namespaces": {
+    "common": {
+      "ok": "Ярар",
+      "cancel": "Баш тарту",
+      "close": "Ябу",
+      "copy": "Күчерү",
+      "copied": "Күчерелде",
+      "copy.failed": "Күчереп булмады",
+      "copy.value": "Кыйммәтне күчерү",
+      "retry": "Кабатлау",
+      "loading": "Йөкләнә…",
+      "load.failed": "Йөкләп булмады",
+      "submit": "Җибәрү",
+      "submitting": "Җибәрелә…",
+      "next": "Киләсе",
+      "previous": "Алдагы",
+      "skip": "Үткәреп җибәрү",
+      "delete": "Бетерү",
+      "edit": "Үзгәртү",
+      "save": "Саклау",
+      "search": "Эзләү",
+      "more": "Күбрәк",
+      "collapse": "Җыю",
+      "expand": "Җәю",
+      "back": "Кире",
+      "brand.localBuild": "DSH җирле җыелмасы",
+      "unknown": "Билгесез",
+      "none": "Юк",
+      "truncated": "Кыскартылган",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Көйләүләр",
+      "title": "Көйләүләр"
+    },
+    "sidebar": {
+      "session.new": "Яңа сеанс",
+      "toggle.open": "Ян панельне ачу"
+    },
+    "conversation": {
+      "placeholder.default": "Хәбәр җибәр яки бурыч башкар, / боерыклар, @ файллар яки сеанслар",
+      "placeholder.hero": "Нәрсә төзергә теләвеңне тасвирла, / боерыклар, @ файллар яки сеанслар",
+      "input.send": "Хәбәр җибәрү",
+      "input.stop": "Булдыруны туктату"
+    },
+    "chat": {
+      "view.chat": "Сөйләшү"
+    },
+    "command": {
+      "search.placeholder": "Эзләү…"
+    },
+    "model": {
+      "trigger.fallback": "Модель сайлау",
+      "menu.model": "Модель"
+    },
+    "approval": {
+      "waiting": "Раслау көтелә",
+      "reject": "Кире кагу"
+    },
+    "question": {
+      "action.next": "Киләсе",
+      "option.recommended": "Тәкъдим ителгән"
+    },
+    "plan": {
+      "chip.label": "План"
+    },
+    "workspace": {
+      "section.workspaces": "Эш урыннары",
+      "section.sessions": "Сеанслар",
+      "search.placeholder": "Сеансларны эзләү..."
+    },
+    "feedback": {
+      "action.like": "Яхшы җавап",
+      "action.dislike": "Начар җавап"
+    },
+    "job": {
+      "status.running": "эшли"
+    }
+  }
+}

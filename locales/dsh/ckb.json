@@ -1,0 +1,83 @@
+{
+  "code": "ckb",
+  "namespaces": {
+    "common": {
+      "ok": "باشە",
+      "cancel": "پاشگەزبوونەوە",
+      "close": "داخستن",
+      "copy": "کۆپی",
+      "copied": "کۆپی کرا",
+      "copy.failed": "کۆپیکردن سەرکەوتوو نەبوو",
+      "copy.value": "کۆپیکردنی بەها",
+      "retry": "هەوڵدانەوە",
+      "loading": "بارکردن…",
+      "load.failed": "بارکردن سەرکەوتوو نەبوو",
+      "submit": "ناردن",
+      "submitting": "دەنێردرێت…",
+      "next": "دواتر",
+      "previous": "پێشتر",
+      "skip": "تێپەڕاندن",
+      "delete": "سڕینەوە",
+      "edit": "دەستکاری",
+      "save": "پاشەکەوتکردن",
+      "search": "گەڕان",
+      "more": "زیاتر",
+      "collapse": "کۆکردنەوە",
+      "expand": "کردنەوە",
+      "back": "گەڕانەوە",
+      "brand.localBuild": "DSH دروستکردنی ناوخۆیی",
+      "unknown": "نەزانراو",
+      "none": "هیچ",
+      "truncated": "بڕاوە",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "ڕێکخستن",
+      "title": "ڕێکخستن"
+    },
+    "sidebar": {
+      "session.new": "دانیشتنی نوێ",
+      "toggle.open": "کردنەوەی لاتەنیشت"
+    },
+    "conversation": {
+      "placeholder.default": "نامەیەک بنێرە یان کارێک بکە، / فەرمانەکان، @ فایلەکان یان دانیشتنەکان",
+      "placeholder.hero": "باس بکە چی دەتەوێت دروستی بکەیت، / فەرمانەکان، @ فایلەکان یان دانیشتنەکان",
+      "input.send": "ناردنی نامە",
+      "input.stop": "وەستاندنی دروستکردن"
+    },
+    "chat": {
+      "view.chat": "گفتوگۆ"
+    },
+    "command": {
+      "search.placeholder": "گەڕان…"
+    },
+    "model": {
+      "trigger.fallback": "هەڵبژاردنی مۆدێل",
+      "menu.model": "مۆدێل"
+    },
+    "approval": {
+      "waiting": "چاوەڕوانی پەسەندکردن",
+      "reject": "ڕەتکردنەوە"
+    },
+    "question": {
+      "action.next": "دواتر",
+      "option.recommended": "پێشنیارکراو"
+    },
+    "plan": {
+      "chip.label": "پلان"
+    },
+    "workspace": {
+      "section.workspaces": "شوێنەکانی کار",
+      "section.sessions": "دانیشتنەکان",
+      "search.placeholder": "گەڕان بەدوای دانیشتنەکان..."
+    },
+    "feedback": {
+      "action.like": "وەڵامی باش",
+      "action.dislike": "وەڵامی خراپ"
+    },
+    "job": {
+      "status.running": "لە کارکردندا"
+    }
+  }
+}

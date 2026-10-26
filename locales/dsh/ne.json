@@ -1,0 +1,83 @@
+{
+  "code": "ne",
+  "namespaces": {
+    "common": {
+      "ok": "ठीक छ",
+      "cancel": "रद्द गर्नुहोस्",
+      "close": "बन्द गर्नुहोस्",
+      "copy": "प्रतिलिपि गर्नुहोस्",
+      "copied": "प्रतिलिपि भयो",
+      "copy.failed": "प्रतिलिपि असफल",
+      "copy.value": "मान प्रतिलिपि गर्नुहोस्",
+      "retry": "फेरि प्रयास गर्नुहोस्",
+      "loading": "लोड हुँदैछ…",
+      "load.failed": "लोड गर्न असफल",
+      "submit": "पेस गर्नुहोस्",
+      "submitting": "पेस हुँदैछ…",
+      "next": "अर्को",
+      "previous": "अघिल्लो",
+      "skip": "छोड्नुहोस्",
+      "delete": "मेट्नुहोस्",
+      "edit": "सम्पादन गर्नुहोस्",
+      "save": "सुरक्षित गर्नुहोस्",
+      "search": "खोज्नुहोस्",
+      "more": "थप",
+      "collapse": "संकुचित गर्नुहोस्",
+      "expand": "विस्तार गर्नुहोस्",
+      "back": "फर्कनुहोस्",
+      "brand.localBuild": "DSH स्थानीय बिल्ड",
+      "unknown": "अज्ञात",
+      "none": "कुनै छैन",
+      "truncated": "छोट्याइएको",
+      "number.thousand": "{value} हजार",
+      "number.million": "{value} मिलियन"
+    },
+    "settings": {
+      "trigger": "सेटिङ",
+      "title": "सेटिङ"
+    },
+    "sidebar": {
+      "session.new": "नयाँ सत्र",
+      "toggle.open": "साइडबार खोल्नुहोस्"
+    },
+    "conversation": {
+      "placeholder.default": "सन्देश पठाउनुहोस् वा काम चलाउनुहोस्, / आदेश, @ फाइल वा सत्र",
+      "placeholder.hero": "तपाईं के बनाउन चाहनुहुन्छ वर्णन गर्नुहोस्, / आदेश, @ फाइल वा सत्र",
+      "input.send": "सन्देश पठाउनुहोस्",
+      "input.stop": "उत्पादन रोक्नुहोस्"
+    },
+    "chat": {
+      "view.chat": "च्याट"
+    },
+    "command": {
+      "search.placeholder": "खोज्नुहोस्…"
+    },
+    "model": {
+      "trigger.fallback": "मोडेल छान्नुहोस्",
+      "menu.model": "मोडेल"
+    },
+    "approval": {
+      "waiting": "स्वीकृतिको प्रतीक्षामा",
+      "reject": "अस्वीकार गर्नुहोस्"
+    },
+    "question": {
+      "action.next": "अर्को",
+      "option.recommended": "सिफारिस गरिएको"
+    },
+    "plan": {
+      "chip.label": "योजना"
+    },
+    "workspace": {
+      "section.workspaces": "वर्कस्पेस",
+      "section.sessions": "सत्रहरू",
+      "search.placeholder": "सत्र खोज्नुहोस्…"
+    },
+    "feedback": {
+      "action.like": "राम्रो जवाफ",
+      "action.dislike": "खराब जवाफ"
+    },
+    "job": {
+      "status.running": "चलिरहेको"
+    }
+  }
+}

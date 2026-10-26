@@ -1,0 +1,83 @@
+{
+  "code": "de",
+  "namespaces": {
+    "common": {
+      "ok": "OK",
+      "cancel": "Abbrechen",
+      "close": "Schließen",
+      "copy": "Kopieren",
+      "copied": "Kopiert",
+      "copy.failed": "Kopieren fehlgeschlagen",
+      "copy.value": "Wert kopieren",
+      "retry": "Wiederholen",
+      "loading": "Wird geladen…",
+      "load.failed": "Laden fehlgeschlagen",
+      "submit": "Absenden",
+      "submitting": "Wird gesendet…",
+      "next": "Weiter",
+      "previous": "Zurück",
+      "skip": "Überspringen",
+      "delete": "Löschen",
+      "edit": "Bearbeiten",
+      "save": "Speichern",
+      "search": "Suchen",
+      "more": "Mehr",
+      "collapse": "Einklappen",
+      "expand": "Ausklappen",
+      "back": "Zurück",
+      "brand.localBuild": "Lokaler DSH-Build",
+      "unknown": "Unbekannt",
+      "none": "Keine",
+      "truncated": "Gekürzt",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Einstellungen",
+      "title": "Einstellungen"
+    },
+    "sidebar": {
+      "session.new": "Neue Sitzung",
+      "toggle.open": "Seitenleiste öffnen"
+    },
+    "conversation": {
+      "placeholder.default": "Nachricht senden oder Aufgabe starten, / Befehle, @ Dateien oder Sitzungen",
+      "placeholder.hero": "Beschreiben Sie, was Sie bauen möchten, / Befehle, @ Dateien oder Sitzungen",
+      "input.send": "Nachricht senden",
+      "input.stop": "Generierung stoppen"
+    },
+    "chat": {
+      "view.chat": "Chat"
+    },
+    "command": {
+      "search.placeholder": "Suchen…"
+    },
+    "model": {
+      "trigger.fallback": "Modell auswählen",
+      "menu.model": "Modell"
+    },
+    "approval": {
+      "waiting": "Warten auf Freigabe",
+      "reject": "Ablehnen"
+    },
+    "question": {
+      "action.next": "Weiter",
+      "option.recommended": "Empfohlen"
+    },
+    "plan": {
+      "chip.label": "Plan"
+    },
+    "workspace": {
+      "section.workspaces": "Arbeitsbereiche",
+      "section.sessions": "Sitzungen",
+      "search.placeholder": "Sitzungen suchen..."
+    },
+    "feedback": {
+      "action.like": "Gute Antwort",
+      "action.dislike": "Schlechte Antwort"
+    },
+    "job": {
+      "status.running": "läuft"
+    }
+  }
+}

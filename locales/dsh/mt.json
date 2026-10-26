@@ -1,0 +1,83 @@
+{
+  "code": "mt",
+  "namespaces": {
+    "common": {
+      "ok": "OK",
+      "cancel": "Ikkanċella",
+      "close": "Agħlaq",
+      "copy": "Ikkopja",
+      "copied": "Ikkupjat",
+      "copy.failed": "Il-kopja falliet",
+      "copy.value": "Ikkopja l-valur",
+      "retry": "Erġa' pprova",
+      "loading": "Qed jitgħabba…",
+      "load.failed": "It-tagħbija falliet",
+      "submit": "Ibgħat",
+      "submitting": "Qed jintbagħat…",
+      "next": "Li jmiss",
+      "previous": "Preċedenti",
+      "skip": "Aqbeż",
+      "delete": "Ħassar",
+      "edit": "Editja",
+      "save": "Issejvja",
+      "search": "Fittex",
+      "more": "Aktar",
+      "collapse": "Iġbor",
+      "expand": "Ifrex",
+      "back": "Lura",
+      "brand.localBuild": "DSH bini lokali",
+      "unknown": "Mhux magħruf",
+      "none": "Xejn",
+      "truncated": "Maqtugħ",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "L-Issettjar",
+      "title": "L-Issettjar"
+    },
+    "sidebar": {
+      "session.new": "Sessjoni ġdida",
+      "toggle.open": "Iftaħ il-ġenb"
+    },
+    "conversation": {
+      "placeholder.default": "Ibgħat messaġġ jew agħmel kompitu, / kmandi, @ fajls jew sessjonijiet",
+      "placeholder.hero": "Iddeskrivi x'trid tibni, / kmandi, @ fajls jew sessjonijiet",
+      "input.send": "Ibgħat il-messaġġ",
+      "input.stop": "Waqqaf il-ġenerazzjoni"
+    },
+    "chat": {
+      "view.chat": "Konversazzjoni"
+    },
+    "command": {
+      "search.placeholder": "Fittex…"
+    },
+    "model": {
+      "trigger.fallback": "Agħżel mudell",
+      "menu.model": "Mudell"
+    },
+    "approval": {
+      "waiting": "Qed jistenna approvazzjoni",
+      "reject": "Irrifjuta"
+    },
+    "question": {
+      "action.next": "Li jmiss",
+      "option.recommended": "Rakkomandat"
+    },
+    "plan": {
+      "chip.label": "Pjan"
+    },
+    "workspace": {
+      "section.workspaces": "Spazji tax-xogħol",
+      "section.sessions": "Sessjonijiet",
+      "search.placeholder": "Fittex sessjonijiet..."
+    },
+    "feedback": {
+      "action.like": "Risposta tajba",
+      "action.dislike": "Risposta ħażina"
+    },
+    "job": {
+      "status.running": "qed jaħdem"
+    }
+  }
+}

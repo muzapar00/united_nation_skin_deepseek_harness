@@ -1,0 +1,83 @@
+{
+  "code": "lt",
+  "namespaces": {
+    "common": {
+      "ok": "Gerai",
+      "cancel": "Atšaukti",
+      "close": "Užverti",
+      "copy": "Kopijuoti",
+      "copied": "Nukopijuota",
+      "copy.failed": "Nepavyko nukopijuoti",
+      "copy.value": "Kopijuoti reikšmę",
+      "retry": "Bandyti dar kartą",
+      "loading": "Įkeliama…",
+      "load.failed": "Nepavyko įkelti",
+      "submit": "Pateikti",
+      "submitting": "Pateikiama…",
+      "next": "Toliau",
+      "previous": "Atgal",
+      "skip": "Praleisti",
+      "delete": "Ištrinti",
+      "edit": "Redaguoti",
+      "save": "Išsaugoti",
+      "search": "Ieškoti",
+      "more": "Daugiau",
+      "collapse": "Sutraukti",
+      "expand": "Išskleisti",
+      "back": "Atgal",
+      "brand.localBuild": "Vietinė DSH versija",
+      "unknown": "Nežinoma",
+      "none": "Nėra",
+      "truncated": "Sutrumpinta",
+      "number.thousand": "{value} tūkst.",
+      "number.million": "{value} mln"
+    },
+    "settings": {
+      "trigger": "Nustatymai",
+      "title": "Nustatymai"
+    },
+    "sidebar": {
+      "session.new": "Nauja sesija",
+      "toggle.open": "Atidaryti šoninę juostą"
+    },
+    "conversation": {
+      "placeholder.default": "Žinutė ar užduotis, / komandos, @ failai ar sesijos",
+      "placeholder.hero": "Aprašykite, ką norite sukurti, / komandos, @ failai ar sesijos",
+      "input.send": "Siųsti žinutę",
+      "input.stop": "Stabdyti generavimą"
+    },
+    "chat": {
+      "view.chat": "Pokalbis"
+    },
+    "command": {
+      "search.placeholder": "Ieškoti…"
+    },
+    "model": {
+      "trigger.fallback": "Pasirinkite modelį",
+      "menu.model": "Modelis"
+    },
+    "approval": {
+      "waiting": "Laukiama patvirtinimo",
+      "reject": "Atmesti"
+    },
+    "question": {
+      "action.next": "Toliau",
+      "option.recommended": "Rekomenduojama"
+    },
+    "plan": {
+      "chip.label": "Planas"
+    },
+    "workspace": {
+      "section.workspaces": "Darbo sritys",
+      "section.sessions": "Sesijos",
+      "search.placeholder": "Ieškoti sesijų..."
+    },
+    "feedback": {
+      "action.like": "Geras atsakymas",
+      "action.dislike": "Blogas atsakymas"
+    },
+    "job": {
+      "status.running": "veikia"
+    }
+  }
+}

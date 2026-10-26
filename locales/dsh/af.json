@@ -1,0 +1,83 @@
+{
+  "code": "af",
+  "namespaces": {
+    "common": {
+      "ok": "OK",
+      "cancel": "Kanselleer",
+      "close": "Sluit",
+      "copy": "Kopieer",
+      "copied": "Gekopieer",
+      "copy.failed": "Kopiëring het misluk",
+      "copy.value": "Kopieer waarde",
+      "retry": "Probeer weer",
+      "loading": "Laai tans…",
+      "load.failed": "Kon nie laai nie",
+      "submit": "Dien in",
+      "submitting": "Dien tans in…",
+      "next": "Volgende",
+      "previous": "Vorige",
+      "skip": "Slaan oor",
+      "delete": "Verwyder",
+      "edit": "Wysig",
+      "save": "Stoor",
+      "search": "Soek",
+      "more": "Meer",
+      "collapse": "Vou in",
+      "expand": "Vou uit",
+      "back": "Terug",
+      "brand.localBuild": "DSH Plaaslike bou",
+      "unknown": "Onbekend",
+      "none": "Geen",
+      "truncated": "Afgekap",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Instellings",
+      "title": "Instellings"
+    },
+    "sidebar": {
+      "session.new": "Nuwe sessie",
+      "toggle.open": "Maak sybalk oop"
+    },
+    "conversation": {
+      "placeholder.default": "Stuur ’n boodskap of voer ’n taak uit, / opdragte, @ lêers of sessies",
+      "placeholder.hero": "Beskryf wat jy wil bou, / opdragte, @ lêers of sessies",
+      "input.send": "Stuur boodskap",
+      "input.stop": "Stop generering"
+    },
+    "chat": {
+      "view.chat": "Gesprek"
+    },
+    "command": {
+      "search.placeholder": "Soek…"
+    },
+    "model": {
+      "trigger.fallback": "Kies model",
+      "menu.model": "Model"
+    },
+    "approval": {
+      "waiting": "Wag vir goedkeuring",
+      "reject": "Verwerp"
+    },
+    "question": {
+      "action.next": "Volgende",
+      "option.recommended": "Aanbeveel"
+    },
+    "plan": {
+      "chip.label": "Plan"
+    },
+    "workspace": {
+      "section.workspaces": "Werkspasies",
+      "section.sessions": "Sessies",
+      "search.placeholder": "Soek sessies..."
+    },
+    "feedback": {
+      "action.like": "Goeie antwoord",
+      "action.dislike": "Slegte antwoord"
+    },
+    "job": {
+      "status.running": "aan die gang"
+    }
+  }
+}

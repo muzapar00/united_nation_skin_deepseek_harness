@@ -1,0 +1,83 @@
+{
+  "code": "jv",
+  "namespaces": {
+    "common": {
+      "ok": "OK",
+      "cancel": "Batal",
+      "close": "Tutup",
+      "copy": "Salin",
+      "copied": "Wis disalin",
+      "copy.failed": "Gagal nyalin",
+      "copy.value": "Salin aji",
+      "retry": "Coba manèh",
+      "loading": "Ngamot…",
+      "load.failed": "Gagal ngamot",
+      "submit": "Kirim",
+      "submitting": "Ngirim…",
+      "next": "Sabanjuré",
+      "previous": "Sadurungé",
+      "skip": "Liwati",
+      "delete": "Busak",
+      "edit": "Sunting",
+      "save": "Simpen",
+      "search": "Golèk",
+      "more": "Liyané",
+      "collapse": "Tutup",
+      "expand": "Bukak",
+      "back": "Bali",
+      "brand.localBuild": "DSH vèrsi lokal",
+      "unknown": "Ora dingertèni",
+      "none": "Ora ana",
+      "truncated": "Dipotong",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Setèlan",
+      "title": "Setèlan"
+    },
+    "sidebar": {
+      "session.new": "Sési anyar",
+      "toggle.open": "Bukak wilah sisih"
+    },
+    "conversation": {
+      "placeholder.default": "Kirim pesen utawa wiwiti tugas, / printah, @ berkas utawa sési",
+      "placeholder.hero": "Jelasaké apa sing arep panjenengan bangun, / printah, @ berkas utawa sési",
+      "input.send": "Kirim pesen",
+      "input.stop": "Mandheg ngasilaké"
+    },
+    "chat": {
+      "view.chat": "Obrolan"
+    },
+    "command": {
+      "search.placeholder": "Golèk…"
+    },
+    "model": {
+      "trigger.fallback": "Pilih modèl",
+      "menu.model": "Modèl"
+    },
+    "approval": {
+      "waiting": "Nunggu persetujuan",
+      "reject": "Tolak"
+    },
+    "question": {
+      "action.next": "Sabanjuré",
+      "option.recommended": "Disaranaké"
+    },
+    "plan": {
+      "chip.label": "Rencana"
+    },
+    "workspace": {
+      "section.workspaces": "Papan kerja",
+      "section.sessions": "Sési",
+      "search.placeholder": "Golèk sési..."
+    },
+    "feedback": {
+      "action.like": "Wangsulan apik",
+      "action.dislike": "Wangsulan ora apik"
+    },
+    "job": {
+      "status.running": "mlaku"
+    }
+  }
+}

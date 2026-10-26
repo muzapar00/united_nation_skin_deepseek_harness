@@ -1,0 +1,83 @@
+{
+  "code": "mi",
+  "namespaces": {
+    "common": {
+      "ok": "Āe",
+      "cancel": "Whakakore",
+      "close": "Katia",
+      "copy": "Tārua",
+      "copied": "Kua tāruatia",
+      "copy.failed": "I rahua te tārua",
+      "copy.value": "Tārua te uara",
+      "retry": "Ngana anō",
+      "loading": "E uta ana…",
+      "load.failed": "I rahua te uta",
+      "submit": "Tuku",
+      "submitting": "E tuku ana…",
+      "next": "Whai muri",
+      "previous": "O mua",
+      "skip": "Tīpoka",
+      "delete": "Muku",
+      "edit": "Whakatika",
+      "save": "Tiaki",
+      "search": "Rapu",
+      "more": "Ētahi atu",
+      "collapse": "Whakawhāiti",
+      "expand": "Whakawhānui",
+      "back": "Hoki",
+      "brand.localBuild": "DSH Hanga ā-rohe",
+      "unknown": "Kāore i mōhiotia",
+      "none": "Kore",
+      "truncated": "Kua tapahia",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Tautuhinga",
+      "title": "Tautuhinga"
+    },
+    "sidebar": {
+      "session.new": "Kōrero hōu",
+      "toggle.open": "Whakatuwheratia te paetaha"
+    },
+    "conversation": {
+      "placeholder.default": "Tukuna he karere, whakahaere rānei i tētahi mahi, / ngā whakahau, @ ngā kōnae, ngā kōrero rānei",
+      "placeholder.hero": "Whakaahuahia tāu e hiahia ana ki te hanga, / ngā whakahau, @ ngā kōnae, ngā kōrero rānei",
+      "input.send": "Tuku karere",
+      "input.stop": "Whakamutua te whakaputa"
+    },
+    "chat": {
+      "view.chat": "Kōrerorero"
+    },
+    "command": {
+      "search.placeholder": "Rapu…"
+    },
+    "model": {
+      "trigger.fallback": "Kōwhiria he tauira",
+      "menu.model": "Tauira"
+    },
+    "approval": {
+      "waiting": "E tatari ana kia whakaaetia",
+      "reject": "Whakakahore"
+    },
+    "question": {
+      "action.next": "Whai muri",
+      "option.recommended": "E marohitia ana"
+    },
+    "plan": {
+      "chip.label": "Mahere"
+    },
+    "workspace": {
+      "section.workspaces": "Ngā wāhi mahi",
+      "section.sessions": "Ngā kōrero",
+      "search.placeholder": "Rapua ngā kōrero…"
+    },
+    "feedback": {
+      "action.like": "Whakautu pai",
+      "action.dislike": "Whakautu kino"
+    },
+    "job": {
+      "status.running": "e rere ana"
+    }
+  }
+}

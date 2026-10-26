@@ -1,0 +1,83 @@
+{
+  "code": "sl",
+  "namespaces": {
+    "common": {
+      "ok": "V redu",
+      "cancel": "Prekliči",
+      "close": "Zapri",
+      "copy": "Kopiraj",
+      "copied": "Kopirano",
+      "copy.failed": "Kopiranje ni uspelo",
+      "copy.value": "Kopiraj vrednost",
+      "retry": "Poskusi znova",
+      "loading": "Nalaganje…",
+      "load.failed": "Nalaganje ni uspelo",
+      "submit": "Pošlji",
+      "submitting": "Pošiljanje…",
+      "next": "Naprej",
+      "previous": "Nazaj",
+      "skip": "Preskoči",
+      "delete": "Izbriši",
+      "edit": "Uredi",
+      "save": "Shrani",
+      "search": "Išči",
+      "more": "Več",
+      "collapse": "Strni",
+      "expand": "Razširi",
+      "back": "Nazaj",
+      "brand.localBuild": "DSH lokalna izgradnja",
+      "unknown": "Neznano",
+      "none": "Brez",
+      "truncated": "Okrnjeno",
+      "number.thousand": "{value} tis.",
+      "number.million": "{value} mio."
+    },
+    "settings": {
+      "trigger": "Nastavitve",
+      "title": "Nastavitve"
+    },
+    "sidebar": {
+      "session.new": "Nova seja",
+      "toggle.open": "Odpri stransko vrstico"
+    },
+    "conversation": {
+      "placeholder.default": "Sporočilo ali opravilo, / ukazi, @ datoteke ali seje",
+      "placeholder.hero": "Opišite, kaj želite ustvariti, / ukazi, @ datoteke ali seje",
+      "input.send": "Pošlji sporočilo",
+      "input.stop": "Ustavi ustvarjanje"
+    },
+    "chat": {
+      "view.chat": "Klepet"
+    },
+    "command": {
+      "search.placeholder": "Išči…"
+    },
+    "model": {
+      "trigger.fallback": "Izberi model",
+      "menu.model": "Model"
+    },
+    "approval": {
+      "waiting": "Čaka odobritev",
+      "reject": "Zavrni"
+    },
+    "question": {
+      "action.next": "Naprej",
+      "option.recommended": "Priporočeno"
+    },
+    "plan": {
+      "chip.label": "Načrt"
+    },
+    "workspace": {
+      "section.workspaces": "Delovni prostori",
+      "section.sessions": "Seje",
+      "search.placeholder": "Iskanje sej..."
+    },
+    "feedback": {
+      "action.like": "Dober odgovor",
+      "action.dislike": "Slab odgovor"
+    },
+    "job": {
+      "status.running": "teče"
+    }
+  }
+}

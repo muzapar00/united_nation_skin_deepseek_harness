@@ -1,0 +1,83 @@
+{
+  "code": "zu",
+  "namespaces": {
+    "common": {
+      "ok": "Kulungile",
+      "cancel": "Khansela",
+      "close": "Vala",
+      "copy": "Kopisha",
+      "copied": "Kukopishiwe",
+      "copy.failed": "Ukukopisha kwehlulekile",
+      "copy.value": "Kopisha inani",
+      "retry": "Zama futhi",
+      "loading": "Iyalayisha…",
+      "load.failed": "Ukulayisha kwehlulekile",
+      "submit": "Thumela",
+      "submitting": "Iyathumela…",
+      "next": "Okulandelayo",
+      "previous": "Okudlule",
+      "skip": "Yeqa",
+      "delete": "Susa",
+      "edit": "Hlela",
+      "save": "Gcina",
+      "search": "Sesha",
+      "more": "Okwengeziwe",
+      "collapse": "Goqa",
+      "expand": "Nweba",
+      "back": "Emuva",
+      "brand.localBuild": "DSH Ukwakhiwa Kwasendaweni",
+      "unknown": "Akwaziwa",
+      "none": "Lutho",
+      "truncated": "Kunqanyuliwe",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Izilungiselelo",
+      "title": "Izilungiselelo"
+    },
+    "sidebar": {
+      "session.new": "Iseshini entsha",
+      "toggle.open": "Vula uhlangothi"
+    },
+    "conversation": {
+      "placeholder.default": "Thumela umlayezo noma sebenzisa umsebenzi, / imiyalo, @ amafayela noma amaseshini",
+      "placeholder.hero": "Chaza lokho ofuna ukukwakha, / imiyalo, @ amafayela noma amaseshini",
+      "input.send": "Thumela umlayezo",
+      "input.stop": "Misa ukukhiqiza"
+    },
+    "chat": {
+      "view.chat": "Ingxoxo"
+    },
+    "command": {
+      "search.placeholder": "Sesha…"
+    },
+    "model": {
+      "trigger.fallback": "Khetha imodeli",
+      "menu.model": "Imodeli"
+    },
+    "approval": {
+      "waiting": "Ilinde ukugunyazwa",
+      "reject": "Nqaba"
+    },
+    "question": {
+      "action.next": "Okulandelayo",
+      "option.recommended": "Kunconywa"
+    },
+    "plan": {
+      "chip.label": "Icebo"
+    },
+    "workspace": {
+      "section.workspaces": "Izindawo zokusebenza",
+      "section.sessions": "Amaseshini",
+      "search.placeholder": "Sesha amaseshini..."
+    },
+    "feedback": {
+      "action.like": "Impendulo enhle",
+      "action.dislike": "Impendulo engemihle"
+    },
+    "job": {
+      "status.running": "iyasebenza"
+    }
+  }
+}

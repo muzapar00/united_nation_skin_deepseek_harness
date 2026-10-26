@@ -1,0 +1,239 @@
+{
+  "note": "DSH core overrides: only keys translated here are overridden; everything else falls back to the built-in English dictionary.",
+  "namespaces": {
+    "common": {
+      "ok": {
+        "en": "OK",
+        "zh": "确定"
+      },
+      "cancel": {
+        "en": "Cancel",
+        "zh": "取消"
+      },
+      "close": {
+        "en": "Close",
+        "zh": "关闭"
+      },
+      "copy": {
+        "en": "Copy",
+        "zh": "复制"
+      },
+      "copied": {
+        "en": "Copied",
+        "zh": "复制成功"
+      },
+      "copy.failed": {
+        "en": "Copy failed",
+        "zh": "复制失败"
+      },
+      "copy.value": {
+        "en": "Copy value",
+        "zh": "复制值"
+      },
+      "retry": {
+        "en": "Retry",
+        "zh": "重试"
+      },
+      "loading": {
+        "en": "Loading…",
+        "zh": "加载中…"
+      },
+      "load.failed": {
+        "en": "Failed to load",
+        "zh": "加载失败"
+      },
+      "submit": {
+        "en": "Submit",
+        "zh": "提交"
+      },
+      "submitting": {
+        "en": "Submitting…",
+        "zh": "正在提交…"
+      },
+      "next": {
+        "en": "Next",
+        "zh": "下一步"
+      },
+      "previous": {
+        "en": "Previous",
+        "zh": "上一步"
+      },
+      "skip": {
+        "en": "Skip",
+        "zh": "跳过"
+      },
+      "delete": {
+        "en": "Delete",
+        "zh": "删除"
+      },
+      "edit": {
+        "en": "Edit",
+        "zh": "编辑"
+      },
+      "save": {
+        "en": "Save",
+        "zh": "保存"
+      },
+      "search": {
+        "en": "Search",
+        "zh": "搜索"
+      },
+      "more": {
+        "en": "More",
+        "zh": "更多"
+      },
+      "collapse": {
+        "en": "Collapse",
+        "zh": "收起"
+      },
+      "expand": {
+        "en": "Expand",
+        "zh": "展开"
+      },
+      "back": {
+        "en": "Back",
+        "zh": "返回"
+      },
+      "brand.localBuild": {
+        "en": "DSH Local Build",
+        "zh": "DSH 本地构建"
+      },
+      "unknown": {
+        "en": "Unknown",
+        "zh": "未知"
+      },
+      "none": {
+        "en": "None",
+        "zh": "无"
+      },
+      "truncated": {
+        "en": "Truncated",
+        "zh": "已截断"
+      },
+      "number.thousand": {
+        "en": "{value}K",
+        "zh": "{value}K"
+      },
+      "number.million": {
+        "en": "{value}M",
+        "zh": "{value}M"
+      }
+    },
+    "settings": {
+      "trigger": {
+        "en": "Settings",
+        "zh": "设置"
+      },
+      "title": {
+        "en": "Settings",
+        "zh": "设置"
+      }
+    },
+    "sidebar": {
+      "session.new": {
+        "en": "New Session",
+        "zh": "新会话"
+      },
+      "toggle.open": {
+        "en": "Open sidebar",
+        "zh": "打开侧边栏"
+      }
+    },
+    "conversation": {
+      "placeholder.default": {
+        "en": "Message or run a task, / commands, @ files or sessions",
+        "zh": "发消息或创建任务, / 调用指令, @ 文件或对话"
+      },
+      "placeholder.hero": {
+        "en": "Describe what you want to build, / commands, @ files or sessions",
+        "zh": "描述你想要构建的内容, / 调用指令, @ 文件或对话"
+      },
+      "input.send": {
+        "en": "Send message",
+        "zh": "发送消息"
+      },
+      "input.stop": {
+        "en": "Stop generating",
+        "zh": "停止生成"
+      }
+    },
+    "chat": {
+      "view.chat": {
+        "en": "Chat",
+        "zh": "对话"
+      }
+    },
+    "command": {
+      "search.placeholder": {
+        "en": "Search…",
+        "zh": "搜索…"
+      }
+    },
+    "model": {
+      "trigger.fallback": {
+        "en": "Select model",
+        "zh": "选择模型"
+      },
+      "menu.model": {
+        "en": "Model",
+        "zh": "模型"
+      }
+    },
+    "approval": {
+      "waiting": {
+        "en": "Waiting for approval",
+        "zh": "等待审批"
+      },
+      "reject": {
+        "en": "Reject",
+        "zh": "拒绝"
+      }
+    },
+    "question": {
+      "action.next": {
+        "en": "Next",
+        "zh": "下一题"
+      },
+      "option.recommended": {
+        "en": "Recommended",
+        "zh": "推荐"
+      }
+    },
+    "plan": {
+      "chip.label": {
+        "en": "Plan",
+        "zh": "Plan"
+      }
+    },
+    "workspace": {
+      "section.workspaces": {
+        "en": "Workspaces",
+        "zh": "工作区"
+      },
+      "section.sessions": {
+        "en": "Sessions",
+        "zh": "会话"
+      },
+      "search.placeholder": {
+        "en": "Search sessions...",
+        "zh": "搜索会话…"
+      }
+    },
+    "feedback": {
+      "action.like": {
+        "en": "Good response",
+        "zh": "好的回答"
+      },
+      "action.dislike": {
+        "en": "Bad response",
+        "zh": "有问题的回答"
+      }
+    },
+    "job": {
+      "status.running": {
+        "en": "running",
+        "zh": "运行中"
+      }
+    }
+  }
+}

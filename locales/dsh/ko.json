@@ -1,0 +1,83 @@
+{
+  "code": "ko",
+  "namespaces": {
+    "common": {
+      "ok": "확인",
+      "cancel": "취소",
+      "close": "닫기",
+      "copy": "복사",
+      "copied": "복사됨",
+      "copy.failed": "복사 실패",
+      "copy.value": "값 복사",
+      "retry": "다시 시도",
+      "loading": "불러오는 중…",
+      "load.failed": "불러오지 못했습니다",
+      "submit": "제출",
+      "submitting": "제출 중…",
+      "next": "다음",
+      "previous": "이전",
+      "skip": "건너뛰기",
+      "delete": "삭제",
+      "edit": "편집",
+      "save": "저장",
+      "search": "검색",
+      "more": "더보기",
+      "collapse": "접기",
+      "expand": "펼치기",
+      "back": "뒤로",
+      "brand.localBuild": "DSH 로컬 빌드",
+      "unknown": "알 수 없음",
+      "none": "없음",
+      "truncated": "잘림",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "설정",
+      "title": "설정"
+    },
+    "sidebar": {
+      "session.new": "새 세션",
+      "toggle.open": "사이드바 열기"
+    },
+    "conversation": {
+      "placeholder.default": "메시지를 보내거나 작업 실행, / 명령어, @ 파일 또는 세션",
+      "placeholder.hero": "만들고 싶은 것을 설명하세요, / 명령어, @ 파일 또는 세션",
+      "input.send": "메시지 보내기",
+      "input.stop": "생성 중지"
+    },
+    "chat": {
+      "view.chat": "채팅"
+    },
+    "command": {
+      "search.placeholder": "검색…"
+    },
+    "model": {
+      "trigger.fallback": "모델 선택",
+      "menu.model": "모델"
+    },
+    "approval": {
+      "waiting": "승인 대기 중",
+      "reject": "거부"
+    },
+    "question": {
+      "action.next": "다음",
+      "option.recommended": "추천"
+    },
+    "plan": {
+      "chip.label": "계획"
+    },
+    "workspace": {
+      "section.workspaces": "워크스페이스",
+      "section.sessions": "세션",
+      "search.placeholder": "세션 검색..."
+    },
+    "feedback": {
+      "action.like": "좋은 응답",
+      "action.dislike": "나쁜 응답"
+    },
+    "job": {
+      "status.running": "실행 중"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "code": "be",
+  "namespaces": {
+    "common": {
+      "ok": "Добра",
+      "cancel": "Скасаваць",
+      "close": "Закрыць",
+      "copy": "Капіяваць",
+      "copied": "Скапіявана",
+      "copy.failed": "Не ўдалося скапіяваць",
+      "copy.value": "Скапіяваць значэнне",
+      "retry": "Паўтарыць",
+      "loading": "Загрузка…",
+      "load.failed": "Не ўдалося загрузіць",
+      "submit": "Адправіць",
+      "submitting": "Адпраўка…",
+      "next": "Далей",
+      "previous": "Папярэдні",
+      "skip": "Прапусціць",
+      "delete": "Выдаліць",
+      "edit": "Рэдагаваць",
+      "save": "Захаваць",
+      "search": "Пошук",
+      "more": "Яшчэ",
+      "collapse": "Згарнуць",
+      "expand": "Разгарнуць",
+      "back": "Назад",
+      "brand.localBuild": "Лакальная зборка DSH",
+      "unknown": "Невядома",
+      "none": "Няма",
+      "truncated": "Абрэзана",
+      "number.thousand": "{value} тыс.",
+      "number.million": "{value} млн"
+    },
+    "settings": {
+      "trigger": "Налады",
+      "title": "Налады"
+    },
+    "sidebar": {
+      "session.new": "Новы сеанс",
+      "toggle.open": "Адкрыць бакавую панэль"
+    },
+    "conversation": {
+      "placeholder.default": "Напішыце паведамленне або запусціце задачу, / каманды, @ файлы або сеансы",
+      "placeholder.hero": "Апішыце, што трэба стварыць, / каманды, @ файлы або сеансы",
+      "input.send": "Адправіць паведамленне",
+      "input.stop": "Спыніць генерацыю"
+    },
+    "chat": {
+      "view.chat": "Чат"
+    },
+    "command": {
+      "search.placeholder": "Пошук…"
+    },
+    "model": {
+      "trigger.fallback": "Выбраць мадэль",
+      "menu.model": "Мадэль"
+    },
+    "approval": {
+      "waiting": "Чакае адабрэння",
+      "reject": "Адхіліць"
+    },
+    "question": {
+      "action.next": "Далей",
+      "option.recommended": "Рэкамендавана"
+    },
+    "plan": {
+      "chip.label": "План"
+    },
+    "workspace": {
+      "section.workspaces": "Прасторы",
+      "section.sessions": "Сеансы",
+      "search.placeholder": "Пошук сеансаў..."
+    },
+    "feedback": {
+      "action.like": "Добры адказ",
+      "action.dislike": "Дрэнны адказ"
+    },
+    "job": {
+      "status.running": "выконваецца"
+    }
+  }
+}

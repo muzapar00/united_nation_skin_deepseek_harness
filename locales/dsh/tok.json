@@ -1,0 +1,83 @@
+{
+  "code": "tok",
+  "namespaces": {
+    "common": {
+      "ok": "pona",
+      "cancel": "ala",
+      "close": "o pini",
+      "copy": "o jo",
+      "copied": "kama jo",
+      "copy.failed": "jo li pakala",
+      "copy.value": "o jo e ijo",
+      "retry": "o pali sin",
+      "loading": "ona li kama…",
+      "load.failed": "ona li pakala",
+      "submit": "o pana",
+      "submitting": "ona li pana…",
+      "next": "o tawa",
+      "previous": "o tawa monsi",
+      "skip": "weka",
+      "delete": "o weka",
+      "edit": "o ante",
+      "save": "o awen",
+      "search": "o alasa",
+      "more": "mute",
+      "collapse": "o lili",
+      "expand": "o suli",
+      "back": "o tawa monsi",
+      "brand.localBuild": "DSH pi ma ni",
+      "unknown": "sona ala",
+      "none": "ijo ala",
+      "truncated": "kipisi",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "nasin ilo",
+      "title": "nasin ilo"
+    },
+    "sidebar": {
+      "session.new": "tenpo toki sin",
+      "toggle.open": "o open e lipu poka"
+    },
+    "conversation": {
+      "placeholder.default": "o toki anu pali, / nasin, @ lipu anu tenpo toki",
+      "placeholder.hero": "o toki e pali pi wile sina, / nasin, @ lipu anu tenpo toki",
+      "input.send": "o pana e toki",
+      "input.stop": "o pini e pali"
+    },
+    "chat": {
+      "view.chat": "toki"
+    },
+    "command": {
+      "search.placeholder": "o alasa…"
+    },
+    "model": {
+      "trigger.fallback": "o jo e ilo toki",
+      "menu.model": "ilo toki"
+    },
+    "approval": {
+      "waiting": "o awen e pona",
+      "reject": "o pana ala e pona"
+    },
+    "question": {
+      "action.next": "o tawa",
+      "option.recommended": "ni li pona"
+    },
+    "plan": {
+      "chip.label": "nasin"
+    },
+    "workspace": {
+      "section.workspaces": "ma pali",
+      "section.sessions": "tenpo toki",
+      "search.placeholder": "o alasa e tenpo toki..."
+    },
+    "feedback": {
+      "action.like": "pona",
+      "action.dislike": "ike"
+    },
+    "job": {
+      "status.running": "pali"
+    }
+  }
+}

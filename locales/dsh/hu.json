@@ -1,0 +1,83 @@
+{
+  "code": "hu",
+  "namespaces": {
+    "common": {
+      "ok": "OK",
+      "cancel": "Mégse",
+      "close": "Bezárás",
+      "copy": "Másolás",
+      "copied": "Másolva",
+      "copy.failed": "A másolás nem sikerült",
+      "copy.value": "Érték másolása",
+      "retry": "Újra",
+      "loading": "Betöltés…",
+      "load.failed": "A betöltés nem sikerült",
+      "submit": "Küldés",
+      "submitting": "Küldés…",
+      "next": "Tovább",
+      "previous": "Előző",
+      "skip": "Kihagyás",
+      "delete": "Törlés",
+      "edit": "Szerkesztés",
+      "save": "Mentés",
+      "search": "Keresés",
+      "more": "Továbbiak",
+      "collapse": "Összecsukás",
+      "expand": "Kibontás",
+      "back": "Vissza",
+      "brand.localBuild": "DSH – helyi build",
+      "unknown": "Ismeretlen",
+      "none": "Nincs",
+      "truncated": "Csonkolt",
+      "number.thousand": "{value} e",
+      "number.million": "{value} M"
+    },
+    "settings": {
+      "trigger": "Beállítások",
+      "title": "Beállítások"
+    },
+    "sidebar": {
+      "session.new": "Új munkamenet",
+      "toggle.open": "Oldalsáv megnyitása"
+    },
+    "conversation": {
+      "placeholder.default": "Üzenet írása vagy feladat indítása, / parancsok, @ fájlok vagy munkamenetek",
+      "placeholder.hero": "Írd le, mit szeretnél létrehozni, / parancsok, @ fájlok vagy munkamenetek",
+      "input.send": "Üzenet küldése",
+      "input.stop": "Generálás leállítása"
+    },
+    "chat": {
+      "view.chat": "Csevegés"
+    },
+    "command": {
+      "search.placeholder": "Keresés…"
+    },
+    "model": {
+      "trigger.fallback": "Modell kiválasztása",
+      "menu.model": "Modell"
+    },
+    "approval": {
+      "waiting": "Jóváhagyásra vár",
+      "reject": "Elutasítás"
+    },
+    "question": {
+      "action.next": "Tovább",
+      "option.recommended": "Ajánlott"
+    },
+    "plan": {
+      "chip.label": "Terv"
+    },
+    "workspace": {
+      "section.workspaces": "Munkaterületek",
+      "section.sessions": "Munkamenetek",
+      "search.placeholder": "Munkamenetek keresése..."
+    },
+    "feedback": {
+      "action.like": "Jó válasz",
+      "action.dislike": "Rossz válasz"
+    },
+    "job": {
+      "status.running": "fut"
+    }
+  }
+}

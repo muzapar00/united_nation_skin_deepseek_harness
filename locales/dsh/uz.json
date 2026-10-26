@@ -1,0 +1,83 @@
+{
+  "code": "uz",
+  "namespaces": {
+    "common": {
+      "ok": "Xoʻp",
+      "cancel": "Bekor qilish",
+      "close": "Yopish",
+      "copy": "Nusxalash",
+      "copied": "Nusxalandi",
+      "copy.failed": "Nusxalash amalga oshmadi",
+      "copy.value": "Qiymatni nusxalash",
+      "retry": "Qayta urinish",
+      "loading": "Yuklanmoqda…",
+      "load.failed": "Yuklab boʻlmadi",
+      "submit": "Yuborish",
+      "submitting": "Yuborilmoqda…",
+      "next": "Keyingi",
+      "previous": "Oldingi",
+      "skip": "Oʻtkazib yuborish",
+      "delete": "Oʻchirish",
+      "edit": "Tahrirlash",
+      "save": "Saqlash",
+      "search": "Qidirish",
+      "more": "Koʻproq",
+      "collapse": "Yigʻish",
+      "expand": "Yoyish",
+      "back": "Orqaga",
+      "brand.localBuild": "DSH mahalliy versiyasi",
+      "unknown": "Nomaʼlum",
+      "none": "Yoʻq",
+      "truncated": "Qisqartirilgan",
+      "number.thousand": "{value} ming",
+      "number.million": "{value} mln"
+    },
+    "settings": {
+      "trigger": "Sozlamalar",
+      "title": "Sozlamalar"
+    },
+    "sidebar": {
+      "session.new": "Yangi sessiya",
+      "toggle.open": "Yon panelni ochish"
+    },
+    "conversation": {
+      "placeholder.default": "Xabar yozing yoki vazifa ishga tushiring, / buyruqlar, @ fayllar yoki sessiyalar",
+      "placeholder.hero": "Nima qurmoqchi ekanligingizni tasvirlab bering, / buyruqlar, @ fayllar yoki sessiyalar",
+      "input.send": "Xabar yuborish",
+      "input.stop": "Generatsiyani toʻxtatish"
+    },
+    "chat": {
+      "view.chat": "Suhbat"
+    },
+    "command": {
+      "search.placeholder": "Qidirish…"
+    },
+    "model": {
+      "trigger.fallback": "Model tanlash",
+      "menu.model": "Model"
+    },
+    "approval": {
+      "waiting": "Tasdiq kutilmoqda",
+      "reject": "Rad etish"
+    },
+    "question": {
+      "action.next": "Keyingi",
+      "option.recommended": "Tavsiya etiladi"
+    },
+    "plan": {
+      "chip.label": "Reja"
+    },
+    "workspace": {
+      "section.workspaces": "Ish maydonlari",
+      "section.sessions": "Sessiyalar",
+      "search.placeholder": "Sessiyalarni qidirish..."
+    },
+    "feedback": {
+      "action.like": "Yaxshi javob",
+      "action.dislike": "Yomon javob"
+    },
+    "job": {
+      "status.running": "bajarilmoqda"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "code": "mr",
+  "namespaces": {
+    "common": {
+      "ok": "ठीक आहे",
+      "cancel": "रद्द करा",
+      "close": "बंद करा",
+      "copy": "कॉपी करा",
+      "copied": "कॉपी झाले",
+      "copy.failed": "कॉपी अयशस्वी",
+      "copy.value": "मूल्य कॉपी करा",
+      "retry": "पुन्हा प्रयत्न करा",
+      "loading": "लोड होत आहे…",
+      "load.failed": "लोड करण्यात अयशस्वी",
+      "submit": "सबमिट करा",
+      "submitting": "सबमिट होत आहे…",
+      "next": "पुढे",
+      "previous": "मागे",
+      "skip": "वगळा",
+      "delete": "हटवा",
+      "edit": "संपादित करा",
+      "save": "जतन करा",
+      "search": "शोधा",
+      "more": "अधिक",
+      "collapse": "संकुचित करा",
+      "expand": "विस्तारित करा",
+      "back": "मागे",
+      "brand.localBuild": "DSH स्थानिक बिल्ड",
+      "unknown": "अज्ञात",
+      "none": "काहीही नाही",
+      "truncated": "संक्षिप्त केलेले",
+      "number.thousand": "{value} हजार",
+      "number.million": "{value} दशलक्ष"
+    },
+    "settings": {
+      "trigger": "सेटिंग्ज",
+      "title": "सेटिंग्ज"
+    },
+    "sidebar": {
+      "session.new": "नवीन सत्र",
+      "toggle.open": "साइडबार उघडा"
+    },
+    "conversation": {
+      "placeholder.default": "संदेश पाठवा किंवा कार्य चालवा, / आदेश, @ फाइली किंवा सत्रे",
+      "placeholder.hero": "तुम्हाला काय तयार करायचे आहे ते सांगा, / आदेश, @ फाइली किंवा सत्रे",
+      "input.send": "संदेश पाठवा",
+      "input.stop": "तयार करणे थांबवा"
+    },
+    "chat": {
+      "view.chat": "चॅट"
+    },
+    "command": {
+      "search.placeholder": "शोधा…"
+    },
+    "model": {
+      "trigger.fallback": "मॉडेल निवडा",
+      "menu.model": "मॉडेल"
+    },
+    "approval": {
+      "waiting": "मंजुरीची प्रतीक्षा",
+      "reject": "नकार द्या"
+    },
+    "question": {
+      "action.next": "पुढील",
+      "option.recommended": "शिफारस केलेले"
+    },
+    "plan": {
+      "chip.label": "योजना"
+    },
+    "workspace": {
+      "section.workspaces": "वर्कस्पेस",
+      "section.sessions": "सत्रे",
+      "search.placeholder": "सत्रे शोधा…"
+    },
+    "feedback": {
+      "action.like": "चांगले उत्तर",
+      "action.dislike": "वाईट उत्तर"
+    },
+    "job": {
+      "status.running": "सुरू आहे"
+    }
+  }
+}

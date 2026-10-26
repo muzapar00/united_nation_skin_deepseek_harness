@@ -1,0 +1,83 @@
+{
+  "code": "is",
+  "namespaces": {
+    "common": {
+      "ok": "Í lagi",
+      "cancel": "Hætta við",
+      "close": "Loka",
+      "copy": "Afrita",
+      "copied": "Afritað",
+      "copy.failed": "Afritun mistókst",
+      "copy.value": "Afrita gildi",
+      "retry": "Reyna aftur",
+      "loading": "Hleður…",
+      "load.failed": "Mistókst að hlaða",
+      "submit": "Senda",
+      "submitting": "Sendir…",
+      "next": "Næst",
+      "previous": "Fyrri",
+      "skip": "Sleppa",
+      "delete": "Eyða",
+      "edit": "Breyta",
+      "save": "Vista",
+      "search": "Leita",
+      "more": "Meira",
+      "collapse": "Fella saman",
+      "expand": "Fella út",
+      "back": "Til baka",
+      "brand.localBuild": "DSH staðbundin bygging",
+      "unknown": "Óþekkt",
+      "none": "Ekkert",
+      "truncated": "Stytt",
+      "number.thousand": "{value} þús.",
+      "number.million": "{value} millj."
+    },
+    "settings": {
+      "trigger": "Stillingar",
+      "title": "Stillingar"
+    },
+    "sidebar": {
+      "session.new": "Nýtt samtal",
+      "toggle.open": "Opna hliðarspjald"
+    },
+    "conversation": {
+      "placeholder.default": "Skrifaðu skilaboð eða keyrðu verkefni, / skipanir, @ skrár eða samtöl",
+      "placeholder.hero": "Lýstu því sem þú vilt byggja, / skipanir, @ skrár eða samtöl",
+      "input.send": "Senda skilaboð",
+      "input.stop": "Stöðva myndun"
+    },
+    "chat": {
+      "view.chat": "Spjall"
+    },
+    "command": {
+      "search.placeholder": "Leita…"
+    },
+    "model": {
+      "trigger.fallback": "Veldu líkan",
+      "menu.model": "Líkan"
+    },
+    "approval": {
+      "waiting": "Bíður samþykkis",
+      "reject": "Hafna"
+    },
+    "question": {
+      "action.next": "Næst",
+      "option.recommended": "Mælt með"
+    },
+    "plan": {
+      "chip.label": "Áætlun"
+    },
+    "workspace": {
+      "section.workspaces": "Vinnusvæði",
+      "section.sessions": "Samtöl",
+      "search.placeholder": "Leita í samtölum..."
+    },
+    "feedback": {
+      "action.like": "Gott svar",
+      "action.dislike": "Slæmt svar"
+    },
+    "job": {
+      "status.running": "í gangi"
+    }
+  }
+}

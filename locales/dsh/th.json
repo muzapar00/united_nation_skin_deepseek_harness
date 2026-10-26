@@ -1,0 +1,83 @@
+{
+  "code": "th",
+  "namespaces": {
+    "common": {
+      "ok": "ตกลง",
+      "cancel": "ยกเลิก",
+      "close": "ปิด",
+      "copy": "คัดลอก",
+      "copied": "คัดลอกแล้ว",
+      "copy.failed": "คัดลอกไม่สำเร็จ",
+      "copy.value": "คัดลอกค่า",
+      "retry": "ลองใหม่",
+      "loading": "กำลังโหลด…",
+      "load.failed": "โหลดไม่สำเร็จ",
+      "submit": "ส่ง",
+      "submitting": "กำลังส่ง…",
+      "next": "ถัดไป",
+      "previous": "ก่อนหน้า",
+      "skip": "ข้าม",
+      "delete": "ลบ",
+      "edit": "แก้ไข",
+      "save": "บันทึก",
+      "search": "ค้นหา",
+      "more": "เพิ่มเติม",
+      "collapse": "ย่อ",
+      "expand": "ขยาย",
+      "back": "ย้อนกลับ",
+      "brand.localBuild": "DSH บิลด์ในเครื่อง",
+      "unknown": "ไม่ทราบ",
+      "none": "ไม่มี",
+      "truncated": "ถูกตัดทอน",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "การตั้งค่า",
+      "title": "การตั้งค่า"
+    },
+    "sidebar": {
+      "session.new": "เซสชันใหม่",
+      "toggle.open": "เปิดแถบด้านข้าง"
+    },
+    "conversation": {
+      "placeholder.default": "พิมพ์ข้อความหรือรันงาน, / คำสั่ง, @ ไฟล์หรือเซสชัน",
+      "placeholder.hero": "อธิบายสิ่งที่คุณอยากสร้าง, / คำสั่ง, @ ไฟล์หรือเซสชัน",
+      "input.send": "ส่งข้อความ",
+      "input.stop": "หยุดสร้าง"
+    },
+    "chat": {
+      "view.chat": "แชต"
+    },
+    "command": {
+      "search.placeholder": "ค้นหา…"
+    },
+    "model": {
+      "trigger.fallback": "เลือกโมเดล",
+      "menu.model": "โมเดล"
+    },
+    "approval": {
+      "waiting": "กำลังรอการอนุมัติ",
+      "reject": "ปฏิเสธ"
+    },
+    "question": {
+      "action.next": "ถัดไป",
+      "option.recommended": "แนะนำ"
+    },
+    "plan": {
+      "chip.label": "แผน"
+    },
+    "workspace": {
+      "section.workspaces": "พื้นที่ทำงาน",
+      "section.sessions": "เซสชัน",
+      "search.placeholder": "ค้นหาเซสชัน..."
+    },
+    "feedback": {
+      "action.like": "คำตอบที่ดี",
+      "action.dislike": "คำตอบที่ไม่ดี"
+    },
+    "job": {
+      "status.running": "กำลังทำงาน"
+    }
+  }
+}

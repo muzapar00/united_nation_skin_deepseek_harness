@@ -1,0 +1,83 @@
+{
+  "code": "nb",
+  "namespaces": {
+    "common": {
+      "ok": "OK",
+      "cancel": "Avbryt",
+      "close": "Lukk",
+      "copy": "Kopier",
+      "copied": "Kopiert",
+      "copy.failed": "Kopiering mislyktes",
+      "copy.value": "Kopier verdi",
+      "retry": "Prøv igjen",
+      "loading": "Laster inn…",
+      "load.failed": "Kunne ikke laste inn",
+      "submit": "Send inn",
+      "submitting": "Sender…",
+      "next": "Neste",
+      "previous": "Forrige",
+      "skip": "Hopp over",
+      "delete": "Slett",
+      "edit": "Rediger",
+      "save": "Lagre",
+      "search": "Søk",
+      "more": "Mer",
+      "collapse": "Skjul",
+      "expand": "Utvid",
+      "back": "Tilbake",
+      "brand.localBuild": "Lokal DSH-build",
+      "unknown": "Ukjent",
+      "none": "Ingen",
+      "truncated": "Avkortet",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Innstillinger",
+      "title": "Innstillinger"
+    },
+    "sidebar": {
+      "session.new": "Ny økt",
+      "toggle.open": "Åpne sidepanelet"
+    },
+    "conversation": {
+      "placeholder.default": "Send en melding eller kjør en oppgave, / kommandoer, @ filer eller økter",
+      "placeholder.hero": "Beskriv hva du vil bygge, / kommandoer, @ filer eller økter",
+      "input.send": "Send melding",
+      "input.stop": "Stopp genereringen"
+    },
+    "chat": {
+      "view.chat": "Chat"
+    },
+    "command": {
+      "search.placeholder": "Søk…"
+    },
+    "model": {
+      "trigger.fallback": "Velg modell",
+      "menu.model": "Modell"
+    },
+    "approval": {
+      "waiting": "Venter på godkjenning",
+      "reject": "Avvis"
+    },
+    "question": {
+      "action.next": "Neste",
+      "option.recommended": "Anbefalt"
+    },
+    "plan": {
+      "chip.label": "Plan"
+    },
+    "workspace": {
+      "section.workspaces": "Arbeidsområder",
+      "section.sessions": "Økter",
+      "search.placeholder": "Søk i økter..."
+    },
+    "feedback": {
+      "action.like": "Godt svar",
+      "action.dislike": "Dårlig svar"
+    },
+    "job": {
+      "status.running": "kjører"
+    }
+  }
+}

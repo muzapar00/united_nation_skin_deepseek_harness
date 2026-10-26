@@ -1,0 +1,83 @@
+{
+  "code": "ka",
+  "namespaces": {
+    "common": {
+      "ok": "კარგი",
+      "cancel": "გაუქმება",
+      "close": "დახურვა",
+      "copy": "კოპირება",
+      "copied": "დაკოპირებულია",
+      "copy.failed": "კოპირება ვერ მოხერხდა",
+      "copy.value": "მნიშვნელობის კოპირება",
+      "retry": "ხელახლა ცდა",
+      "loading": "იტვირთება…",
+      "load.failed": "ჩატვირთვა ვერ მოხერხდა",
+      "submit": "გაგზავნა",
+      "submitting": "იგზავნება…",
+      "next": "შემდეგი",
+      "previous": "წინა",
+      "skip": "გამოტოვება",
+      "delete": "წაშლა",
+      "edit": "რედაქტირება",
+      "save": "შენახვა",
+      "search": "ძიება",
+      "more": "მეტი",
+      "collapse": "ჩაკეცვა",
+      "expand": "გაშლა",
+      "back": "უკან",
+      "brand.localBuild": "DSH-ის ლოკალური ვერსია",
+      "unknown": "უცნობი",
+      "none": "არცერთი",
+      "truncated": "შეკვეცილი",
+      "number.thousand": "{value} ათ.",
+      "number.million": "{value} მლნ"
+    },
+    "settings": {
+      "trigger": "პარამეტრები",
+      "title": "პარამეტრები"
+    },
+    "sidebar": {
+      "session.new": "ახალი სესია",
+      "toggle.open": "გვერდითი პანელის გახსნა"
+    },
+    "conversation": {
+      "placeholder.default": "მოწერეთ შეტყობინება ან გაუშვით ამოცანა, / ბრძანებები, @ ფაილები ან სესიები",
+      "placeholder.hero": "აღწერეთ, რისი შექმნაც გსურთ, / ბრძანებები, @ ფაილები ან სესიები",
+      "input.send": "შეტყობინების გაგზავნა",
+      "input.stop": "გენერაციის შეჩერება"
+    },
+    "chat": {
+      "view.chat": "ჩატი"
+    },
+    "command": {
+      "search.placeholder": "ძიება…"
+    },
+    "model": {
+      "trigger.fallback": "მოდელის არჩევა",
+      "menu.model": "მოდელი"
+    },
+    "approval": {
+      "waiting": "ელოდება დამტკიცებას",
+      "reject": "უარყოფა"
+    },
+    "question": {
+      "action.next": "შემდეგი",
+      "option.recommended": "რეკომენდებული"
+    },
+    "plan": {
+      "chip.label": "გეგმა"
+    },
+    "workspace": {
+      "section.workspaces": "სამუშაო სივრცეები",
+      "section.sessions": "სესიები",
+      "search.placeholder": "სესიების ძიება..."
+    },
+    "feedback": {
+      "action.like": "კარგი პასუხი",
+      "action.dislike": "ცუდი პასუხი"
+    },
+    "job": {
+      "status.running": "მიმდინარეობს"
+    }
+  }
+}

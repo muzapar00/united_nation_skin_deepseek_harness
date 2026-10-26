@@ -1,0 +1,83 @@
+{
+  "code": "fi",
+  "namespaces": {
+    "common": {
+      "ok": "OK",
+      "cancel": "Peruuta",
+      "close": "Sulje",
+      "copy": "Kopioi",
+      "copied": "Kopioitu",
+      "copy.failed": "Kopiointi epäonnistui",
+      "copy.value": "Kopioi arvo",
+      "retry": "Yritä uudelleen",
+      "loading": "Ladataan…",
+      "load.failed": "Lataus epäonnistui",
+      "submit": "Lähetä",
+      "submitting": "Lähetetään…",
+      "next": "Seuraava",
+      "previous": "Edellinen",
+      "skip": "Ohita",
+      "delete": "Poista",
+      "edit": "Muokkaa",
+      "save": "Tallenna",
+      "search": "Hae",
+      "more": "Lisää",
+      "collapse": "Kutista",
+      "expand": "Laajenna",
+      "back": "Takaisin",
+      "brand.localBuild": "DSH paikallinen koontiversio",
+      "unknown": "Tuntematon",
+      "none": "Ei mitään",
+      "truncated": "Katkaistu",
+      "number.thousand": "{value} t.",
+      "number.million": "{value} milj."
+    },
+    "settings": {
+      "trigger": "Asetukset",
+      "title": "Asetukset"
+    },
+    "sidebar": {
+      "session.new": "Uusi istunto",
+      "toggle.open": "Avaa sivupalkki"
+    },
+    "conversation": {
+      "placeholder.default": "Kirjoita viesti tai käynnistä tehtävä, / komennot, @ tiedostot tai istunnot",
+      "placeholder.hero": "Kuvaile, mitä haluat rakentaa, / komennot, @ tiedostot tai istunnot",
+      "input.send": "Lähetä viesti",
+      "input.stop": "Lopeta luonti"
+    },
+    "chat": {
+      "view.chat": "Keskustelu"
+    },
+    "command": {
+      "search.placeholder": "Hae…"
+    },
+    "model": {
+      "trigger.fallback": "Valitse malli",
+      "menu.model": "Malli"
+    },
+    "approval": {
+      "waiting": "Odottaa hyväksyntää",
+      "reject": "Hylkää"
+    },
+    "question": {
+      "action.next": "Seuraava",
+      "option.recommended": "Suositeltu"
+    },
+    "plan": {
+      "chip.label": "Suunnitelma"
+    },
+    "workspace": {
+      "section.workspaces": "Työtilat",
+      "section.sessions": "Istunnot",
+      "search.placeholder": "Hae istuntoja..."
+    },
+    "feedback": {
+      "action.like": "Hyvä vastaus",
+      "action.dislike": "Huono vastaus"
+    },
+    "job": {
+      "status.running": "käynnissä"
+    }
+  }
+}

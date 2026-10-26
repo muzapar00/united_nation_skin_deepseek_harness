@@ -1,0 +1,83 @@
+{
+  "code": "km",
+  "namespaces": {
+    "common": {
+      "ok": "យល់ព្រម",
+      "cancel": "បោះបង់",
+      "close": "បិទ",
+      "copy": "ចម្លង",
+      "copied": "បានចម្លង",
+      "copy.failed": "ចម្លងបរាជ័យ",
+      "copy.value": "ចម្លងតម្លៃ",
+      "retry": "ព្យាយាមម្តងទៀត",
+      "loading": "កំពុងផ្ទុក…",
+      "load.failed": "ផ្ទុកបរាជ័យ",
+      "submit": "ដាក់ស្នើ",
+      "submitting": "កំពុងដាក់ស្នើ…",
+      "next": "បន្ទាប់",
+      "previous": "មុន",
+      "skip": "រំលង",
+      "delete": "លុប",
+      "edit": "កែសម្រួល",
+      "save": "រក្សាទុក",
+      "search": "ស្វែងរក",
+      "more": "បន្ថែម",
+      "collapse": "បង្រួម",
+      "expand": "ពង្រីក",
+      "back": "ត្រឡប់ក្រោយ",
+      "brand.localBuild": "DSH កំណែសាងសង់ក្នុងម៉ាស៊ីន",
+      "unknown": "មិនស្គាល់",
+      "none": "គ្មាន",
+      "truncated": "ត្រូវបានកាត់",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "ការកំណត់",
+      "title": "ការកំណត់"
+    },
+    "sidebar": {
+      "session.new": "វគ្គថ្មី",
+      "toggle.open": "បើករបារចំហៀង"
+    },
+    "conversation": {
+      "placeholder.default": "ផ្ញើសារ ឬដំណើរការកិច្ចការ, / ពាក្យបញ្ជា, @ ឯកសារ ឬវគ្គ",
+      "placeholder.hero": "ពិពណ៌នាអ្វីដែលអ្នកចង់បង្កើត, / ពាក្យបញ្ជា, @ ឯកសារ ឬវគ្គ",
+      "input.send": "ផ្ញើសារ",
+      "input.stop": "បញ្ឈប់ការបង្កើត"
+    },
+    "chat": {
+      "view.chat": "ការសន្ទនា"
+    },
+    "command": {
+      "search.placeholder": "ស្វែងរក…"
+    },
+    "model": {
+      "trigger.fallback": "ជ្រើសរើសម៉ូដែល",
+      "menu.model": "ម៉ូដែល"
+    },
+    "approval": {
+      "waiting": "កំពុងរង់ចាំការអនុម័ត",
+      "reject": "បដិសេធ"
+    },
+    "question": {
+      "action.next": "បន្ទាប់",
+      "option.recommended": "ណែនាំ"
+    },
+    "plan": {
+      "chip.label": "ផែនការ"
+    },
+    "workspace": {
+      "section.workspaces": "កន្លែងធ្វើការ",
+      "section.sessions": "វគ្គ",
+      "search.placeholder": "ស្វែងរកវគ្គ..."
+    },
+    "feedback": {
+      "action.like": "ចម្លើយល្អ",
+      "action.dislike": "ចម្លើយមិនល្អ"
+    },
+    "job": {
+      "status.running": "កំពុងដំណើរការ"
+    }
+  }
+}

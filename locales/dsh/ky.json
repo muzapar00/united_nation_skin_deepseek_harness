@@ -1,0 +1,83 @@
+{
+  "code": "ky",
+  "namespaces": {
+    "common": {
+      "ok": "Макул",
+      "cancel": "Жокко чыгаруу",
+      "close": "Жабуу",
+      "copy": "Көчүрүү",
+      "copied": "Көчүрүлдү",
+      "copy.failed": "Көчүрүү ишке ашкан жок",
+      "copy.value": "Маанини көчүрүү",
+      "retry": "Кайталоо",
+      "loading": "Жүктөлүүдө…",
+      "load.failed": "Жүктөө ишке ашкан жок",
+      "submit": "Жөнөтүү",
+      "submitting": "Жөнөтүлүүдө…",
+      "next": "Кийинки",
+      "previous": "Мурунку",
+      "skip": "Өткөрүп жиберүү",
+      "delete": "Жок кылуу",
+      "edit": "Оңдоо",
+      "save": "Сактоо",
+      "search": "Издөө",
+      "more": "Көбүрөөк",
+      "collapse": "Жыйноо",
+      "expand": "Жайып көрсөтүү",
+      "back": "Артка",
+      "brand.localBuild": "DSH жергиликтүү версиясы",
+      "unknown": "Белгисиз",
+      "none": "Жок",
+      "truncated": "Кыскартылган",
+      "number.thousand": "{value} миң",
+      "number.million": "{value} млн"
+    },
+    "settings": {
+      "trigger": "Жөндөөлөр",
+      "title": "Жөндөөлөр"
+    },
+    "sidebar": {
+      "session.new": "Жаңы сессия",
+      "toggle.open": "Каптал панелди ачуу"
+    },
+    "conversation": {
+      "placeholder.default": "Билдирүү жазыңыз же тапшырма иштетиңиз, / буйруктар, @ файлдар же сессиялар",
+      "placeholder.hero": "Эмне курууну каалайрыңызды сүрөттөп бериңиз, / буйруктар, @ файлдар же сессиялар",
+      "input.send": "Билдирүү жөнөтүү",
+      "input.stop": "Генерацияны токтотуу"
+    },
+    "chat": {
+      "view.chat": "Маек"
+    },
+    "command": {
+      "search.placeholder": "Издөө…"
+    },
+    "model": {
+      "trigger.fallback": "Моделди тандоо",
+      "menu.model": "Модель"
+    },
+    "approval": {
+      "waiting": "Бекитүүнү күтүүдө",
+      "reject": "Четке кагуу"
+    },
+    "question": {
+      "action.next": "Кийинки",
+      "option.recommended": "Сунушталат"
+    },
+    "plan": {
+      "chip.label": "План"
+    },
+    "workspace": {
+      "section.workspaces": "Иш мейкиндиктери",
+      "section.sessions": "Сессиялар",
+      "search.placeholder": "Сессияларды издөө..."
+    },
+    "feedback": {
+      "action.like": "Жакшы жооп",
+      "action.dislike": "Начар жооп"
+    },
+    "job": {
+      "status.running": "аткарылууда"
+    }
+  }
+}

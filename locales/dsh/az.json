@@ -1,0 +1,83 @@
+{
+  "code": "az",
+  "namespaces": {
+    "common": {
+      "ok": "Oldu",
+      "cancel": "Ləğv et",
+      "close": "Bağla",
+      "copy": "Kopyala",
+      "copied": "Kopyalandı",
+      "copy.failed": "Kopyalama alınmadı",
+      "copy.value": "Dəyəri kopyala",
+      "retry": "Yenidən cəhd et",
+      "loading": "Yüklənir…",
+      "load.failed": "Yüklənmədi",
+      "submit": "Göndər",
+      "submitting": "Göndərilir…",
+      "next": "Növbəti",
+      "previous": "Əvvəlki",
+      "skip": "Keç",
+      "delete": "Sil",
+      "edit": "Redaktə et",
+      "save": "Yadda saxla",
+      "search": "Axtar",
+      "more": "Daha çox",
+      "collapse": "Yığ",
+      "expand": "Aç",
+      "back": "Geri",
+      "brand.localBuild": "DSH yerli versiya",
+      "unknown": "Naməlum",
+      "none": "Yoxdur",
+      "truncated": "Kəsilmiş",
+      "number.thousand": "{value} min",
+      "number.million": "{value} mln"
+    },
+    "settings": {
+      "trigger": "Parametrlər",
+      "title": "Parametrlər"
+    },
+    "sidebar": {
+      "session.new": "Yeni sessiya",
+      "toggle.open": "Yan paneli aç"
+    },
+    "conversation": {
+      "placeholder.default": "Mesaj yazın və ya tapşırıq işə salın, / əmrlər, @ fayllar və ya sessiyalar",
+      "placeholder.hero": "Qurmaq istədiyinizi təsvir edin, / əmrlər, @ fayllar və ya sessiyalar",
+      "input.send": "Mesaj göndər",
+      "input.stop": "Generasiyanı dayandır"
+    },
+    "chat": {
+      "view.chat": "Söhbət"
+    },
+    "command": {
+      "search.placeholder": "Axtar…"
+    },
+    "model": {
+      "trigger.fallback": "Model seç",
+      "menu.model": "Model"
+    },
+    "approval": {
+      "waiting": "Təsdiq gözlənilir",
+      "reject": "Rədd et"
+    },
+    "question": {
+      "action.next": "Növbəti",
+      "option.recommended": "Tövsiyə olunur"
+    },
+    "plan": {
+      "chip.label": "Plan"
+    },
+    "workspace": {
+      "section.workspaces": "İş məkanları",
+      "section.sessions": "Sessiyalar",
+      "search.placeholder": "Sessiyalarda axtar..."
+    },
+    "feedback": {
+      "action.like": "Yaxşı cavab",
+      "action.dislike": "Pis cavab"
+    },
+    "job": {
+      "status.running": "icra olunur"
+    }
+  }
+}

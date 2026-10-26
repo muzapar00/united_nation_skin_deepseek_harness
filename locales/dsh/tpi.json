@@ -1,0 +1,83 @@
+{
+  "code": "tpi",
+  "namespaces": {
+    "common": {
+      "ok": "Orait",
+      "cancel": "Nogat",
+      "close": "Pasim",
+      "copy": "Kopim",
+      "copied": "Kopim pinis",
+      "copy.failed": "I no inap kopim",
+      "copy.value": "Kopim dispela valiu",
+      "retry": "Traim gen",
+      "loading": "I stap lout…",
+      "load.failed": "I no inap lout",
+      "submit": "Salim",
+      "submitting": "I stap salim…",
+      "next": "Neks",
+      "previous": "Bipo",
+      "skip": "Skipim",
+      "delete": "Rausim",
+      "edit": "Senisim",
+      "save": "Seivim",
+      "search": "Painim",
+      "more": "Moa",
+      "collapse": "Haitim",
+      "expand": "Souim",
+      "back": "Go bek",
+      "brand.localBuild": "DSH Bilong Dispela Ples",
+      "unknown": "I no save",
+      "none": "I nogat",
+      "truncated": "Katim pinis",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Seting",
+      "title": "Seting"
+    },
+    "sidebar": {
+      "session.new": "Nupela toktok",
+      "toggle.open": "Opim sait"
+    },
+    "conversation": {
+      "placeholder.default": "Salim wanpela tok o mekim wanpela wok, / ol komand, @ ol fail o ol toktok",
+      "placeholder.hero": "Toktok long samting yu laik wokim, / ol komand, @ ol fail o ol toktok",
+      "input.send": "Salim tok",
+      "input.stop": "Stopim wok"
+    },
+    "chat": {
+      "view.chat": "Toktok"
+    },
+    "command": {
+      "search.placeholder": "Painim…"
+    },
+    "model": {
+      "trigger.fallback": "Pikim wanpela model",
+      "menu.model": "Ol model"
+    },
+    "approval": {
+      "waiting": "Wetim tok orait",
+      "reject": "Refusim"
+    },
+    "question": {
+      "action.next": "Neks",
+      "option.recommended": "I gutpela"
+    },
+    "plan": {
+      "chip.label": "Plen"
+    },
+    "workspace": {
+      "section.workspaces": "Ol ples wok",
+      "section.sessions": "Ol toktok",
+      "search.placeholder": "Painim ol toktok…"
+    },
+    "feedback": {
+      "action.like": "Gutpela bekim",
+      "action.dislike": "Nogutpela bekim"
+    },
+    "job": {
+      "status.running": "i ran"
+    }
+  }
+}

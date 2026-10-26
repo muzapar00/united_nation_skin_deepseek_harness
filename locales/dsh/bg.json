@@ -1,0 +1,83 @@
+{
+  "code": "bg",
+  "namespaces": {
+    "common": {
+      "ok": "OK",
+      "cancel": "Отказ",
+      "close": "Затваряне",
+      "copy": "Копиране",
+      "copied": "Копирано",
+      "copy.failed": "Копирането не успя",
+      "copy.value": "Копиране на стойността",
+      "retry": "Опитайте отново",
+      "loading": "Зареждане…",
+      "load.failed": "Зареждането не успя",
+      "submit": "Изпращане",
+      "submitting": "Изпращане…",
+      "next": "Напред",
+      "previous": "Предишно",
+      "skip": "Пропускане",
+      "delete": "Изтриване",
+      "edit": "Редактиране",
+      "save": "Запазване",
+      "search": "Търсене",
+      "more": "Още",
+      "collapse": "Свиване",
+      "expand": "Разгъване",
+      "back": "Назад",
+      "brand.localBuild": "DSH – локално изграждане",
+      "unknown": "Неизвестно",
+      "none": "Няма",
+      "truncated": "Съкратено",
+      "number.thousand": "{value} хил.",
+      "number.million": "{value} млн."
+    },
+    "settings": {
+      "trigger": "Настройки",
+      "title": "Настройки"
+    },
+    "sidebar": {
+      "session.new": "Нова сесия",
+      "toggle.open": "Отваряне на страничната лента"
+    },
+    "conversation": {
+      "placeholder.default": "Изпратете съобщение или стартирайте задача, / команди, @ файлове или сесии",
+      "placeholder.hero": "Опишете какво искате да изградите, / команди, @ файлове или сесии",
+      "input.send": "Изпращане на съобщение",
+      "input.stop": "Спиране на генерирането"
+    },
+    "chat": {
+      "view.chat": "Чат"
+    },
+    "command": {
+      "search.placeholder": "Търсене…"
+    },
+    "model": {
+      "trigger.fallback": "Избор на модел",
+      "menu.model": "Модел"
+    },
+    "approval": {
+      "waiting": "Изчаква одобрение",
+      "reject": "Отхвърляне"
+    },
+    "question": {
+      "action.next": "Напред",
+      "option.recommended": "Препоръчано"
+    },
+    "plan": {
+      "chip.label": "План"
+    },
+    "workspace": {
+      "section.workspaces": "Работни пространства",
+      "section.sessions": "Сесии",
+      "search.placeholder": "Търсене на сесии..."
+    },
+    "feedback": {
+      "action.like": "Добър отговор",
+      "action.dislike": "Лош отговор"
+    },
+    "job": {
+      "status.running": "изпълнява се"
+    }
+  }
+}

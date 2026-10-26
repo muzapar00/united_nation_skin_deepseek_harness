@@ -1,0 +1,83 @@
+{
+  "code": "sk",
+  "namespaces": {
+    "common": {
+      "ok": "OK",
+      "cancel": "Zrušiť",
+      "close": "Zavrieť",
+      "copy": "Kopírovať",
+      "copied": "Skopírované",
+      "copy.failed": "Kopírovanie zlyhalo",
+      "copy.value": "Kopírovať hodnotu",
+      "retry": "Skúsiť znova",
+      "loading": "Načítava sa…",
+      "load.failed": "Načítanie zlyhalo",
+      "submit": "Odoslať",
+      "submitting": "Odosiela sa…",
+      "next": "Ďalej",
+      "previous": "Predchádzajúce",
+      "skip": "Preskočiť",
+      "delete": "Odstrániť",
+      "edit": "Upraviť",
+      "save": "Uložiť",
+      "search": "Hľadať",
+      "more": "Viac",
+      "collapse": "Zbaliť",
+      "expand": "Rozbaliť",
+      "back": "Späť",
+      "brand.localBuild": "DSH – lokálne zostavenie",
+      "unknown": "Neznáme",
+      "none": "Žiadne",
+      "truncated": "Skrátené",
+      "number.thousand": "{value} tis.",
+      "number.million": "{value} mil."
+    },
+    "settings": {
+      "trigger": "Nastavenia",
+      "title": "Nastavenia"
+    },
+    "sidebar": {
+      "session.new": "Nová relácia",
+      "toggle.open": "Otvoriť bočný panel"
+    },
+    "conversation": {
+      "placeholder.default": "Napíšte správu alebo spustite úlohu, / príkazy, @ súbory alebo relácie",
+      "placeholder.hero": "Opíšte, čo chcete vytvoriť, / príkazy, @ súbory alebo relácie",
+      "input.send": "Odoslať správu",
+      "input.stop": "Zastaviť generovanie"
+    },
+    "chat": {
+      "view.chat": "Chat"
+    },
+    "command": {
+      "search.placeholder": "Hľadať…"
+    },
+    "model": {
+      "trigger.fallback": "Vybrať model",
+      "menu.model": "Model"
+    },
+    "approval": {
+      "waiting": "Čaká na schválenie",
+      "reject": "Zamietnuť"
+    },
+    "question": {
+      "action.next": "Ďalej",
+      "option.recommended": "Odporúčané"
+    },
+    "plan": {
+      "chip.label": "Plán"
+    },
+    "workspace": {
+      "section.workspaces": "Pracovné priestory",
+      "section.sessions": "Relácie",
+      "search.placeholder": "Hľadať relácie..."
+    },
+    "feedback": {
+      "action.like": "Dobrá odpoveď",
+      "action.dislike": "Zlá odpoveď"
+    },
+    "job": {
+      "status.running": "beží"
+    }
+  }
+}

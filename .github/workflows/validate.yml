@@ -1,0 +1,25 @@
+name: validate
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Validate language packs
+        run: node scripts/check-locales.mjs
+      - name: Rebuild the client bundle
+        run: node src/build.mjs
+      - name: Committed bundle must match the source
+        run: |
+          if ! git diff --exit-code client.js; then
+            echo "::error::client.js is stale. Run 'node src/build.mjs' and commit the result."
+            exit 1
+          fi

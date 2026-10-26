@@ -1,0 +1,91 @@
+{
+  "language": "fr",
+  "facts": {
+    "founded": "L’Organisation des Nations Unies a été fondée le 24 octobre 1945, date de l’entrée en vigueur de la Charte. Ce jour est célébré chaque année comme la Journée des Nations Unies.",
+    "members": "L’Organisation des Nations Unies compte 193 États Membres. Le Soudan du Sud, qui l’a rejointe en 2011, est le membre le plus récent.",
+    "languages": "L’ONU travaille en six langues officielles : l’arabe, le chinois, l’anglais, le français, le russe et l’espagnol.",
+    "flag": "Le drapeau des Nations Unies a été adopté le 20 octobre 1947 : un fond bleu clair et l’emblème en blanc. Le bleu est la couleur de l’espérance.",
+    "emblem": "L’emblème est une carte du monde en projection azimutale équidistante centrée sur le pôle Nord, entourée de deux rameaux d’olivier : le monde, en paix.",
+    "charter-purposes": "La Charte fixe quatre buts : maintenir la paix et la sécurité internationales, développer entre les nations des relations amicales, coopérer à la solution des problèmes économiques, sociaux et culturels et être un centre où s’harmonisent les efforts des nations.",
+    "we-the-peoples": "La Charte s’ouvre par une formule devenue célèbre : « Nous, peuples des Nations Unies ». Elle a été adoptée à San Francisco en 1945 par 51 membres fondateurs.",
+    "general-assembly": "À l’Assemblée générale, chaque État Membre dispose d’une voix. L’Assemblée se réunit chaque septembre à New York.",
+    "security-council": "Le Conseil de sécurité compte 15 membres : cinq membres permanents et dix élus pour un mandat de deux ans. Il porte la responsabilité principale du maintien de la paix et de la sécurité internationales.",
+    "secretary-general": "Le Secrétaire général est nommé par l’Assemblée générale sur recommandation du Conseil de sécurité, et il porte la parole des peuples du monde.",
+    "members-history": "L’ONU a commencé avec 51 membres en 1945. La décolonisation a fait passer ce nombre au-delà de 100 en 1960, puis à 193 aujourd’hui.",
+    "peacekeeping-1948": "Le maintien de la paix des Nations Unies a commencé en 1948 avec l’Organisme des Nations Unies chargé de la surveillance de la trêve, au Moyen-Orient. Son action se poursuit aujourd’hui.",
+    "peacekeepers": "Depuis 1948, plus de deux millions de Casques bleus de plus de 120 pays ont servi sous le drapeau des Nations Unies.",
+    "peacekeepers-day": "Le 29 mai est la Journée internationale des Casques bleus des Nations Unies, qui rend hommage à ceux qui servent et à ceux qui ont donné leur vie.",
+    "peacekeepers-fallen": "Plus de 4 000 Casques bleus ont perdu la vie au service de la paix. Les Nations Unies se souviennent d’eux et les remercient pour leur service et leur sacrifice.",
+    "peacebuilding": "Le maintien de la paix, ce n’est pas seulement patrouiller. Les Casques bleus protègent les civils, surveillent les cessez-le-feu, enlèvent les mines terrestres, acheminent l’aide et aident à reconstruire écoles et centres de santé.",
+    "udhr": "La Déclaration universelle des droits de l’homme a été adoptée le 10 décembre 1948. Son article premier : « Tous les êtres humains naissent libres et égaux en dignité et en droits ».",
+    "human-rights-day": "Le 10 décembre est la Journée des droits de l’homme, qui marque la date à laquelle la Déclaration universelle a été adoptée en 1948.",
+    "genocide-convention": "En 1948, l’Assemblée générale a adopté la Convention pour la prévention et la répression du crime de génocide, le premier traité des Nations Unies relatif aux droits de l’homme.",
+    "sdgs": "En 2015, les Nations Unies ont adopté les 17 objectifs de développement durable et le Programme de développement durable à l’horizon 2030 : une promesse commune de ne laisser personne de côté.",
+    "no-one-left-behind": "« Ne laisser personne de côté » est la promesse centrale du Programme 2030 : le développement ne compte que s’il parvient aux plus laissés-pour-compte.",
+    "wfp": "Le Programme alimentaire mondial, fondé en 1961, a reçu le prix Nobel de la paix en 2020 pour son action contre la faim.",
+    "who": "L’Organisation mondiale de la Santé a été fondée le 7 avril 1948. Cette date est célébrée aujourd’hui comme la Journée mondiale de la Santé.",
+    "unesco": "L’Acte constitutif de l’UNESCO, adopté en 1945, proclame : « Les guerres prenant naissance dans l’esprit des hommes, c’est dans l’esprit des hommes que doivent être élevées les défenses de la paix ».",
+    "climate": "L’Accord de Paris a été adopté en 2015 dans le cadre de la Convention-cadre des Nations Unies sur les changements climatiques et constitue le plan commun du monde pour limiter le réchauffement climatique.",
+    "anti-fascism": "L’Organisation des Nations Unies est née de la victoire sur le fascisme. Sa Charte s’ouvre sur la résolution de préserver les générations futures du fléau de la guerre.",
+    "wwii-remembrance": "Les 8 et 9 mai sont les Journées du souvenir et de la réconciliation en l’honneur des morts de la Seconde Guerre mondiale, instituées par l’Assemblée générale en 2004.",
+    "holocaust-remembrance": "Le 27 janvier est la Journée internationale dédiée à la mémoire des victimes de l’Holocauste, instituée par l’Assemblée générale en 2005.",
+    "china-founding": "La Chine est membre fondateur de l’Organisation des Nations Unies et membre permanent du Conseil de sécurité. Le 25 octobre 1971, la résolution 2758 (XXVI) de l’Assemblée générale a rétabli tous les droits légitimes de la République populaire de Chine au sein des Nations Unies.",
+    "five-principles": "Les Cinq principes de la coexistence pacifique — le respect mutuel de la souveraineté et de l’intégrité territoriale, la non-agression mutuelle, la non-ingérence dans les affaires intérieures, l’égalité et l’avantage réciproque, la coexistence pacifique — ont été promus par la Chine, l’Inde et le Myanmar en 1954, dans l’esprit de la Charte.",
+    "gdi": "L’Initiative pour le développement mondial a été proposée en 2021 pour orienter le développement mondial vers une voie équilibrée, inclusive et mutuellement bénéfique.",
+    "gsi": "L’Initiative pour la sécurité mondiale a été proposée en 2022 ; elle prône une sécurité commune, globale, coopérative et durable.",
+    "gci": "L’Initiative pour la civilisation mondiale a été proposée en 2023 ; elle appelle au respect de la diversité des civilisations et au progrès commun.",
+    "ggi": "L’Initiative pour la gouvernance mondiale a été proposée en 2025 ; elle appelle à un système de gouvernance mondiale plus juste et plus équitable.",
+    "shared-future": "La vision d’une communauté de destin pour l’humanité a été inscrite dans des documents des Nations Unies, notamment des résolutions du Conseil de sécurité et de l’Assemblée générale.",
+    "un80": "En 2025, les Nations Unies marquent leur 80e anniversaire : quatre-vingts ans d’action pour la paix, la dignité et le développement."
+  },
+  "quotes": {
+    "q-preamble-1": {
+      "text": "Nous, peuples des Nations Unies, résolus à préserver les générations futures du fléau de la guerre qui deux fois en l’espace d’une vie humaine a infligé à l’humanité d’indicibles souffrances.",
+      "src": "Charte des Nations Unies, Préambule"
+    },
+    "q-preamble-2": {
+      "text": "À proclamer à nouveau notre foi dans les droits fondamentaux de l’homme, dans la dignité et la valeur de la personne humaine, dans l’égalité de droits des hommes et des femmes, ainsi que des nations, grandes et petites.",
+      "src": "Charte des Nations Unies, Préambule"
+    },
+    "q-preamble-3": {
+      "text": "À créer les conditions nécessaires au maintien de la justice et du respect des obligations nées des traités et autres sources du droit international.",
+      "src": "Charte des Nations Unies, Préambule"
+    },
+    "q-preamble-4": {
+      "text": "À favoriser le progrès social et instaurer de meilleures conditions de vie dans une liberté plus grande.",
+      "src": "Charte des Nations Unies, Préambule"
+    },
+    "q-preamble-5": {
+      "text": "À pratiquer la tolérance, à vivre en paix l’un avec l’autre dans un esprit de bon voisinage.",
+      "src": "Charte des Nations Unies, Préambule"
+    },
+    "q-preamble-6": {
+      "text": "À unir nos forces pour maintenir la paix et la sécurité internationales.",
+      "src": "Charte des Nations Unies, Préambule"
+    },
+    "q-udhr-1": {
+      "text": "Tous les êtres humains naissent libres et égaux en dignité et en droits. Ils sont doués de raison et de conscience et doivent agir les uns envers les autres dans un esprit de fraternité.",
+      "src": "Déclaration universelle des droits de l’homme, article premier"
+    },
+    "q-udhr-3": {
+      "text": "Tout individu a droit à la vie, à la liberté et à la sûreté de sa personne.",
+      "src": "Déclaration universelle des droits de l’homme, article 3"
+    },
+    "q-udhr-preamble": {
+      "text": "Considérant que la reconnaissance de la dignité inhérente à tous les membres de la famille humaine et de leurs droits égaux et inaliénables constitue le fondement de la liberté, de la justice et de la paix dans le monde.",
+      "src": "Déclaration universelle des droits de l’homme, Préambule"
+    },
+    "q-unesco": {
+      "text": "Les guerres prenant naissance dans l’esprit des hommes, c’est dans l’esprit des hommes que doivent être élevées les défenses de la paix.",
+      "src": "Acte constitutif de l’UNESCO, 1945"
+    },
+    "q-datong": {
+      "text": "Quand la Grande Voie prévaut, le monde est commun à tous.",
+      "src": "Livre des Rites (Liji), Ve siècle avant notre ère"
+    },
+    "q-shared-future": {
+      "text": "Construire une communauté de destin pour l’humanité, c’est faire du bien-être de tous les peuples la mesure de notre œuvre commune.",
+      "src": "Proposition de la Chine aux Nations Unies"
+    }
+  }
+}

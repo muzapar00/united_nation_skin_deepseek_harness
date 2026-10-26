@@ -1,0 +1,83 @@
+{
+  "code": "tg",
+  "namespaces": {
+    "common": {
+      "ok": "Хуб",
+      "cancel": "Бекор кардан",
+      "close": "Пӯшидан",
+      "copy": "Нусхабардорӣ",
+      "copied": "Нусхабардорӣ шуд",
+      "copy.failed": "Нусхабардорӣ нашуд",
+      "copy.value": "Нусхабардории қимат",
+      "retry": "Такрор кардан",
+      "loading": "Боргирӣ…",
+      "load.failed": "Боргирӣ нашуд",
+      "submit": "Ирсол",
+      "submitting": "Ирсол шуда истодааст…",
+      "next": "Баъдӣ",
+      "previous": "Қаблӣ",
+      "skip": "Гузаштан",
+      "delete": "Нест кардан",
+      "edit": "Таҳрир",
+      "save": "Нигоҳ доштан",
+      "search": "Ҷустуҷӯ",
+      "more": "Бештар",
+      "collapse": "Ҷамъ кардан",
+      "expand": "Кушодан",
+      "back": "Бозгашт",
+      "brand.localBuild": "Нусхаи маҳаллии DSH",
+      "unknown": "Номаълум",
+      "none": "Нест",
+      "truncated": "Кӯтоҳшуда",
+      "number.thousand": "{value} ҳазор",
+      "number.million": "{value} млн"
+    },
+    "settings": {
+      "trigger": "Танзимот",
+      "title": "Танзимот"
+    },
+    "sidebar": {
+      "session.new": "Сессияи нав",
+      "toggle.open": "Кушодани панели паҳлӯ"
+    },
+    "conversation": {
+      "placeholder.default": "Паём нависед ё вазифа иҷро кунед, / фармонҳо, @ файлҳо ё сессияҳо",
+      "placeholder.hero": "Тавсиф кунед, ки чӣ мехоҳед созед, / фармонҳо, @ файлҳо ё сессияҳо",
+      "input.send": "Ирсоли паём",
+      "input.stop": "Қатъи генератсия"
+    },
+    "chat": {
+      "view.chat": "Гуфтугӯ"
+    },
+    "command": {
+      "search.placeholder": "Ҷустуҷӯ…"
+    },
+    "model": {
+      "trigger.fallback": "Интихоби модел",
+      "menu.model": "Модел"
+    },
+    "approval": {
+      "waiting": "Дар интизори тасдиқ",
+      "reject": "Рад кардан"
+    },
+    "question": {
+      "action.next": "Баъдӣ",
+      "option.recommended": "Тавсия мешавад"
+    },
+    "plan": {
+      "chip.label": "Нақша"
+    },
+    "workspace": {
+      "section.workspaces": "Фазоҳои корӣ",
+      "section.sessions": "Сессияҳо",
+      "search.placeholder": "Ҷустуҷӯи сессияҳо..."
+    },
+    "feedback": {
+      "action.like": "Ҷавоби хуб",
+      "action.dislike": "Ҷавоби бад"
+    },
+    "job": {
+      "status.running": "иҷро шуда истодааст"
+    }
+  }
+}

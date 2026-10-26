@@ -1,0 +1,83 @@
+{
+  "code": "da",
+  "namespaces": {
+    "common": {
+      "ok": "OK",
+      "cancel": "Annuller",
+      "close": "Luk",
+      "copy": "Kopier",
+      "copied": "Kopieret",
+      "copy.failed": "Kopiering mislykkedes",
+      "copy.value": "Kopier værdi",
+      "retry": "Prøv igen",
+      "loading": "Indlæser…",
+      "load.failed": "Kunne ikke indlæses",
+      "submit": "Send",
+      "submitting": "Sender…",
+      "next": "Næste",
+      "previous": "Forrige",
+      "skip": "Spring over",
+      "delete": "Slet",
+      "edit": "Rediger",
+      "save": "Gem",
+      "search": "Søg",
+      "more": "Mere",
+      "collapse": "Fold sammen",
+      "expand": "Fold ud",
+      "back": "Tilbage",
+      "brand.localBuild": "DSH lokal build",
+      "unknown": "Ukendt",
+      "none": "Ingen",
+      "truncated": "Afkortet",
+      "number.thousand": "{value} tus.",
+      "number.million": "{value} mio."
+    },
+    "settings": {
+      "trigger": "Indstillinger",
+      "title": "Indstillinger"
+    },
+    "sidebar": {
+      "session.new": "Ny session",
+      "toggle.open": "Åbn sidepanel"
+    },
+    "conversation": {
+      "placeholder.default": "Skriv en besked eller start en opgave, / kommandoer, @ filer eller sessioner",
+      "placeholder.hero": "Beskriv, hvad du vil bygge, / kommandoer, @ filer eller sessioner",
+      "input.send": "Send besked",
+      "input.stop": "Stop generering"
+    },
+    "chat": {
+      "view.chat": "Chat"
+    },
+    "command": {
+      "search.placeholder": "Søg…"
+    },
+    "model": {
+      "trigger.fallback": "Vælg model",
+      "menu.model": "Model"
+    },
+    "approval": {
+      "waiting": "Afventer godkendelse",
+      "reject": "Afvis"
+    },
+    "question": {
+      "action.next": "Næste",
+      "option.recommended": "Anbefalet"
+    },
+    "plan": {
+      "chip.label": "Plan"
+    },
+    "workspace": {
+      "section.workspaces": "Arbejdsområder",
+      "section.sessions": "Sessioner",
+      "search.placeholder": "Søg i sessioner..."
+    },
+    "feedback": {
+      "action.like": "Godt svar",
+      "action.dislike": "Dårligt svar"
+    },
+    "job": {
+      "status.running": "kører"
+    }
+  }
+}

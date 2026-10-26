@@ -1,0 +1,83 @@
+{
+  "code": "ee",
+  "namespaces": {
+    "common": {
+      "ok": "Enyo",
+      "cancel": "Ɖe asi le eŋu",
+      "close": "Ƒu",
+      "copy": "Kɔpi",
+      "copied": "Wokɔpi",
+      "copy.failed": "Kɔpi medze o",
+      "copy.value": "Kɔpi eƒe nyatakaka",
+      "retry": "Gbugbɔ wɔe",
+      "loading": "Wole elɔdim…",
+      "load.failed": "Lɔdi medze o",
+      "submit": "Ɖo ɖa",
+      "submitting": "Wole eɖom ɖa…",
+      "next": "Yi ŋgɔ",
+      "previous": "Esi va nu",
+      "skip": "To eŋu",
+      "delete": "Ɖe eɖa",
+      "edit": "Trɔ asi le eŋu",
+      "save": "Dzra eɖo",
+      "search": "Di",
+      "more": "Nu bubuwo",
+      "collapse": "Ƒu eɖo",
+      "expand": "Kɔe ɖe go",
+      "back": "Trɔ yi megbe",
+      "brand.localBuild": "DSH si wowɔ le afi sia",
+      "unknown": "Womanyae o",
+      "none": "Aɖeke",
+      "truncated": "Wotsoe kpui",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Ɖoɖowo",
+      "title": "Ɖoɖowo"
+    },
+    "sidebar": {
+      "session.new": "Nyaƒoƒo yeye",
+      "toggle.open": "Ʋu xa ɖoɖo"
+    },
+    "conversation": {
+      "placeholder.default": "Ŋlɔ nya alo wɔ dɔ aɖe, / sewo, @ faɛlwo alo nyaƒoƒowo",
+      "placeholder.hero": "Ƒo nu tso nu si nèdi be yeawɔ ŋu, / sewo, @ faɛlwo alo nyaƒoƒowo",
+      "input.send": "Ɖo nya ɖa",
+      "input.stop": "Tɔ nuwɔwɔ"
+    },
+    "chat": {
+      "view.chat": "Nyaƒoƒo"
+    },
+    "command": {
+      "search.placeholder": "Di…"
+    },
+    "model": {
+      "trigger.fallback": "Tia kpɔɖeŋu",
+      "menu.model": "Kpɔɖeŋu"
+    },
+    "approval": {
+      "waiting": "Wole mɔ kpɔm be woalɔ̃ ɖe eŋu",
+      "reject": "Gbe"
+    },
+    "question": {
+      "action.next": "Yi ŋgɔ",
+      "option.recommended": "Wokafu"
+    },
+    "plan": {
+      "chip.label": "Ɖoɖo"
+    },
+    "workspace": {
+      "section.workspaces": "Dɔwɔƒewo",
+      "section.sessions": "Nyaƒoƒowo",
+      "search.placeholder": "Di nyaƒoƒowo..."
+    },
+    "feedback": {
+      "action.like": "Ŋuɖoɖo nyui",
+      "action.dislike": "Ŋuɖoɖo vɔ̃"
+    },
+    "job": {
+      "status.running": "ele dɔwɔm"
+    }
+  }
+}

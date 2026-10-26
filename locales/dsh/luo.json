@@ -1,0 +1,83 @@
+{
+  "code": "luo",
+  "namespaces": {
+    "common": {
+      "ok": "Ee",
+      "cancel": "Juk",
+      "close": "Lor",
+      "copy": "Kopi",
+      "copied": "Ose kopi",
+      "copy.failed": "Kopi ok otimre",
+      "copy.value": "Kopi nengone",
+      "retry": "Tem kendo",
+      "loading": "Ndalo matin…",
+      "load.failed": "Ok onyal oket",
+      "submit": "Chiwo",
+      "submitting": "Ichiwo…",
+      "next": "Maluwo",
+      "previous": "Mokalo",
+      "skip": "Kal",
+      "delete": "Kwany",
+      "edit": "Lok",
+      "save": "Kan",
+      "search": "Many",
+      "more": "Moloyo",
+      "collapse": "Lor",
+      "expand": "Yaw",
+      "back": "Dwok",
+      "brand.localBuild": "DSH moseger e kae",
+      "unknown": "Ok ong'ere",
+      "none": "Onge",
+      "truncated": "Osetur",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Chenro",
+      "title": "Chenro"
+    },
+    "sidebar": {
+      "session.new": "Wuo manyien",
+      "toggle.open": "Yaw bath"
+    },
+    "conversation": {
+      "placeholder.default": "Or wach kata chak tich, / chik, @ fail kata wuo",
+      "placeholder.hero": "Wach gima idwaro gero, / chik, @ fail kata wuo",
+      "input.send": "Or wach",
+      "input.stop": "Juk chuech"
+    },
+    "chat": {
+      "view.chat": "Wuo"
+    },
+    "command": {
+      "search.placeholder": "Many…"
+    },
+    "model": {
+      "trigger.fallback": "Yier ngech",
+      "menu.model": "Ngech"
+    },
+    "approval": {
+      "waiting": "Rito yie",
+      "reject": "Kwer"
+    },
+    "question": {
+      "action.next": "Maluwo",
+      "option.recommended": "Mopaki"
+    },
+    "plan": {
+      "chip.label": "Paro"
+    },
+    "workspace": {
+      "section.workspaces": "Kar tich",
+      "section.sessions": "Wuo",
+      "search.placeholder": "Many wuo..."
+    },
+    "feedback": {
+      "action.like": "Duoko maber",
+      "action.dislike": "Duoko marach"
+    },
+    "job": {
+      "status.running": "otimo tich"
+    }
+  }
+}

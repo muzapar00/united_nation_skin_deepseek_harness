@@ -1,0 +1,27 @@
+name: Translation review
+description: Correct or complete a language pack
+labels: [translation]
+body:
+  - type: input
+    id: language
+    attributes:
+      label: Language code and name
+      placeholder: "sw · Kiswahili"
+    validations:
+      required: true
+  - type: dropdown
+    id: speaker
+    attributes:
+      label: Are you a native or fluent speaker?
+      options: ["Yes", "No, machine assistance", "Partially"]
+  - type: textarea
+    id: wrong
+    attributes:
+      label: What is wrong
+      description: Quote the key (for example `lang.search`) and the current text.
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested text

@@ -1,0 +1,9 @@
+# dsh-theme-un — bundle mount declaration.
+#
+# The empty host plugin in index.js gives the Loader a row; the browser half
+# (client.js) is served by the client module system because this package
+# declares `dsh.client`. Installing the package into a profile's node_modules
+# and keeping this row is all it takes.
+- insert:
+    - id: dsh-theme-un
+      name: 'dsh-theme-un'

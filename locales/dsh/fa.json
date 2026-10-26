@@ -1,0 +1,83 @@
+{
+  "code": "fa",
+  "namespaces": {
+    "common": {
+      "ok": "تأیید",
+      "cancel": "لغو",
+      "close": "بستن",
+      "copy": "کپی",
+      "copied": "کپی شد",
+      "copy.failed": "کپی نشد",
+      "copy.value": "کپی مقدار",
+      "retry": "تلاش دوباره",
+      "loading": "در حال بارگذاری…",
+      "load.failed": "بارگذاری نشد",
+      "submit": "ارسال",
+      "submitting": "در حال ارسال…",
+      "next": "بعدی",
+      "previous": "قبلی",
+      "skip": "رد کردن",
+      "delete": "حذف",
+      "edit": "ویرایش",
+      "save": "ذخیره",
+      "search": "جست‌وجو",
+      "more": "بیشتر",
+      "collapse": "جمع کردن",
+      "expand": "باز کردن",
+      "back": "بازگشت",
+      "brand.localBuild": "نسخه محلی DSH",
+      "unknown": "نامشخص",
+      "none": "هیچ",
+      "truncated": "بریده‌شده",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "تنظیمات",
+      "title": "تنظیمات"
+    },
+    "sidebar": {
+      "session.new": "نشست جدید",
+      "toggle.open": "باز کردن نوار کناری"
+    },
+    "conversation": {
+      "placeholder.default": "پیامی بنویسید یا کاری را اجرا کنید، / دستورها، @ فایل‌ها یا نشست‌ها",
+      "placeholder.hero": "توضیح دهید چه چیزی می‌خواهید بسازید، / دستورها، @ فایل‌ها یا نشست‌ها",
+      "input.send": "ارسال پیام",
+      "input.stop": "توقف تولید"
+    },
+    "chat": {
+      "view.chat": "گفتگو"
+    },
+    "command": {
+      "search.placeholder": "جست‌وجو…"
+    },
+    "model": {
+      "trigger.fallback": "انتخاب مدل",
+      "menu.model": "مدل"
+    },
+    "approval": {
+      "waiting": "در انتظار تأیید",
+      "reject": "رد"
+    },
+    "question": {
+      "action.next": "بعدی",
+      "option.recommended": "پیشنهادی"
+    },
+    "plan": {
+      "chip.label": "طرح"
+    },
+    "workspace": {
+      "section.workspaces": "فضاهای کاری",
+      "section.sessions": "نشست‌ها",
+      "search.placeholder": "جست‌وجوی نشست‌ها..."
+    },
+    "feedback": {
+      "action.like": "پاسخ خوب",
+      "action.dislike": "پاسخ نامناسب"
+    },
+    "job": {
+      "status.running": "در حال اجرا"
+    }
+  }
+}

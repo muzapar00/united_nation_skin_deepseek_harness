@@ -1,0 +1,83 @@
+{
+  "code": "om",
+  "namespaces": {
+    "common": {
+      "ok": "Tole",
+      "cancel": "Dhiisi",
+      "close": "Cufi",
+      "copy": "Garagalchi",
+      "copied": "Garagalchirame",
+      "copy.failed": "Garagalchuun hin milkoofne",
+      "copy.value": "Qabiyyee garagalchi",
+      "retry": "Irra deebi'i",
+      "loading": "Fe'amaa jira…",
+      "load.failed": "Fe'uun hin milkoofne",
+      "submit": "Galchi",
+      "submitting": "Galchaa jira…",
+      "next": "Itti aanu",
+      "previous": "Duraanii",
+      "skip": "Darbi",
+      "delete": "Haqi",
+      "edit": "Gulaali",
+      "save": "Olkaa'i",
+      "search": "Barbaadi",
+      "more": "Dabalata",
+      "collapse": "Cufi",
+      "expand": "Bani",
+      "back": "Deebi'i",
+      "brand.localBuild": "DSH asitti ijaarame",
+      "unknown": "Hin beekamu",
+      "none": "Homaa",
+      "truncated": "Cuunfame",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Qindaa'ina",
+      "title": "Qindaa'ina"
+    },
+    "sidebar": {
+      "session.new": "Marii haaraa",
+      "toggle.open": "Cinaa bani"
+    },
+    "conversation": {
+      "placeholder.default": "Ergaa ergi yookaan hojii hojiirra oolchi, / ajajoota, @ faayiloota yookaan marii",
+      "placeholder.hero": "Wanti ijaaruu barbaaddu ibsi, / ajajoota, @ faayiloota yookaan marii",
+      "input.send": "Ergaa ergi",
+      "input.stop": "Uumuu dhaabi"
+    },
+    "chat": {
+      "view.chat": "Haasawa"
+    },
+    "command": {
+      "search.placeholder": "Barbaadi…"
+    },
+    "model": {
+      "trigger.fallback": "Moodela filadhu",
+      "menu.model": "Moodela"
+    },
+    "approval": {
+      "waiting": "Eeyyama eegaa jira",
+      "reject": "Hin fudhadhu"
+    },
+    "question": {
+      "action.next": "Itti aanu",
+      "option.recommended": "Ni gorfama"
+    },
+    "plan": {
+      "chip.label": "Karoora"
+    },
+    "workspace": {
+      "section.workspaces": "Bakka hojii",
+      "section.sessions": "Mariiwwan",
+      "search.placeholder": "Marii barbaadi..."
+    },
+    "feedback": {
+      "action.like": "Deebii gaarii",
+      "action.dislike": "Deebii gadhee"
+    },
+    "job": {
+      "status.running": "hojiirra jira"
+    }
+  }
+}

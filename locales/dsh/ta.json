@@ -1,0 +1,83 @@
+{
+  "code": "ta",
+  "namespaces": {
+    "common": {
+      "ok": "சரி",
+      "cancel": "ரத்துசெய்",
+      "close": "மூடு",
+      "copy": "நகலெடு",
+      "copied": "நகலெடுக்கப்பட்டது",
+      "copy.failed": "நகலெடுக்க முடியவில்லை",
+      "copy.value": "மதிப்பை நகலெடு",
+      "retry": "மீண்டும் முயற்சி",
+      "loading": "ஏற்றுகிறது…",
+      "load.failed": "ஏற்ற முடியவில்லை",
+      "submit": "சமர்ப்பி",
+      "submitting": "சமர்ப்பிக்கிறது…",
+      "next": "அடுத்து",
+      "previous": "முந்தையது",
+      "skip": "தவிர்",
+      "delete": "நீக்கு",
+      "edit": "திருத்து",
+      "save": "சேமி",
+      "search": "தேடு",
+      "more": "மேலும்",
+      "collapse": "சுருக்கு",
+      "expand": "விரி",
+      "back": "பின்செல்",
+      "brand.localBuild": "DSH உள்ளூர் பில்ட்",
+      "unknown": "தெரியாதது",
+      "none": "எதுவுமில்லை",
+      "truncated": "வெட்டப்பட்டது",
+      "number.thousand": "{value} ஆயிரம்",
+      "number.million": "{value} மில்லியன்"
+    },
+    "settings": {
+      "trigger": "அமைப்புகள்",
+      "title": "அமைப்புகள்"
+    },
+    "sidebar": {
+      "session.new": "புதிய அமர்வு",
+      "toggle.open": "பக்கப்பட்டியைத் திற"
+    },
+    "conversation": {
+      "placeholder.default": "செய்தி அனுப்பு அல்லது பணியை இயக்கு, / கட்டளைகள், @ கோப்புகள் அல்லது அமர்வுகள்",
+      "placeholder.hero": "நீங்கள் உருவாக்க விரும்புவதை விவரிக்கவும், / கட்டளைகள், @ கோப்புகள் அல்லது அமர்வுகள்",
+      "input.send": "செய்தி அனுப்பு",
+      "input.stop": "உருவாக்குவதை நிறுத்து"
+    },
+    "chat": {
+      "view.chat": "அரட்டை"
+    },
+    "command": {
+      "search.placeholder": "தேடு…"
+    },
+    "model": {
+      "trigger.fallback": "மாடலைத் தேர்ந்தெடு",
+      "menu.model": "மாடல்"
+    },
+    "approval": {
+      "waiting": "ஒப்புதலுக்காகக் காத்திருக்கிறது",
+      "reject": "நிராகரி"
+    },
+    "question": {
+      "action.next": "அடுத்து",
+      "option.recommended": "பரிந்துரைக்கப்படுகிறது"
+    },
+    "plan": {
+      "chip.label": "திட்டம்"
+    },
+    "workspace": {
+      "section.workspaces": "பணியிடங்கள்",
+      "section.sessions": "அமர்வுகள்",
+      "search.placeholder": "அமர்வுகளைத் தேடு…"
+    },
+    "feedback": {
+      "action.like": "நல்ல பதில்",
+      "action.dislike": "மோசமான பதில்"
+    },
+    "job": {
+      "status.running": "இயங்குகிறது"
+    }
+  }
+}

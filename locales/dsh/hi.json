@@ -1,0 +1,83 @@
+{
+  "code": "hi",
+  "namespaces": {
+    "common": {
+      "ok": "ठीक है",
+      "cancel": "रद्द करें",
+      "close": "बंद करें",
+      "copy": "कॉपी करें",
+      "copied": "कॉपी हो गया",
+      "copy.failed": "कॉपी नहीं हो सका",
+      "copy.value": "मान कॉपी करें",
+      "retry": "फिर प्रयास करें",
+      "loading": "लोड हो रहा है…",
+      "load.failed": "लोड नहीं हो सका",
+      "submit": "सबमिट करें",
+      "submitting": "सबमिट हो रहा है…",
+      "next": "आगे",
+      "previous": "पीछे",
+      "skip": "छोड़ें",
+      "delete": "हटाएँ",
+      "edit": "संपादित करें",
+      "save": "सहेजें",
+      "search": "खोजें",
+      "more": "अधिक",
+      "collapse": "संकुचित करें",
+      "expand": "विस्तृत करें",
+      "back": "वापस",
+      "brand.localBuild": "DSH स्थानीय बिल्ड",
+      "unknown": "अज्ञात",
+      "none": "कोई नहीं",
+      "truncated": "काटा गया",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "सेटिंग्स",
+      "title": "सेटिंग्स"
+    },
+    "sidebar": {
+      "session.new": "नया सत्र",
+      "toggle.open": "साइडबार खोलें"
+    },
+    "conversation": {
+      "placeholder.default": "संदेश भेजें या कार्य चलाएँ, / कमांड, @ फ़ाइलें या सत्र",
+      "placeholder.hero": "बताएँ कि आप क्या बनाना चाहते हैं, / कमांड, @ फ़ाइलें या सत्र",
+      "input.send": "संदेश भेजें",
+      "input.stop": "जनरेट करना रोकें"
+    },
+    "chat": {
+      "view.chat": "चैट"
+    },
+    "command": {
+      "search.placeholder": "खोजें…"
+    },
+    "model": {
+      "trigger.fallback": "मॉडल चुनें",
+      "menu.model": "मॉडल"
+    },
+    "approval": {
+      "waiting": "स्वीकृति की प्रतीक्षा",
+      "reject": "अस्वीकार करें"
+    },
+    "question": {
+      "action.next": "आगे",
+      "option.recommended": "सुझाया गया"
+    },
+    "plan": {
+      "chip.label": "योजना"
+    },
+    "workspace": {
+      "section.workspaces": "कार्यस्थान",
+      "section.sessions": "सत्र",
+      "search.placeholder": "सत्र खोजें..."
+    },
+    "feedback": {
+      "action.like": "अच्छा उत्तर",
+      "action.dislike": "खराब उत्तर"
+    },
+    "job": {
+      "status.running": "चल रहा है"
+    }
+  }
+}

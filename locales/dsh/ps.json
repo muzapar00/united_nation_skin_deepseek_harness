@@ -1,0 +1,83 @@
+{
+  "code": "ps",
+  "namespaces": {
+    "common": {
+      "ok": "ښه",
+      "cancel": "لغوه کول",
+      "close": "بندول",
+      "copy": "کاپی",
+      "copied": "کاپی شو",
+      "copy.failed": "کاپی نشوه",
+      "copy.value": "ارزښت کاپی کړئ",
+      "retry": "بیا هڅه",
+      "loading": "بارېږی…",
+      "load.failed": "بار نشو",
+      "submit": "سپارل",
+      "submitting": "سپارل کېږی…",
+      "next": "بل",
+      "previous": "مخکینی",
+      "skip": "پرېښودل",
+      "delete": "ړنګول",
+      "edit": "سمون",
+      "save": "خوندی کول",
+      "search": "لټون",
+      "more": "نور",
+      "collapse": "غونډول",
+      "expand": "پراخول",
+      "back": "بیرته",
+      "brand.localBuild": "DSH ځایی جوړښت",
+      "unknown": "نامعلوم",
+      "none": "هیڅ",
+      "truncated": "پرې شوی",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "تنظیمات",
+      "title": "تنظیمات"
+    },
+    "sidebar": {
+      "session.new": "نوې ناسته",
+      "toggle.open": "څنګ تخته پرانیستل"
+    },
+    "conversation": {
+      "placeholder.default": "پیغام واستوئ یا یوه دنده چل کړئ، / کمانډونه، @ فایلونه یا ناستې",
+      "placeholder.hero": "تشریح کړئ چې څه غواړئ جوړ کړئ، / کمانډونه، @ فایلونه یا ناستې",
+      "input.send": "پیغام لېږل",
+      "input.stop": "جوړول ودروئ"
+    },
+    "chat": {
+      "view.chat": "خبرې اترې"
+    },
+    "command": {
+      "search.placeholder": "لټون…"
+    },
+    "model": {
+      "trigger.fallback": "ماډل وټاکئ",
+      "menu.model": "ماډل"
+    },
+    "approval": {
+      "waiting": "د تایید په تمه",
+      "reject": "ردول"
+    },
+    "question": {
+      "action.next": "بل",
+      "option.recommended": "وړاندیز شوی"
+    },
+    "plan": {
+      "chip.label": "پلان"
+    },
+    "workspace": {
+      "section.workspaces": "کاری سیمې",
+      "section.sessions": "ناستې",
+      "search.placeholder": "ناستې ولټوئ..."
+    },
+    "feedback": {
+      "action.like": "ښه ځواب",
+      "action.dislike": "بد ځواب"
+    },
+    "job": {
+      "status.running": "روان"
+    }
+  }
+}

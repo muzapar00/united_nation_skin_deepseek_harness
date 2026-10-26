@@ -1,0 +1,83 @@
+{
+  "code": "ceb",
+  "namespaces": {
+    "common": {
+      "ok": "OK",
+      "cancel": "Kanselar",
+      "close": "Sirhi",
+      "copy": "Kopyaha",
+      "copied": "Nakopya na",
+      "copy.failed": "Napakyas ang pagkopya",
+      "copy.value": "Kopyaha ang bili",
+      "retry": "Sulayi pag-usab",
+      "loading": "Nagkarga…",
+      "load.failed": "Napakyas ang pagkarga",
+      "submit": "Isumite",
+      "submitting": "Nagsumite…",
+      "next": "Sunod",
+      "previous": "Nauna",
+      "skip": "Laktawi",
+      "delete": "Papasa",
+      "edit": "Usba",
+      "save": "Tipigi",
+      "search": "Pangitaa",
+      "more": "Uban pa",
+      "collapse": "Tiklopa",
+      "expand": "Abliha",
+      "back": "Balik",
+      "brand.localBuild": "Lokal nga bersyon sa DSH",
+      "unknown": "Wala mailhi",
+      "none": "Wala",
+      "truncated": "Giputol",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Mga Setting",
+      "title": "Mga Setting"
+    },
+    "sidebar": {
+      "session.new": "Bag-ong Sesyon",
+      "toggle.open": "Abliha ang panel sa kilid"
+    },
+    "conversation": {
+      "placeholder.default": "Magpadala og mensahe o magsugod og tahas, / mga mando, @ mga file o sesyon",
+      "placeholder.hero": "Ilarawan kung unsa ang gusto nimong buhaton, / mga mando, @ mga file o sesyon",
+      "input.send": "Magpadala og mensahe",
+      "input.stop": "Hunonga ang paghimo"
+    },
+    "chat": {
+      "view.chat": "Isturya"
+    },
+    "command": {
+      "search.placeholder": "Pangitaa…"
+    },
+    "model": {
+      "trigger.fallback": "Pilia ang modelo",
+      "menu.model": "Modelo"
+    },
+    "approval": {
+      "waiting": "Nagpaabot sa pagtugot",
+      "reject": "Balibara"
+    },
+    "question": {
+      "action.next": "Sunod",
+      "option.recommended": "Girekomenda"
+    },
+    "plan": {
+      "chip.label": "Plano"
+    },
+    "workspace": {
+      "section.workspaces": "Mga lugar sa trabaho",
+      "section.sessions": "Mga sesyon",
+      "search.placeholder": "Pangitaa ang mga sesyon..."
+    },
+    "feedback": {
+      "action.like": "Maayong tubag",
+      "action.dislike": "Dili maayong tubag"
+    },
+    "job": {
+      "status.running": "nagpadagan"
+    }
+  }
+}

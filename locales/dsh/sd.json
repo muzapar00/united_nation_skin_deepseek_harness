@@ -1,0 +1,83 @@
+{
+  "code": "sd",
+  "namespaces": {
+    "common": {
+      "ok": "ٺيڪ",
+      "cancel": "منسوخ ڪريو",
+      "close": "بند ڪريو",
+      "copy": "ڪاپي ڪريو",
+      "copied": "ڪاپي ٿي ويو",
+      "copy.failed": "ڪاپي نه ٿي سگهي",
+      "copy.value": "قدر ڪاپي ڪريو",
+      "retry": "ٻيهر ڪوشش",
+      "loading": "لوڊ ٿي رهيو آهي…",
+      "load.failed": "لوڊ نه ٿي سگهيو",
+      "submit": "جمع ڪريو",
+      "submitting": "جمع ٿي رهيو آهي…",
+      "next": "اڳيون",
+      "previous": "پويون",
+      "skip": "ڇڏي ڏيو",
+      "delete": "ڊاهيو",
+      "edit": "ترميم ڪريو",
+      "save": "محفوظ ڪريو",
+      "search": "ڳوليو",
+      "more": "وڌيڪ",
+      "collapse": "سميٽيو",
+      "expand": "وڌايو",
+      "back": "واپس",
+      "brand.localBuild": "DSH مقامي بلڊ",
+      "unknown": "نامعلوم",
+      "none": "ڪوبه نه",
+      "truncated": "ڪٽيل",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "سيٽنگون",
+      "title": "سيٽنگون"
+    },
+    "sidebar": {
+      "session.new": "نئون سيشن",
+      "toggle.open": "سائڊبار کوليو"
+    },
+    "conversation": {
+      "placeholder.default": "پيغام موڪليو يا ڪو ڪم هلايو، / ڪمانڊ، @ فائلون يا سيشن",
+      "placeholder.hero": "ٻڌايو ته ڇا ٺاهڻ چاهيو ٿا، / ڪمانڊ، @ فائلون يا سيشن",
+      "input.send": "پيغام موڪليو",
+      "input.stop": "ٺاهڻ روڪيو"
+    },
+    "chat": {
+      "view.chat": "گفتگو"
+    },
+    "command": {
+      "search.placeholder": "ڳوليو…"
+    },
+    "model": {
+      "trigger.fallback": "ماڊل چونڊيو",
+      "menu.model": "ماڊل"
+    },
+    "approval": {
+      "waiting": "منظوري جو انتظار",
+      "reject": "مسترد ڪريو"
+    },
+    "question": {
+      "action.next": "اڳيون",
+      "option.recommended": "تجويز ڪيل"
+    },
+    "plan": {
+      "chip.label": "منصوبو"
+    },
+    "workspace": {
+      "section.workspaces": "ڪم جا هنڌ",
+      "section.sessions": "سيشن",
+      "search.placeholder": "سيشن ڳوليو..."
+    },
+    "feedback": {
+      "action.like": "سٺو جواب",
+      "action.dislike": "خراب جواب"
+    },
+    "job": {
+      "status.running": "هلندڙ"
+    }
+  }
+}

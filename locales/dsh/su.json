@@ -1,0 +1,83 @@
+{
+  "code": "su",
+  "namespaces": {
+    "common": {
+      "ok": "OK",
+      "cancel": "Bolaykeun",
+      "close": "Tutup",
+      "copy": "Salin",
+      "copied": "Geus disalin",
+      "copy.failed": "Gagal nyalin",
+      "copy.value": "Salin ajén",
+      "retry": "Coba deui",
+      "loading": "Ngamuat…",
+      "load.failed": "Gagal ngamuat",
+      "submit": "Kirim",
+      "submitting": "Ngirim…",
+      "next": "Salajengna",
+      "previous": "Saméméhna",
+      "skip": "Liwatan",
+      "delete": "Hapus",
+      "edit": "Édit",
+      "save": "Simpen",
+      "search": "Paluruh",
+      "more": "Lianna",
+      "collapse": "Tutup",
+      "expand": "Buka",
+      "back": "Balik",
+      "brand.localBuild": "DSH vérsi lokal",
+      "unknown": "Teu dipikanyaho",
+      "none": "Taya",
+      "truncated": "Dipotong",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Setélan",
+      "title": "Setélan"
+    },
+    "sidebar": {
+      "session.new": "Sési anyar",
+      "toggle.open": "Buka panel gigir"
+    },
+    "conversation": {
+      "placeholder.default": "Kirim pesen atawa ngamimitian tugas, / paréntah, @ berkas atawa sési",
+      "placeholder.hero": "Jelaskeun naon nu rék anjeun wangun, / paréntah, @ berkas atawa sési",
+      "input.send": "Kirim pesen",
+      "input.stop": "Eureun ngahasilkeun"
+    },
+    "chat": {
+      "view.chat": "Obrolan"
+    },
+    "command": {
+      "search.placeholder": "Paluruh…"
+    },
+    "model": {
+      "trigger.fallback": "Pilih modél",
+      "menu.model": "Modél"
+    },
+    "approval": {
+      "waiting": "Nungguan persetujuan",
+      "reject": "Nolak"
+    },
+    "question": {
+      "action.next": "Salajengna",
+      "option.recommended": "Disarankeun"
+    },
+    "plan": {
+      "chip.label": "Rencana"
+    },
+    "workspace": {
+      "section.workspaces": "Ruang gawé",
+      "section.sessions": "Sési",
+      "search.placeholder": "Paluruh sési..."
+    },
+    "feedback": {
+      "action.like": "Waleran alus",
+      "action.dislike": "Waleran goréng"
+    },
+    "job": {
+      "status.running": "keur jalan"
+    }
+  }
+}

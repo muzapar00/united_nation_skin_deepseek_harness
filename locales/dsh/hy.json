@@ -1,0 +1,83 @@
+{
+  "code": "hy",
+  "namespaces": {
+    "common": {
+      "ok": "Լավ",
+      "cancel": "Չեղարկել",
+      "close": "Փակել",
+      "copy": "Պատճենել",
+      "copied": "Պատճենված է",
+      "copy.failed": "Պատճենումը ձախողվեց",
+      "copy.value": "Պատճենել արժեքը",
+      "retry": "Կրկնել",
+      "loading": "Բեռնում…",
+      "load.failed": "Բեռնումը ձախողվեց",
+      "submit": "Ուղարկել",
+      "submitting": "Ուղարկում…",
+      "next": "Հաջորդ",
+      "previous": "Նախորդ",
+      "skip": "Բաց թողնել",
+      "delete": "Ջնջել",
+      "edit": "Խմբագրել",
+      "save": "Պահել",
+      "search": "Որոնել",
+      "more": "Ավելին",
+      "collapse": "Ծալել",
+      "expand": "Արձակել",
+      "back": "Հետ",
+      "brand.localBuild": "DSH-ի տեղական տարբերակ",
+      "unknown": "Անհայտ",
+      "none": "Չկա",
+      "truncated": "Կրճատված",
+      "number.thousand": "{value} հազ.",
+      "number.million": "{value} մլն"
+    },
+    "settings": {
+      "trigger": "Կարգավորումներ",
+      "title": "Կարգավորումներ"
+    },
+    "sidebar": {
+      "session.new": "Նոր նստաշրջան",
+      "toggle.open": "Բացել կողային վահանակը"
+    },
+    "conversation": {
+      "placeholder.default": "Գրեք հաղորդագրություն կամ գործարկեք առաջադրանք, / հրահանգներ, @ ֆայլեր կամ նստաշրջաններ",
+      "placeholder.hero": "Նկարագրեք, թե ինչ եք ուզում ստեղծել, / հրահանգներ, @ ֆայլեր կամ նստաշրջաններ",
+      "input.send": "Ուղարկել հաղորդագրություն",
+      "input.stop": "Դադարեցնել գեներացումը"
+    },
+    "chat": {
+      "view.chat": "Զրույց"
+    },
+    "command": {
+      "search.placeholder": "Որոնել…"
+    },
+    "model": {
+      "trigger.fallback": "Ընտրել մոդել",
+      "menu.model": "Մոդել"
+    },
+    "approval": {
+      "waiting": "Սպասում է հաստատման",
+      "reject": "Մերժել"
+    },
+    "question": {
+      "action.next": "Հաջորդ",
+      "option.recommended": "Խորհուրդ է տրվում"
+    },
+    "plan": {
+      "chip.label": "Պլան"
+    },
+    "workspace": {
+      "section.workspaces": "Աշխատանքային տարածքներ",
+      "section.sessions": "Նստաշրջաններ",
+      "search.placeholder": "Որոնել նստաշրջաններ..."
+    },
+    "feedback": {
+      "action.like": "Լավ պատասխան",
+      "action.dislike": "Վատ պատասխան"
+    },
+    "job": {
+      "status.running": "ընթացքի մեջ է"
+    }
+  }
+}

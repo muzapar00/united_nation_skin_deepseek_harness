@@ -1,0 +1,83 @@
+{
+  "code": "chr",
+  "namespaces": {
+    "common": {
+      "ok": "ᎭᏩ",
+      "cancel": "ᎠᏎᏒᏗ",
+      "close": "ᎠᏍᏚᎲᏍᏗ",
+      "copy": "ᎠᏁᏟᏴᏍᏗ",
+      "copied": "ᎠᏁᏟᏴᏒ",
+      "copy.failed": "Ꮭ ᎠᏁᏟᏴᏒ ᏱᎨᏎ",
+      "copy.value": "ᎠᏁᏟᏴᏍᏗ ᎢᏳᏓᎵ",
+      "retry": "ᏔᎵᏁ ᎢᏳᏛᏗ",
+      "loading": "ᎠᏛᏅᏗᏍᎬ…",
+      "load.failed": "Ꮭ ᎠᏛᏅᏗᏍᎬ ᏳᎵᏍᏆᏓ",
+      "submit": "ᎠᏓᏲᏍᏗ",
+      "submitting": "ᎠᏓᏲᏍᎬ…",
+      "next": "ᎡᏘ",
+      "previous": "ᎤᎶᏒᎢ",
+      "skip": "ᎠᏏᏅᏗ",
+      "delete": "ᎧᎵ ᎠᏍᎪᎸᏛᎯ",
+      "edit": "ᎦᏁᏟᏴᏓ",
+      "save": "ᏗᏍᏆᏂᎪᏗ",
+      "search": "ᎠᏯᏍᏗ",
+      "more": "ᎤᏟ ᎢᏳᏓᎵ",
+      "collapse": "ᎠᏍᏆᎳᏗᏍᏗ",
+      "expand": "ᎠᏍᏆᏂᎪᏗ",
+      "back": "ᎤᏗᏞᎩ",
+      "brand.localBuild": "DSH ᎠᎭᏂ ᏗᎬᏁᎸ",
+      "unknown": "Ꮭ ᏳᏃᏎᎰ",
+      "none": "Ꮭ ᎪᎱᏍᏗ",
+      "truncated": "ᎦᏲᏟᎢ",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "ᎠᏰᎸᏗ",
+      "title": "ᎠᏰᎸᏗ"
+    },
+    "sidebar": {
+      "session.new": "ᎤᏍᏆᏂᎪᏗ ᎧᏃᎮᏛ",
+      "toggle.open": "ᎠᏍᏚᎢᏍᏗ ᎠᏍᏛ"
+    },
+    "conversation": {
+      "placeholder.default": "ᎪᏪᎵ ᏫᏓᏁᎳ ᎠᎴ ᎤᏟᎯ ᏗᎦᏓᏅᏖᏗ, / ᏗᎦᎵᏍᏙᏗ, @ ᏗᎪᏪᎵ ᎠᎴ ᏧᏂᏴᏫ",
+      "placeholder.hero": "ᎪᏪᎵ ᎠᏓᏃᎯᏎᎸ ᎠᏲᏡᏗ, / ᏗᎦᎵᏍᏙᏗ, @ ᏗᎪᏪᎵ ᎠᎴ ᏧᏂᏴᏫ",
+      "input.send": "ᎪᏪᎵ ᏫᏓᏁᎳ",
+      "input.stop": "ᏗᎪᏢᏗ ᎠᏍᏆᎵᏍᏗ"
+    },
+    "chat": {
+      "view.chat": "ᎧᏃᎮᏛ"
+    },
+    "command": {
+      "search.placeholder": "ᎠᏯᏍᏗ…"
+    },
+    "model": {
+      "trigger.fallback": "ᎠᏓᏂᎩᏍᏗ ᎤᏙᏢᏒ",
+      "menu.model": "ᎤᏙᏢᏒ"
+    },
+    "approval": {
+      "waiting": "ᎠᏥᏲᏍᎬ ᏗᎦᏓᏁᎸ",
+      "reject": "ᎠᏎᏒᏗ"
+    },
+    "question": {
+      "action.next": "ᎡᏘ",
+      "option.recommended": "ᎣᏏᏳ ᏂᎬᏅ"
+    },
+    "plan": {
+      "chip.label": "ᏗᎦᏓᏅᏖᏗ"
+    },
+    "workspace": {
+      "section.workspaces": "ᏗᎦᎵᏍᏙᏗ ᏗᏒᎢ",
+      "section.sessions": "ᏚᏂᏴᏫ",
+      "search.placeholder": "ᎠᏯᏍᏗ ᏧᏂᏴᏫ…"
+    },
+    "feedback": {
+      "action.like": "ᎣᏏᏳ ᎠᏎᏒᏗ",
+      "action.dislike": "Ꮭ ᎣᏏᏳ ᏱᎩ"
+    },
+    "job": {
+      "status.running": "ᎠᎵᏱᎶᎬ"
+    }
+  }
+}

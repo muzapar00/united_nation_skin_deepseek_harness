@@ -1,0 +1,34 @@
+name: Bug report
+description: Something does not render or breaks DSH
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting. Please include your OS, DSH version and profile (`web` / `desktop`).
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What you expected
+  - type: input
+    id: version
+    attributes:
+      label: DeepSeek Harness version
+      placeholder: "0.1.5-rc.1"
+  - type: input
+    id: os
+    attributes:
+      label: OS and profile
+      placeholder: "Windows 11 · desktop"
+  - type: textarea
+    id: logs
+    attributes:
+      label: Console or host errors
+      description: Browser devtools console, or the terminal output of `dsh web`.
+      render: shell

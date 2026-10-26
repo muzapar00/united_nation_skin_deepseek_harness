@@ -1,0 +1,83 @@
+{
+  "code": "so",
+  "namespaces": {
+    "common": {
+      "ok": "Hagaag",
+      "cancel": "Buri",
+      "close": "Xir",
+      "copy": "Koobi",
+      "copied": "La koobiyay",
+      "copy.failed": "Koobistu guuldarraysatay",
+      "copy.value": "Koobi qiimaha",
+      "retry": "Isku day mar kale",
+      "loading": "Waa la soo rarayaa…",
+      "load.failed": "Soo rarista guuldarraysatay",
+      "submit": "Gudbi",
+      "submitting": "Waa la gudbinayaa…",
+      "next": "Xiga",
+      "previous": "Hore",
+      "skip": "Ka bood",
+      "delete": "Tirtir",
+      "edit": "Tafatir",
+      "save": "Kaydi",
+      "search": "Raadi",
+      "more": "Wax dheeraad ah",
+      "collapse": "Soo laab",
+      "expand": "Balaari",
+      "back": "Dib",
+      "brand.localBuild": "DSH Dhismaha Maxalliga",
+      "unknown": "Lama garanayo",
+      "none": "Midna",
+      "truncated": "La gooyay",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Dejinta",
+      "title": "Dejinta"
+    },
+    "sidebar": {
+      "session.new": "Sheeko Cusub",
+      "toggle.open": "Fur dhinaca"
+    },
+    "conversation": {
+      "placeholder.default": "Dir fariin ama socodsii hawl, / amarrada, @ faylal ama sheekooyin",
+      "placeholder.hero": "Sharax waxa aad rabto inaad dhisto, / amarrada, @ faylal ama sheekooyin",
+      "input.send": "Dir fariin",
+      "input.stop": "Jooji abuurista"
+    },
+    "chat": {
+      "view.chat": "Sheeko"
+    },
+    "command": {
+      "search.placeholder": "Raadi…"
+    },
+    "model": {
+      "trigger.fallback": "Dooro moodel",
+      "menu.model": "Moodel"
+    },
+    "approval": {
+      "waiting": "Sugaya oggolaansho",
+      "reject": "Diid"
+    },
+    "question": {
+      "action.next": "Xiga",
+      "option.recommended": "Lagu taliyay"
+    },
+    "plan": {
+      "chip.label": "Qorshe"
+    },
+    "workspace": {
+      "section.workspaces": "Goobaha shaqada",
+      "section.sessions": "Sheekooyin",
+      "search.placeholder": "Raadi sheekooyin..."
+    },
+    "feedback": {
+      "action.like": "Jawaab wanaagsan",
+      "action.dislike": "Jawaab xun"
+    },
+    "job": {
+      "status.running": "socda"
+    }
+  }
+}

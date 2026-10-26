@@ -1,0 +1,83 @@
+{
+  "code": "ha",
+  "namespaces": {
+    "common": {
+      "ok": "To",
+      "cancel": "Soke",
+      "close": "Rufe",
+      "copy": "Kwafi",
+      "copied": "An kwafa",
+      "copy.failed": "Kwafin ya kasa",
+      "copy.value": "Kwafi ƙimar",
+      "retry": "Sake gwadawa",
+      "loading": "Ana lodawa…",
+      "load.failed": "An kasa lodawa",
+      "submit": "Aika",
+      "submitting": "Ana aikawa…",
+      "next": "Gaba",
+      "previous": "Baya",
+      "skip": "Tsallake",
+      "delete": "Share",
+      "edit": "Gyara",
+      "save": "Ajiye",
+      "search": "Nemo",
+      "more": "Ƙari",
+      "collapse": "Naɗe",
+      "expand": "Faɗaɗa",
+      "back": "Komawa",
+      "brand.localBuild": "DSH Ginannen Gida",
+      "unknown": "Ba a sani ba",
+      "none": "Babu",
+      "truncated": "An yanke",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Saituna",
+      "title": "Saituna"
+    },
+    "sidebar": {
+      "session.new": "Sabon zance",
+      "toggle.open": "Buɗe gefen allo"
+    },
+    "conversation": {
+      "placeholder.default": "Aika saƙo ko gudanar da aiki, / umarni, @ fayiloli ko zance",
+      "placeholder.hero": "Bayyana abin da kake son ginawa, / umarni, @ fayiloli ko zance",
+      "input.send": "Aika saƙo",
+      "input.stop": "Dakatar da samarwa"
+    },
+    "chat": {
+      "view.chat": "Tattaunawa"
+    },
+    "command": {
+      "search.placeholder": "Nemo…"
+    },
+    "model": {
+      "trigger.fallback": "Zaɓi samfuri",
+      "menu.model": "Samfuri"
+    },
+    "approval": {
+      "waiting": "Ana jiran amincewa",
+      "reject": "Ƙi"
+    },
+    "question": {
+      "action.next": "Gaba",
+      "option.recommended": "An ba da shawara"
+    },
+    "plan": {
+      "chip.label": "Shiri"
+    },
+    "workspace": {
+      "section.workspaces": "Wuraren aiki",
+      "section.sessions": "Zance",
+      "search.placeholder": "Nemo zance..."
+    },
+    "feedback": {
+      "action.like": "Amsa mai kyau",
+      "action.dislike": "Amsa mara kyau"
+    },
+    "job": {
+      "status.running": "ana gudanarwa"
+    }
+  }
+}

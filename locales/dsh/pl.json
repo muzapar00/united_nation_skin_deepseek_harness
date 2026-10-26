@@ -1,0 +1,83 @@
+{
+  "code": "pl",
+  "namespaces": {
+    "common": {
+      "ok": "OK",
+      "cancel": "Anuluj",
+      "close": "Zamknij",
+      "copy": "Kopiuj",
+      "copied": "Skopiowano",
+      "copy.failed": "Nie udało się skopiować",
+      "copy.value": "Kopiuj wartość",
+      "retry": "Ponów",
+      "loading": "Ładowanie…",
+      "load.failed": "Nie udało się wczytać",
+      "submit": "Wyślij",
+      "submitting": "Wysyłanie…",
+      "next": "Dalej",
+      "previous": "Wstecz",
+      "skip": "Pomiń",
+      "delete": "Usuń",
+      "edit": "Edytuj",
+      "save": "Zapisz",
+      "search": "Szukaj",
+      "more": "Więcej",
+      "collapse": "Zwiń",
+      "expand": "Rozwiń",
+      "back": "Wstecz",
+      "brand.localBuild": "DSH — kompilacja lokalna",
+      "unknown": "Nieznane",
+      "none": "Brak",
+      "truncated": "Obcięte",
+      "number.thousand": "{value} tys.",
+      "number.million": "{value} mln"
+    },
+    "settings": {
+      "trigger": "Ustawienia",
+      "title": "Ustawienia"
+    },
+    "sidebar": {
+      "session.new": "Nowa sesja",
+      "toggle.open": "Otwórz panel boczny"
+    },
+    "conversation": {
+      "placeholder.default": "Napisz wiadomość lub uruchom zadanie, / polecenia, @ pliki lub sesje",
+      "placeholder.hero": "Opisz, co chcesz zbudować, / polecenia, @ pliki lub sesje",
+      "input.send": "Wyślij wiadomość",
+      "input.stop": "Zatrzymaj generowanie"
+    },
+    "chat": {
+      "view.chat": "Czat"
+    },
+    "command": {
+      "search.placeholder": "Szukaj…"
+    },
+    "model": {
+      "trigger.fallback": "Wybierz model",
+      "menu.model": "Model"
+    },
+    "approval": {
+      "waiting": "Czeka na zatwierdzenie",
+      "reject": "Odrzuć"
+    },
+    "question": {
+      "action.next": "Dalej",
+      "option.recommended": "Polecane"
+    },
+    "plan": {
+      "chip.label": "Plan"
+    },
+    "workspace": {
+      "section.workspaces": "Obszary robocze",
+      "section.sessions": "Sesje",
+      "search.placeholder": "Szukaj sesji..."
+    },
+    "feedback": {
+      "action.like": "Dobra odpowiedź",
+      "action.dislike": "Zła odpowiedź"
+    },
+    "job": {
+      "status.running": "w toku"
+    }
+  }
+}

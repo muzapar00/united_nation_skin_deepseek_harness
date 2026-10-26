@@ -1,0 +1,83 @@
+{
+  "code": "sw",
+  "namespaces": {
+    "common": {
+      "ok": "Sawa",
+      "cancel": "Ghairi",
+      "close": "Funga",
+      "copy": "Nakili",
+      "copied": "Imenakiliwa",
+      "copy.failed": "Kunakili kumeshindikana",
+      "copy.value": "Nakili thamani",
+      "retry": "Jaribu tena",
+      "loading": "Inapakia…",
+      "load.failed": "Imeshindikana kupakia",
+      "submit": "Wasilisha",
+      "submitting": "Inawasilisha…",
+      "next": "Ifuatayo",
+      "previous": "Iliyotangulia",
+      "skip": "Ruka",
+      "delete": "Futa",
+      "edit": "Hariri",
+      "save": "Hifadhi",
+      "search": "Tafuta",
+      "more": "Zaidi",
+      "collapse": "Kunja",
+      "expand": "Panua",
+      "back": "Rudi",
+      "brand.localBuild": "Ujenzi wa Ndani wa DSH",
+      "unknown": "Haijulikani",
+      "none": "Hakuna",
+      "truncated": "Imekatwa",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Mipangilio",
+      "title": "Mipangilio"
+    },
+    "sidebar": {
+      "session.new": "Kikao Kipya",
+      "toggle.open": "Fungua utepe wa kando"
+    },
+    "conversation": {
+      "placeholder.default": "Tuma ujumbe au endesha kazi, / amri, @ faili au vikao",
+      "placeholder.hero": "Eleza unachotaka kuunda, / amri, @ faili au vikao",
+      "input.send": "Tuma ujumbe",
+      "input.stop": "Acha kuzalisha"
+    },
+    "chat": {
+      "view.chat": "Gumzo"
+    },
+    "command": {
+      "search.placeholder": "Tafuta…"
+    },
+    "model": {
+      "trigger.fallback": "Chagua modeli",
+      "menu.model": "Modeli"
+    },
+    "approval": {
+      "waiting": "Inasubiri idhini",
+      "reject": "Kataa"
+    },
+    "question": {
+      "action.next": "Ifuatayo",
+      "option.recommended": "Inapendekezwa"
+    },
+    "plan": {
+      "chip.label": "Mpango"
+    },
+    "workspace": {
+      "section.workspaces": "Maeneo ya kazi",
+      "section.sessions": "Vikao",
+      "search.placeholder": "Tafuta vikao..."
+    },
+    "feedback": {
+      "action.like": "Jibu zuri",
+      "action.dislike": "Jibu baya"
+    },
+    "job": {
+      "status.running": "inaendelea"
+    }
+  }
+}

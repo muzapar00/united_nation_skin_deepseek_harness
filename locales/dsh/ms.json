@@ -1,0 +1,83 @@
+{
+  "code": "ms",
+  "namespaces": {
+    "common": {
+      "ok": "OK",
+      "cancel": "Batal",
+      "close": "Tutup",
+      "copy": "Salin",
+      "copied": "Disalin",
+      "copy.failed": "Gagal menyalin",
+      "copy.value": "Salin nilai",
+      "retry": "Cuba lagi",
+      "loading": "Memuatkan…",
+      "load.failed": "Gagal memuatkan",
+      "submit": "Hantar",
+      "submitting": "Menghantar…",
+      "next": "Seterusnya",
+      "previous": "Sebelumnya",
+      "skip": "Langkau",
+      "delete": "Padam",
+      "edit": "Sunting",
+      "save": "Simpan",
+      "search": "Cari",
+      "more": "Lagi",
+      "collapse": "Runtuhkan",
+      "expand": "Kembangkan",
+      "back": "Kembali",
+      "brand.localBuild": "Binaan Setempat DSH",
+      "unknown": "Tidak diketahui",
+      "none": "Tiada",
+      "truncated": "Dipotong",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Tetapan",
+      "title": "Tetapan"
+    },
+    "sidebar": {
+      "session.new": "Sesi Baharu",
+      "toggle.open": "Buka bar sisi"
+    },
+    "conversation": {
+      "placeholder.default": "Hantar mesej atau jalankan tugasan, / arahan, @ fail atau sesi",
+      "placeholder.hero": "Terangkan perkara yang anda mahu bina, / arahan, @ fail atau sesi",
+      "input.send": "Hantar mesej",
+      "input.stop": "Hentikan penjanaan"
+    },
+    "chat": {
+      "view.chat": "Sembang"
+    },
+    "command": {
+      "search.placeholder": "Cari…"
+    },
+    "model": {
+      "trigger.fallback": "Pilih model",
+      "menu.model": "Model"
+    },
+    "approval": {
+      "waiting": "Menunggu kelulusan",
+      "reject": "Tolak"
+    },
+    "question": {
+      "action.next": "Seterusnya",
+      "option.recommended": "Disyorkan"
+    },
+    "plan": {
+      "chip.label": "Pelan"
+    },
+    "workspace": {
+      "section.workspaces": "Ruang kerja",
+      "section.sessions": "Sesi",
+      "search.placeholder": "Cari sesi..."
+    },
+    "feedback": {
+      "action.like": "Respons baik",
+      "action.dislike": "Respons buruk"
+    },
+    "job": {
+      "status.running": "berjalan"
+    }
+  }
+}

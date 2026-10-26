@@ -1,0 +1,83 @@
+{
+  "code": "uk",
+  "namespaces": {
+    "common": {
+      "ok": "Гаразд",
+      "cancel": "Скасувати",
+      "close": "Закрити",
+      "copy": "Копіювати",
+      "copied": "Скопійовано",
+      "copy.failed": "Не вдалося скопіювати",
+      "copy.value": "Копіювати значення",
+      "retry": "Повторити",
+      "loading": "Завантаження…",
+      "load.failed": "Не вдалося завантажити",
+      "submit": "Надіслати",
+      "submitting": "Надсилання…",
+      "next": "Далі",
+      "previous": "Назад",
+      "skip": "Пропустити",
+      "delete": "Видалити",
+      "edit": "Редагувати",
+      "save": "Зберегти",
+      "search": "Пошук",
+      "more": "Більше",
+      "collapse": "Згорнути",
+      "expand": "Розгорнути",
+      "back": "Назад",
+      "brand.localBuild": "Локальна збірка DSH",
+      "unknown": "Невідомо",
+      "none": "Немає",
+      "truncated": "Обрізано",
+      "number.thousand": "{value} тис.",
+      "number.million": "{value} млн"
+    },
+    "settings": {
+      "trigger": "Налаштування",
+      "title": "Налаштування"
+    },
+    "sidebar": {
+      "session.new": "Новий сеанс",
+      "toggle.open": "Відкрити бічну панель"
+    },
+    "conversation": {
+      "placeholder.default": "Напишіть повідомлення або задачу, / команди, @ файли чи сеанси",
+      "placeholder.hero": "Опишіть, що хочете створити, / команди, @ файли чи сеанси",
+      "input.send": "Надіслати повідомлення",
+      "input.stop": "Зупинити генерацію"
+    },
+    "chat": {
+      "view.chat": "Чат"
+    },
+    "command": {
+      "search.placeholder": "Пошук…"
+    },
+    "model": {
+      "trigger.fallback": "Виберіть модель",
+      "menu.model": "Модель"
+    },
+    "approval": {
+      "waiting": "Очікує схвалення",
+      "reject": "Відхилити"
+    },
+    "question": {
+      "action.next": "Далі",
+      "option.recommended": "Рекомендовано"
+    },
+    "plan": {
+      "chip.label": "План"
+    },
+    "workspace": {
+      "section.workspaces": "Робочі простори",
+      "section.sessions": "Сеанси",
+      "search.placeholder": "Пошук сеансів..."
+    },
+    "feedback": {
+      "action.like": "Гарна відповідь",
+      "action.dislike": "Погана відповідь"
+    },
+    "job": {
+      "status.running": "виконується"
+    }
+  }
+}

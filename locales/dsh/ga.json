@@ -1,0 +1,83 @@
+{
+  "code": "ga",
+  "namespaces": {
+    "common": {
+      "ok": "Ceart go leor",
+      "cancel": "Cealaigh",
+      "close": "Dún",
+      "copy": "Cóipeáil",
+      "copied": "Cóipeáilte",
+      "copy.failed": "Theip ar an gcóipeáil",
+      "copy.value": "Cóipeáil an luach",
+      "retry": "Bain triail eile as",
+      "loading": "Á lódáil…",
+      "load.failed": "Theip ar an lódáil",
+      "submit": "Seol",
+      "submitting": "Á sheoladh…",
+      "next": "Ar aghaidh",
+      "previous": "Ar gcúl",
+      "skip": "Scipeáil",
+      "delete": "Scrios",
+      "edit": "Cuir in eagar",
+      "save": "Sábháil",
+      "search": "Cuardaigh",
+      "more": "Tuilleadh",
+      "collapse": "Laghdaigh",
+      "expand": "Leathnaigh",
+      "back": "Ar ais",
+      "brand.localBuild": "DSH tógáil áitiúil",
+      "unknown": "Anaithnid",
+      "none": "Tada",
+      "truncated": "Gearrtha",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Socruithe",
+      "title": "Socruithe"
+    },
+    "sidebar": {
+      "session.new": "Seisiún nua",
+      "toggle.open": "Oscail an barra taoibh"
+    },
+    "conversation": {
+      "placeholder.default": "Seol teachtaireacht nó rith tasc, / orduithe, @ comhaid nó seisiúin",
+      "placeholder.hero": "Déan cur síos ar a bhfuil tú ag iarraidh a thógáil, / orduithe, @ comhaid nó seisiúin",
+      "input.send": "Seol teachtaireacht",
+      "input.stop": "Stop an ghiniúint"
+    },
+    "chat": {
+      "view.chat": "Comhrá"
+    },
+    "command": {
+      "search.placeholder": "Cuardaigh…"
+    },
+    "model": {
+      "trigger.fallback": "Roghnaigh múnla",
+      "menu.model": "Múnla"
+    },
+    "approval": {
+      "waiting": "Ag fanacht le ceadú",
+      "reject": "Diúltaigh"
+    },
+    "question": {
+      "action.next": "Ar aghaidh",
+      "option.recommended": "Molta"
+    },
+    "plan": {
+      "chip.label": "Plean"
+    },
+    "workspace": {
+      "section.workspaces": "Spásanna oibre",
+      "section.sessions": "Seisiúin",
+      "search.placeholder": "Cuardaigh seisiúin..."
+    },
+    "feedback": {
+      "action.like": "Freagra maith",
+      "action.dislike": "Freagra dona"
+    },
+    "job": {
+      "status.running": "ag rith"
+    }
+  }
+}

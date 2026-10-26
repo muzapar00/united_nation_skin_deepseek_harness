@@ -1,0 +1,83 @@
+{
+  "code": "ru",
+  "namespaces": {
+    "common": {
+      "ok": "ОК",
+      "cancel": "Отмена",
+      "close": "Закрыть",
+      "copy": "Копировать",
+      "copied": "Скопировано",
+      "copy.failed": "Не удалось скопировать",
+      "copy.value": "Копировать значение",
+      "retry": "Повторить",
+      "loading": "Загрузка…",
+      "load.failed": "Не удалось загрузить",
+      "submit": "Отправить",
+      "submitting": "Отправка…",
+      "next": "Далее",
+      "previous": "Назад",
+      "skip": "Пропустить",
+      "delete": "Удалить",
+      "edit": "Изменить",
+      "save": "Сохранить",
+      "search": "Поиск",
+      "more": "Ещё",
+      "collapse": "Свернуть",
+      "expand": "Развернуть",
+      "back": "Назад",
+      "brand.localBuild": "Локальная сборка DSH",
+      "unknown": "Неизвестно",
+      "none": "Нет",
+      "truncated": "Обрезано",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Настройки",
+      "title": "Настройки"
+    },
+    "sidebar": {
+      "session.new": "Новый сеанс",
+      "toggle.open": "Открыть боковую панель"
+    },
+    "conversation": {
+      "placeholder.default": "Отправьте сообщение или запустите задачу, / команды, @ файлы или сеансы",
+      "placeholder.hero": "Опишите, что хотите создать, / команды, @ файлы или сеансы",
+      "input.send": "Отправить сообщение",
+      "input.stop": "Остановить генерацию"
+    },
+    "chat": {
+      "view.chat": "Чат"
+    },
+    "command": {
+      "search.placeholder": "Поиск…"
+    },
+    "model": {
+      "trigger.fallback": "Выбрать модель",
+      "menu.model": "Модель"
+    },
+    "approval": {
+      "waiting": "Ожидание одобрения",
+      "reject": "Отклонить"
+    },
+    "question": {
+      "action.next": "Далее",
+      "option.recommended": "Рекомендуем"
+    },
+    "plan": {
+      "chip.label": "План"
+    },
+    "workspace": {
+      "section.workspaces": "Рабочие пространства",
+      "section.sessions": "Сеансы",
+      "search.placeholder": "Поиск сеансов..."
+    },
+    "feedback": {
+      "action.like": "Хороший ответ",
+      "action.dislike": "Плохой ответ"
+    },
+    "job": {
+      "status.running": "выполняется"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "code": "ug",
+  "namespaces": {
+    "common": {
+      "ok": "بولىدۇ",
+      "cancel": "بىكار قىلىش",
+      "close": "تاقاش",
+      "copy": "كۆچۈرۈش",
+      "copied": "كۆچۈرۈلدى",
+      "copy.failed": "كۆچۈرۈش مەغلۇپ بولدى",
+      "copy.value": "قىممەتنى كۆچۈرۈش",
+      "retry": "قايتا سىناش",
+      "loading": "يۈكلىنىۋاتىدۇ…",
+      "load.failed": "يۈكلىيەلمىدى",
+      "submit": "يوللاش",
+      "submitting": "يوللىنىۋاتىدۇ…",
+      "next": "كېيىنكى",
+      "previous": "ئالدىنقى",
+      "skip": "ئاتلاش",
+      "delete": "ئۆچۈرۈش",
+      "edit": "تەھرىرلەش",
+      "save": "ساقلاش",
+      "search": "ئىزدەش",
+      "more": "تېخىمۇ كۆپ",
+      "collapse": "يىغىش",
+      "expand": "يېيىش",
+      "back": "قايتىش",
+      "brand.localBuild": "DSH يەرلىك قۇرۇلۇشى",
+      "unknown": "نامەلۇم",
+      "none": "يوق",
+      "truncated": "كېسىلگەن",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "تەڭشەك",
+      "title": "تەڭشەك"
+    },
+    "sidebar": {
+      "session.new": "يېڭى سۆھبەت",
+      "toggle.open": "يان بالداقنى ئېچىش"
+    },
+    "conversation": {
+      "placeholder.default": "ئۇچۇر يوللاڭ ياكى ۋەزىپە ئىجرا قىلىڭ، / بۇيرۇقلار، @ ھۆججەت ياكى سۆھبەتلەر",
+      "placeholder.hero": "قۇرماقچى بولغىنىڭىزنى تەسۋىرلەڭ، / بۇيرۇقلار، @ ھۆججەت ياكى سۆھبەتلەر",
+      "input.send": "ئۇچۇر يوللاش",
+      "input.stop": "ھاسىل قىلىشنى توختىتىش"
+    },
+    "chat": {
+      "view.chat": "سۆھبەت"
+    },
+    "command": {
+      "search.placeholder": "ئىزدەش…"
+    },
+    "model": {
+      "trigger.fallback": "مودېل تاللاش",
+      "menu.model": "مودېل"
+    },
+    "approval": {
+      "waiting": "تەستىق كۈتۈلمەكتە",
+      "reject": "رەت قىلىش"
+    },
+    "question": {
+      "action.next": "كېيىنكى",
+      "option.recommended": "تەۋسىيە قىلىنغان"
+    },
+    "plan": {
+      "chip.label": "پىلان"
+    },
+    "workspace": {
+      "section.workspaces": "خىزمەت رايونلىرى",
+      "section.sessions": "سۆھبەتلەر",
+      "search.placeholder": "سۆھبەت ئىزدەش..."
+    },
+    "feedback": {
+      "action.like": "ياخشى جاۋاب",
+      "action.dislike": "ناچار جاۋاب"
+    },
+    "job": {
+      "status.running": "ئىجرا بولۇۋاتىدۇ"
+    }
+  }
+}

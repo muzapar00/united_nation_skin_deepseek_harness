@@ -1,0 +1,83 @@
+{
+  "code": "te",
+  "namespaces": {
+    "common": {
+      "ok": "సరే",
+      "cancel": "రద్దు చేయి",
+      "close": "మూసివేయి",
+      "copy": "కాపీ చేయి",
+      "copied": "కాపీ అయింది",
+      "copy.failed": "కాపీ విఫలమైంది",
+      "copy.value": "విలువను కాపీ చేయి",
+      "retry": "మళ్లీ ప్రయత్నించు",
+      "loading": "లోడ్ అవుతోంది…",
+      "load.failed": "లోడ్ విఫలమైంది",
+      "submit": "సమర్పించు",
+      "submitting": "సమర్పిస్తోంది…",
+      "next": "తదుపరి",
+      "previous": "మునుపటి",
+      "skip": "దాటవేయి",
+      "delete": "తొలగించు",
+      "edit": "సవరించు",
+      "save": "సేవ్ చేయి",
+      "search": "వెతుకు",
+      "more": "మరిన్ని",
+      "collapse": "కుదించు",
+      "expand": "విస్తరించు",
+      "back": "వెనుకకు",
+      "brand.localBuild": "DSH లోకల్ బిల్డ్",
+      "unknown": "తెలియదు",
+      "none": "ఏదీ లేదు",
+      "truncated": "కత్తిరించబడింది",
+      "number.thousand": "{value} వేలు",
+      "number.million": "{value} మిలియన్"
+    },
+    "settings": {
+      "trigger": "సెట్టింగ్‌లు",
+      "title": "సెట్టింగ్‌లు"
+    },
+    "sidebar": {
+      "session.new": "కొత్త సెషన్",
+      "toggle.open": "సైడ్‌బార్ తెరువు"
+    },
+    "conversation": {
+      "placeholder.default": "సందేశం పంపండి లేదా పని నడపండి, / కమాండ్లు, @ ఫైల్లు లేదా సెషన్లు",
+      "placeholder.hero": "మీరు నిర్మించాలనుకున్నది వివరించండి, / కమాండ్లు, @ ఫైల్లు లేదా సెషన్లు",
+      "input.send": "సందేశం పంపు",
+      "input.stop": "రూపొందించడం ఆపు"
+    },
+    "chat": {
+      "view.chat": "చాట్"
+    },
+    "command": {
+      "search.placeholder": "వెతకండి…"
+    },
+    "model": {
+      "trigger.fallback": "మోడల్‌ను ఎంచుకోండి",
+      "menu.model": "మోడల్"
+    },
+    "approval": {
+      "waiting": "ఆమోదం కోసం వేచి ఉంది",
+      "reject": "తిరస్కరించు"
+    },
+    "question": {
+      "action.next": "తదుపరి",
+      "option.recommended": "సిఫార్సు చేయబడింది"
+    },
+    "plan": {
+      "chip.label": "ప్రణాళిక"
+    },
+    "workspace": {
+      "section.workspaces": "వర్క్‌స్పేస్‌లు",
+      "section.sessions": "సెషన్లు",
+      "search.placeholder": "సెషన్లను వెతకండి…"
+    },
+    "feedback": {
+      "action.like": "మంచి సమాధానం",
+      "action.dislike": "చెడు సమాధానం"
+    },
+    "job": {
+      "status.running": "నడుస్తోంది"
+    }
+  }
+}

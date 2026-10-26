@@ -1,0 +1,83 @@
+{
+  "code": "bi",
+  "namespaces": {
+    "common": {
+      "ok": "Oraet",
+      "cancel": "Nogat",
+      "close": "Sarem",
+      "copy": "Kopim",
+      "copied": "Kopim finis",
+      "copy.failed": "I no save kopim",
+      "copy.value": "Kopim value ya",
+      "retry": "Traem bak",
+      "loading": "I stap loud…",
+      "load.failed": "I no save loud",
+      "submit": "Sanem",
+      "submitting": "I stap sanem…",
+      "next": "Nekis",
+      "previous": "Bifo",
+      "skip": "Skipim",
+      "delete": "Aotem",
+      "edit": "Jensem",
+      "save": "Sevem",
+      "search": "Lukluk",
+      "more": "Mo",
+      "collapse": "Haidem",
+      "expand": "Soem",
+      "back": "Go bak",
+      "brand.localBuild": "DSH blong Plaes ya",
+      "unknown": "I no save hem i wanem",
+      "none": "I nogat",
+      "truncated": "Katem finis",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Seting",
+      "title": "Seting"
+    },
+    "sidebar": {
+      "session.new": "Niu toktok",
+      "toggle.open": "Openem saed"
+    },
+    "conversation": {
+      "placeholder.default": "Sanem wan mesej no mekem wan wok, / ol komand, @ ol fail no ol toktok",
+      "placeholder.hero": "Toksave long samting yu wantem wokem, / ol komand, @ ol fail no ol toktok",
+      "input.send": "Sanem mesej",
+      "input.stop": "Stopem wok"
+    },
+    "chat": {
+      "view.chat": "Toktok"
+    },
+    "command": {
+      "search.placeholder": "Lukluk…"
+    },
+    "model": {
+      "trigger.fallback": "Pikim wan model",
+      "menu.model": "Ol model"
+    },
+    "approval": {
+      "waiting": "I stap wet blong oraet",
+      "reject": "Rifjusum"
+    },
+    "question": {
+      "action.next": "Nekis",
+      "option.recommended": "I gud moa"
+    },
+    "plan": {
+      "chip.label": "Plen"
+    },
+    "workspace": {
+      "section.workspaces": "Ol ples wok",
+      "section.sessions": "Ol toktok",
+      "search.placeholder": "Lukluk ol toktok…"
+    },
+    "feedback": {
+      "action.like": "Gudfala ansa",
+      "action.dislike": "Nogudfala ansa"
+    },
+    "job": {
+      "status.running": "i ron"
+    }
+  }
+}

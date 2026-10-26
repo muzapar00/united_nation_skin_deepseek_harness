@@ -1,0 +1,83 @@
+{
+  "code": "bm",
+  "namespaces": {
+    "common": {
+      "ok": "Ɔwɔ",
+      "cancel": "A to",
+      "close": "A da",
+      "copy": "Kɔpi",
+      "copied": "A kɔpira",
+      "copy.failed": "Kɔpi ma kɛ",
+      "copy.value": "A hakɛ kɔpi",
+      "retry": "A kɛ tugun",
+      "loading": "A bɛ labɛn…",
+      "load.failed": "A ma labɛn",
+      "submit": "A ci",
+      "submitting": "A bɛ ci…",
+      "next": "Kɔfɛ",
+      "previous": "Ɲɛfɛ",
+      "skip": "A tɛmɛ",
+      "delete": "A bɔ",
+      "edit": "A falen",
+      "save": "A mara",
+      "search": "Ɲini",
+      "more": "A tɔw",
+      "collapse": "A dogo",
+      "expand": "A jan",
+      "back": "A segin",
+      "brand.localBuild": "DSH Yɔrɔ Baara",
+      "unknown": "A ma dɔn",
+      "none": "Foyi tɛ",
+      "truncated": "A tigɛlen",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Labɛnw",
+      "title": "Labɛnw"
+    },
+    "sidebar": {
+      "session.new": "Kuma kura",
+      "toggle.open": "Kɛrɛfɛ da"
+    },
+    "conversation": {
+      "placeholder.default": "Kuma ci walima baara kɛ, / kumandiw, @ sɛbɛnw walima kumaw",
+      "placeholder.hero": "I bɛ min jɔ, a fɔ, / kumandiw, @ sɛbɛnw walima kumaw",
+      "input.send": "Kuma ci",
+      "input.stop": "A jɔ"
+    },
+    "chat": {
+      "view.chat": "Kuma"
+    },
+    "command": {
+      "search.placeholder": "Ɲini…"
+    },
+    "model": {
+      "trigger.fallback": "Modeli sugandi",
+      "menu.model": "Modeli"
+    },
+    "approval": {
+      "waiting": "A bɛ sɔnli kɔnɔ",
+      "reject": "A bali"
+    },
+    "question": {
+      "action.next": "Kɔfɛ",
+      "option.recommended": "A jiralen"
+    },
+    "plan": {
+      "chip.label": "Labɛn"
+    },
+    "workspace": {
+      "section.workspaces": "Baara yɔrɔw",
+      "section.sessions": "Kumaw",
+      "search.placeholder": "Kuma ɲini..."
+    },
+    "feedback": {
+      "action.like": "Jaabi ɲuman",
+      "action.dislike": "Jaabi jugu"
+    },
+    "job": {
+      "status.running": "A bɛ baara la"
+    }
+  }
+}

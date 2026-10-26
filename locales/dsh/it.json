@@ -1,0 +1,83 @@
+{
+  "code": "it",
+  "namespaces": {
+    "common": {
+      "ok": "OK",
+      "cancel": "Annulla",
+      "close": "Chiudi",
+      "copy": "Copia",
+      "copied": "Copiato",
+      "copy.failed": "Copia non riuscita",
+      "copy.value": "Copia valore",
+      "retry": "Riprova",
+      "loading": "Caricamento…",
+      "load.failed": "Caricamento non riuscito",
+      "submit": "Invia",
+      "submitting": "Invio…",
+      "next": "Avanti",
+      "previous": "Indietro",
+      "skip": "Salta",
+      "delete": "Elimina",
+      "edit": "Modifica",
+      "save": "Salva",
+      "search": "Cerca",
+      "more": "Altro",
+      "collapse": "Comprimi",
+      "expand": "Espandi",
+      "back": "Indietro",
+      "brand.localBuild": "Build locale di DSH",
+      "unknown": "Sconosciuto",
+      "none": "Nessuno",
+      "truncated": "Troncato",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Impostazioni",
+      "title": "Impostazioni"
+    },
+    "sidebar": {
+      "session.new": "Nuova sessione",
+      "toggle.open": "Apri la barra laterale"
+    },
+    "conversation": {
+      "placeholder.default": "Invia un messaggio o avvia un'attività, / comandi, @ file o sessioni",
+      "placeholder.hero": "Descrivi cosa vuoi creare, / comandi, @ file o sessioni",
+      "input.send": "Invia messaggio",
+      "input.stop": "Interrompi generazione"
+    },
+    "chat": {
+      "view.chat": "Chat"
+    },
+    "command": {
+      "search.placeholder": "Cerca…"
+    },
+    "model": {
+      "trigger.fallback": "Seleziona modello",
+      "menu.model": "Modello"
+    },
+    "approval": {
+      "waiting": "In attesa di approvazione",
+      "reject": "Rifiuta"
+    },
+    "question": {
+      "action.next": "Avanti",
+      "option.recommended": "Consigliato"
+    },
+    "plan": {
+      "chip.label": "Piano"
+    },
+    "workspace": {
+      "section.workspaces": "Spazi di lavoro",
+      "section.sessions": "Sessioni",
+      "search.placeholder": "Cerca sessioni..."
+    },
+    "feedback": {
+      "action.like": "Buona risposta",
+      "action.dislike": "Risposta scadente"
+    },
+    "job": {
+      "status.running": "in esecuzione"
+    }
+  }
+}

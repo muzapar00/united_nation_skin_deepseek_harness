@@ -1,0 +1,83 @@
+{
+  "code": "cy",
+  "namespaces": {
+    "common": {
+      "ok": "Iawn",
+      "cancel": "Canslo",
+      "close": "Cau",
+      "copy": "Copïo",
+      "copied": "Wedi copïo",
+      "copy.failed": "Methodd copïo",
+      "copy.value": "Copïo'r gwerth",
+      "retry": "Rhoi cynnig arall",
+      "loading": "Wrthi'n llwytho…",
+      "load.failed": "Methodd llwytho",
+      "submit": "Cyflwyno",
+      "submitting": "Wrthi'n cyflwyno…",
+      "next": "Nesaf",
+      "previous": "Blaenorol",
+      "skip": "Hepgor",
+      "delete": "Dileu",
+      "edit": "Golygu",
+      "save": "Cadw",
+      "search": "Chwilio",
+      "more": "Mwy",
+      "collapse": "Crebachu",
+      "expand": "Ehangu",
+      "back": "Yn ôl",
+      "brand.localBuild": "Fersiwn leol DSH",
+      "unknown": "Anhysbys",
+      "none": "Dim",
+      "truncated": "Wedi torri'n fyr",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Gosodiadau",
+      "title": "Gosodiadau"
+    },
+    "sidebar": {
+      "session.new": "Sesiwn newydd",
+      "toggle.open": "Agor y bar ochr"
+    },
+    "conversation": {
+      "placeholder.default": "Anfonwch neges neu rhedwch dasg, / gorchmynion, @ ffeiliau neu sesiynau",
+      "placeholder.hero": "Disgrifiwch yr hyn yr hoffech ei adeiladu, / gorchmynion, @ ffeiliau neu sesiynau",
+      "input.send": "Anfon neges",
+      "input.stop": "Stopio cynhyrchu"
+    },
+    "chat": {
+      "view.chat": "Sgwrs"
+    },
+    "command": {
+      "search.placeholder": "Chwilio…"
+    },
+    "model": {
+      "trigger.fallback": "Dewis model",
+      "menu.model": "Model"
+    },
+    "approval": {
+      "waiting": "Aros am gymeradwyaeth",
+      "reject": "Gwrthod"
+    },
+    "question": {
+      "action.next": "Nesaf",
+      "option.recommended": "Argymhellwyd"
+    },
+    "plan": {
+      "chip.label": "Cynllun"
+    },
+    "workspace": {
+      "section.workspaces": "Gofodau gwaith",
+      "section.sessions": "Sesiynau",
+      "search.placeholder": "Chwilio sesiynau..."
+    },
+    "feedback": {
+      "action.like": "Ymateb da",
+      "action.dislike": "Ymateb gwael"
+    },
+    "job": {
+      "status.running": "yn rhedeg"
+    }
+  }
+}

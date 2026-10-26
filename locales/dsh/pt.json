@@ -1,0 +1,83 @@
+{
+  "code": "pt",
+  "namespaces": {
+    "common": {
+      "ok": "OK",
+      "cancel": "Cancelar",
+      "close": "Fechar",
+      "copy": "Copiar",
+      "copied": "Copiado",
+      "copy.failed": "Falha ao copiar",
+      "copy.value": "Copiar valor",
+      "retry": "Tentar novamente",
+      "loading": "Carregando…",
+      "load.failed": "Falha ao carregar",
+      "submit": "Enviar",
+      "submitting": "Enviando…",
+      "next": "Avançar",
+      "previous": "Anterior",
+      "skip": "Pular",
+      "delete": "Eliminar",
+      "edit": "Editar",
+      "save": "Salvar",
+      "search": "Pesquisar",
+      "more": "Mais",
+      "collapse": "Recolher",
+      "expand": "Expandir",
+      "back": "Voltar",
+      "brand.localBuild": "Compilação local do DSH",
+      "unknown": "Desconhecido",
+      "none": "Nenhum",
+      "truncated": "Truncado",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Configurações",
+      "title": "Configurações"
+    },
+    "sidebar": {
+      "session.new": "Nova sessão",
+      "toggle.open": "Abrir barra lateral"
+    },
+    "conversation": {
+      "placeholder.default": "Envie uma mensagem ou execute uma tarefa, / comandos, @ arquivos ou sessões",
+      "placeholder.hero": "Descreva o que você quer criar, / comandos, @ arquivos ou sessões",
+      "input.send": "Enviar mensagem",
+      "input.stop": "Parar geração"
+    },
+    "chat": {
+      "view.chat": "Chat"
+    },
+    "command": {
+      "search.placeholder": "Pesquisar…"
+    },
+    "model": {
+      "trigger.fallback": "Selecionar modelo",
+      "menu.model": "Modelo"
+    },
+    "approval": {
+      "waiting": "Aguardando aprovação",
+      "reject": "Recusar"
+    },
+    "question": {
+      "action.next": "Avançar",
+      "option.recommended": "Recomendado"
+    },
+    "plan": {
+      "chip.label": "Plano"
+    },
+    "workspace": {
+      "section.workspaces": "Espaços de trabalho",
+      "section.sessions": "Sessões",
+      "search.placeholder": "Pesquisar sessões..."
+    },
+    "feedback": {
+      "action.like": "Boa resposta",
+      "action.dislike": "Resposta ruim"
+    },
+    "job": {
+      "status.running": "em execução"
+    }
+  }
+}

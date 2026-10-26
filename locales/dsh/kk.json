@@ -1,0 +1,83 @@
+{
+  "code": "kk",
+  "namespaces": {
+    "common": {
+      "ok": "Жарайды",
+      "cancel": "Болдырмау",
+      "close": "Жабу",
+      "copy": "Көшіру",
+      "copied": "Көшірілді",
+      "copy.failed": "Көшіру сәтсіз аяқталды",
+      "copy.value": "Мәнді көшіру",
+      "retry": "Қайталау",
+      "loading": "Жүктелуде…",
+      "load.failed": "Жүктеу сәтсіз аяқталды",
+      "submit": "Жіберу",
+      "submitting": "Жіберілуде…",
+      "next": "Келесі",
+      "previous": "Алдыңғы",
+      "skip": "Өткізіп жіберу",
+      "delete": "Жою",
+      "edit": "Өңдеу",
+      "save": "Сақтау",
+      "search": "Іздеу",
+      "more": "Көбірек",
+      "collapse": "Жию",
+      "expand": "Жаю",
+      "back": "Артқа",
+      "brand.localBuild": "DSH жергілікті нұсқасы",
+      "unknown": "Белгісіз",
+      "none": "Жоқ",
+      "truncated": "Қысқартылған",
+      "number.thousand": "{value} мың",
+      "number.million": "{value} млн"
+    },
+    "settings": {
+      "trigger": "Параметрлер",
+      "title": "Параметрлер"
+    },
+    "sidebar": {
+      "session.new": "Жаңа сессия",
+      "toggle.open": "Бүйір панелін ашу"
+    },
+    "conversation": {
+      "placeholder.default": "Хабарлама жазыңыз немесе тапсырма іске қосыңыз, / пәрмендер, @ файлдар немесе сессиялар",
+      "placeholder.hero": "Нені жасағыңыз келетінін сипаттаңыз, / пәрмендер, @ файлдар немесе сессиялар",
+      "input.send": "Хабарлама жіберу",
+      "input.stop": "Генерацияны тоқтату"
+    },
+    "chat": {
+      "view.chat": "Әңгіме"
+    },
+    "command": {
+      "search.placeholder": "Іздеу…"
+    },
+    "model": {
+      "trigger.fallback": "Модель таңдау",
+      "menu.model": "Модель"
+    },
+    "approval": {
+      "waiting": "Растауды күтуде",
+      "reject": "Қабылдамау"
+    },
+    "question": {
+      "action.next": "Келесі",
+      "option.recommended": "Ұсынылады"
+    },
+    "plan": {
+      "chip.label": "Жоспар"
+    },
+    "workspace": {
+      "section.workspaces": "Жұмыс кеңістіктері",
+      "section.sessions": "Сессиялар",
+      "search.placeholder": "Сессияларды іздеу..."
+    },
+    "feedback": {
+      "action.like": "Жақсы жауап",
+      "action.dislike": "Нашар жауап"
+    },
+    "job": {
+      "status.running": "орындалуда"
+    }
+  }
+}

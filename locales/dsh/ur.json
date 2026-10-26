@@ -1,0 +1,83 @@
+{
+  "code": "ur",
+  "namespaces": {
+    "common": {
+      "ok": "ٹھیک ہے",
+      "cancel": "منسوخ",
+      "close": "بند کریں",
+      "copy": "نقل کریں",
+      "copied": "نقل ہو گیا",
+      "copy.failed": "نقل نہیں ہو سکا",
+      "copy.value": "مقدار نقل کریں",
+      "retry": "دوبارہ کوشش",
+      "loading": "لوڈ ہو رہا ہے…",
+      "load.failed": "لوڈ نہیں ہو سکا",
+      "submit": "جمع کریں",
+      "submitting": "جمع ہو رہا ہے…",
+      "next": "اگلا",
+      "previous": "پچھلا",
+      "skip": "چھوڑیں",
+      "delete": "حذف کریں",
+      "edit": "ترمیم",
+      "save": "محفوظ کریں",
+      "search": "تلاش",
+      "more": "مزید",
+      "collapse": "سمیٹیں",
+      "expand": "پھیلائیں",
+      "back": "واپس",
+      "brand.localBuild": "DSH مقامی بلڈ",
+      "unknown": "نامعلوم",
+      "none": "کوئی نہیں",
+      "truncated": "کٹا ہوا",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "ترتیبات",
+      "title": "ترتیبات"
+    },
+    "sidebar": {
+      "session.new": "نیا سیشن",
+      "toggle.open": "سائڈبار کھولیں"
+    },
+    "conversation": {
+      "placeholder.default": "پیغام بھیجیں یا کوئی کام چلائیں، / کمانڈز، @ فائلیں یا سیشنز",
+      "placeholder.hero": "بتائیں کہ آپ کیا بنانا چاہتے ہیں، / کمانڈز، @ فائلیں یا سیشنز",
+      "input.send": "پیغام بھیجیں",
+      "input.stop": "جنریشن روکیں"
+    },
+    "chat": {
+      "view.chat": "چیٹ"
+    },
+    "command": {
+      "search.placeholder": "تلاش…"
+    },
+    "model": {
+      "trigger.fallback": "ماڈل منتخب کریں",
+      "menu.model": "ماڈل"
+    },
+    "approval": {
+      "waiting": "منظوری کا انتظار",
+      "reject": "مسترد کریں"
+    },
+    "question": {
+      "action.next": "اگلا",
+      "option.recommended": "تجویز کردہ"
+    },
+    "plan": {
+      "chip.label": "منصوبہ"
+    },
+    "workspace": {
+      "section.workspaces": "ورک اسپیسز",
+      "section.sessions": "سیشنز",
+      "search.placeholder": "سیشنز تلاش کریں..."
+    },
+    "feedback": {
+      "action.like": "اچھا جواب",
+      "action.dislike": "برا جواب"
+    },
+    "job": {
+      "status.running": "چل رہا ہے"
+    }
+  }
+}

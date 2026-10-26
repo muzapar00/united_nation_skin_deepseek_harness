@@ -1,0 +1,83 @@
+{
+  "code": "mg",
+  "namespaces": {
+    "common": {
+      "ok": "Tsara",
+      "cancel": "Afoano",
+      "close": "Hidio",
+      "copy": "Adikao",
+      "copied": "Voadika",
+      "copy.failed": "Tsy nahomby ny fandikana",
+      "copy.value": "Adikao ny sandany",
+      "retry": "Andramo indray",
+      "loading": "Eo am-pakàna…",
+      "load.failed": "Tsy nahomby ny fakàna",
+      "submit": "Alefa",
+      "submitting": "Eo am-pandefasana…",
+      "next": "Manaraka",
+      "previous": "Teo aloha",
+      "skip": "Hihoatra",
+      "delete": "Fafao",
+      "edit": "Ovay",
+      "save": "Tehirizo",
+      "search": "Hikaroka",
+      "more": "Bebe kokoa",
+      "collapse": "Aforito",
+      "expand": "Avelaro",
+      "back": "Hiverina",
+      "brand.localBuild": "DSH Fananganana Eto An-Toerana",
+      "unknown": "Tsy fantatra",
+      "none": "Tsy misy",
+      "truncated": "Notapahina",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Fikirana",
+      "title": "Fikirana"
+    },
+    "sidebar": {
+      "session.new": "Dinika vaovao",
+      "toggle.open": "Sokafy ny sisiny"
+    },
+    "conversation": {
+      "placeholder.default": "Alefaso hafatra na entano ny asa, / baiko, @ rakitra na dinika",
+      "placeholder.hero": "Farano izay tianao hamboarina, / baiko, @ rakitra na dinika",
+      "input.send": "Alefaso ny hafatra",
+      "input.stop": "Ajanona ny famokarana"
+    },
+    "chat": {
+      "view.chat": "Dinika"
+    },
+    "command": {
+      "search.placeholder": "Hikaroka…"
+    },
+    "model": {
+      "trigger.fallback": "Misafidiana modely",
+      "menu.model": "Modely"
+    },
+    "approval": {
+      "waiting": "Miandry fankatoavana",
+      "reject": "Lavio"
+    },
+    "question": {
+      "action.next": "Manaraka",
+      "option.recommended": "Tolo-kevitra"
+    },
+    "plan": {
+      "chip.label": "Drafitra"
+    },
+    "workspace": {
+      "section.workspaces": "Toeram-piasana",
+      "section.sessions": "Dinika",
+      "search.placeholder": "Hikaroka dinika..."
+    },
+    "feedback": {
+      "action.like": "Valiny tsara",
+      "action.dislike": "Valiny ratsy"
+    },
+    "job": {
+      "status.running": "mandeha"
+    }
+  }
+}

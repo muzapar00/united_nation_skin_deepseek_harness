@@ -1,0 +1,83 @@
+{
+  "code": "haw",
+  "namespaces": {
+    "common": {
+      "ok": "ʻAe",
+      "cancel": "Hoʻopau",
+      "close": "Pani",
+      "copy": "Kope",
+      "copied": "Ua kope ʻia",
+      "copy.failed": "ʻAʻole i kope ʻia",
+      "copy.value": "E kope i ka waiwai",
+      "retry": "E hoʻāʻo hou",
+      "loading": "Ke hoʻouka ʻia…",
+      "load.failed": "ʻAʻole i hoʻouka ʻia",
+      "submit": "Hoʻouna",
+      "submitting": "Ke hoʻouna ʻia…",
+      "next": "Aʻe",
+      "previous": "Mua",
+      "skip": "Lele",
+      "delete": "Holoi",
+      "edit": "Hoʻololi",
+      "save": "Mālama",
+      "search": "Huli",
+      "more": "Hou aʻe",
+      "collapse": "Hōʻemi",
+      "expand": "Hoʻonui",
+      "back": "Hoʻi",
+      "brand.localBuild": "DSH Hana Kūloko",
+      "unknown": "ʻIke ʻole ʻia",
+      "none": "ʻAʻohe",
+      "truncated": "Ua ʻoki ʻia",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Nā hoʻonohonoho",
+      "title": "Nā hoʻonohonoho"
+    },
+    "sidebar": {
+      "session.new": "Kamaʻilio hou",
+      "toggle.open": "Wehe i ka ʻaoʻao"
+    },
+    "conversation": {
+      "placeholder.default": "E hoʻouna i ka leka a e hana paha i kahi hana, / nā kauoha, @ nā waihona a i ʻole nā kamaʻilio",
+      "placeholder.hero": "E wehewehe i kāu mea e makemake ai e kūkulu, / nā kauoha, @ nā waihona a i ʻole nā kamaʻilio",
+      "input.send": "Hoʻouna i ka leka",
+      "input.stop": "Hoʻōki i ka hana"
+    },
+    "chat": {
+      "view.chat": "Kamaʻilio"
+    },
+    "command": {
+      "search.placeholder": "Huli…"
+    },
+    "model": {
+      "trigger.fallback": "E koho i ke kumu hoʻohālike",
+      "menu.model": "Kumu hoʻohālike"
+    },
+    "approval": {
+      "waiting": "Ke kali ana i ka ʻae",
+      "reject": "Hōʻole"
+    },
+    "question": {
+      "action.next": "Aʻe",
+      "option.recommended": "Paipai ʻia"
+    },
+    "plan": {
+      "chip.label": "Papahana"
+    },
+    "workspace": {
+      "section.workspaces": "Nā wahi hana",
+      "section.sessions": "Nā kamaʻilio",
+      "search.placeholder": "Huli kamaʻilio…"
+    },
+    "feedback": {
+      "action.like": "Pane maikaʻi",
+      "action.dislike": "Pane maikaʻi ʻole"
+    },
+    "job": {
+      "status.running": "ke holo nei"
+    }
+  }
+}

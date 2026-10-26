@@ -1,0 +1,83 @@
+{
+  "code": "eu",
+  "namespaces": {
+    "common": {
+      "ok": "Ados",
+      "cancel": "Utzi",
+      "close": "Itxi",
+      "copy": "Kopiatu",
+      "copied": "Kopiatuta",
+      "copy.failed": "Kopiatzeak huts egin du",
+      "copy.value": "Kopiatu balioa",
+      "retry": "Saiatu berriro",
+      "loading": "Kargatzen…",
+      "load.failed": "Kargatzeak huts egin du",
+      "submit": "Bidali",
+      "submitting": "Bidaltzen…",
+      "next": "Hurrengoa",
+      "previous": "Aurrekoa",
+      "skip": "Saltatu",
+      "delete": "Ezabatu",
+      "edit": "Editatu",
+      "save": "Gorde",
+      "search": "Bilatu",
+      "more": "Gehiago",
+      "collapse": "Tolestu",
+      "expand": "Zabaldu",
+      "back": "Atzera",
+      "brand.localBuild": "DSH eraikuntza lokala",
+      "unknown": "Ezezaguna",
+      "none": "Bat ere ez",
+      "truncated": "Moztuta",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Ezarpenak",
+      "title": "Ezarpenak"
+    },
+    "sidebar": {
+      "session.new": "Saio berria",
+      "toggle.open": "Ireki alboko barra"
+    },
+    "conversation": {
+      "placeholder.default": "Bidali mezu bat edo exekutatu zeregin bat, / komandoak, @ fitxategiak edo saioak",
+      "placeholder.hero": "Deskribatu zer eraiki nahi duzun, / komandoak, @ fitxategiak edo saioak",
+      "input.send": "Bidali mezua",
+      "input.stop": "Gelditu sorkuntza"
+    },
+    "chat": {
+      "view.chat": "Txata"
+    },
+    "command": {
+      "search.placeholder": "Bilatu…"
+    },
+    "model": {
+      "trigger.fallback": "Hautatu modeloa",
+      "menu.model": "Modeloa"
+    },
+    "approval": {
+      "waiting": "Onespenaren zain",
+      "reject": "Baztertu"
+    },
+    "question": {
+      "action.next": "Hurrengoa",
+      "option.recommended": "Gomendatua"
+    },
+    "plan": {
+      "chip.label": "Plana"
+    },
+    "workspace": {
+      "section.workspaces": "Lan-eremuak",
+      "section.sessions": "Saioak",
+      "search.placeholder": "Bilatu saioak..."
+    },
+    "feedback": {
+      "action.like": "Erantzun ona",
+      "action.dislike": "Erantzun txarra"
+    },
+    "job": {
+      "status.running": "martxan"
+    }
+  }
+}

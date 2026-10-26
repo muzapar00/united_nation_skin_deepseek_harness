@@ -1,0 +1,83 @@
+{
+  "code": "wo",
+  "namespaces": {
+    "common": {
+      "ok": "Waaw",
+      "cancel": "Bàyyi",
+      "close": "Tëj",
+      "copy": "Kopi",
+      "copied": "Kopi nañu ko",
+      "copy.failed": "Kopi bi baarul",
+      "copy.value": "Kopi njariñ bi",
+      "retry": "Jéemaat",
+      "loading": "Mungi ñëw…",
+      "load.failed": "Ñëwul",
+      "submit": "Yónnee",
+      "submitting": "Ci yónnee…",
+      "next": "Bi ci topp",
+      "previous": "Bi jiitu",
+      "skip": "Tippi",
+      "delete": "Far",
+      "edit": "Soppi",
+      "save": "Denc",
+      "search": "Seet",
+      "more": "Lu ëpp",
+      "collapse": "Wàññi",
+      "expand": "Yaatal",
+      "back": "Dellu",
+      "brand.localBuild": "DSH Sancu Fi",
+      "unknown": "Xamul",
+      "none": "Amul",
+      "truncated": "Dagg na",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Reglaas",
+      "title": "Reglaas"
+    },
+    "sidebar": {
+      "session.new": "Waxtaan bu bees",
+      "toggle.open": "Ubbi wàll bi"
+    },
+    "conversation": {
+      "placeholder.default": "Yónnee bataaxal walla def ab liggéey, / ndigal, @ fisye walla waxtaan",
+      "placeholder.hero": "Wax li bëgg-nga sanc, / ndigal, @ fisye walla waxtaan",
+      "input.send": "Yónnee bataaxal",
+      "input.stop": "Taxawal sos"
+    },
+    "chat": {
+      "view.chat": "Waxtaan"
+    },
+    "command": {
+      "search.placeholder": "Seet…"
+    },
+    "model": {
+      "trigger.fallback": "Tann ab modël",
+      "menu.model": "Modël"
+    },
+    "approval": {
+      "waiting": "Mungi xaar nangu",
+      "reject": "Bañ"
+    },
+    "question": {
+      "action.next": "Bi ci topp",
+      "option.recommended": "Digal nañu ko"
+    },
+    "plan": {
+      "chip.label": "Pexe"
+    },
+    "workspace": {
+      "section.workspaces": "Bérabu liggéey",
+      "section.sessions": "Waxtaan yi",
+      "search.placeholder": "Seet waxtaan yi..."
+    },
+    "feedback": {
+      "action.like": "Tontu baax",
+      "action.dislike": "Tontu bon"
+    },
+    "job": {
+      "status.running": "Mungi dox"
+    }
+  }
+}

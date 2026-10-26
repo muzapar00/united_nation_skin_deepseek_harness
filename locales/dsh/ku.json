@@ -1,0 +1,83 @@
+{
+  "code": "ku",
+  "namespaces": {
+    "common": {
+      "ok": "Baş e",
+      "cancel": "Betal bike",
+      "close": "Bigire",
+      "copy": "Kopî bike",
+      "copied": "Hat kopîkirin",
+      "copy.failed": "Kopîkirin biserneket",
+      "copy.value": "Nirxê kopî bike",
+      "retry": "Dîsa biceribîne",
+      "loading": "Tê barkirin…",
+      "load.failed": "Barkirin biserneket",
+      "submit": "Bişîne",
+      "submitting": "Tê şandin…",
+      "next": "Pêşve",
+      "previous": "Paşve",
+      "skip": "Derbas bike",
+      "delete": "Jê bibe",
+      "edit": "Biguhêre",
+      "save": "Tomar bike",
+      "search": "Lêgerîn",
+      "more": "Zêdetir",
+      "collapse": "Qat bike",
+      "expand": "Veke",
+      "back": "Paş",
+      "brand.localBuild": "DSH avakirina herêmî",
+      "unknown": "Nenas",
+      "none": "Tune",
+      "truncated": "Hat birîn",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Sazkarî",
+      "title": "Sazkarî"
+    },
+    "sidebar": {
+      "session.new": "Danişîna nû",
+      "toggle.open": "Panela kêlekê veke"
+    },
+    "conversation": {
+      "placeholder.default": "Peyamek bişîne an karekî bimeşîne, / ferman, @ pel an danişîn",
+      "placeholder.hero": "Diyar bike ka tu dixwazî çi çêkî, / ferman, @ pel an danişîn",
+      "input.send": "Peyam bişîne",
+      "input.stop": "Çêkirinê rawestîne"
+    },
+    "chat": {
+      "view.chat": "Hevpeyvîn"
+    },
+    "command": {
+      "search.placeholder": "Lêgerîn…"
+    },
+    "model": {
+      "trigger.fallback": "Model hilbijêre",
+      "menu.model": "Model"
+    },
+    "approval": {
+      "waiting": "Li benda pejirandinê",
+      "reject": "Red bike"
+    },
+    "question": {
+      "action.next": "Pêşve",
+      "option.recommended": "Pêşniyazkirî"
+    },
+    "plan": {
+      "chip.label": "Plan"
+    },
+    "workspace": {
+      "section.workspaces": "Qadên xebatê",
+      "section.sessions": "Danişîn",
+      "search.placeholder": "Li danişînan bigere..."
+    },
+    "feedback": {
+      "action.like": "Bersiva baş",
+      "action.dislike": "Bersiva xerab"
+    },
+    "job": {
+      "status.running": "dimeşe"
+    }
+  }
+}

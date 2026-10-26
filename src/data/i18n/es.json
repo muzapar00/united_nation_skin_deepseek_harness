@@ -1,0 +1,91 @@
+{
+  "language": "es",
+  "facts": {
+    "founded": "Las Naciones Unidas se fundaron el 24 de octubre de 1945, cuando entró en vigor la Carta. Ese día se celebra cada año el Día de las Naciones Unidas.",
+    "members": "Las Naciones Unidas cuentan con 193 Estados Miembros. Sudán del Sur, que se incorporó en 2011, es el miembro más reciente.",
+    "languages": "Las Naciones Unidas trabajan en seis idiomas oficiales: árabe, chino, inglés, francés, ruso y español.",
+    "flag": "La bandera de las Naciones Unidas fue adoptada el 20 de octubre de 1947: fondo azul claro con el emblema en blanco. El azul es el color de la esperanza.",
+    "emblem": "El emblema es un mapa del mundo en proyección azimutal equidistante centrada en el Polo Norte, rodeado de dos ramas de olivo: el mundo, en paz.",
+    "charter-purposes": "La Carta establece cuatro propósitos: mantener la paz y la seguridad internacionales, fomentar las relaciones de amistad entre las naciones, cooperar en la solución de los problemas económicos, sociales y culturales y servir de centro que armonice los esfuerzos de las naciones.",
+    "we-the-peoples": "La Carta comienza con tres palabras: «Nosotros los pueblos». Fue adoptada en San Francisco en 1945 por 51 miembros fundadores.",
+    "general-assembly": "En la Asamblea General, cada Estado Miembro tiene un voto. La Asamblea se reúne cada septiembre en Nueva York.",
+    "security-council": "El Consejo de Seguridad tiene 15 miembros: cinco permanentes y diez elegidos por un período de dos años. Tiene la responsabilidad primordial del mantenimiento de la paz y la seguridad internacionales.",
+    "secretary-general": "El Secretario General es nombrado por la Asamblea General a recomendación del Consejo de Seguridad y habla en nombre de los pueblos del mundo.",
+    "members-history": "Las Naciones Unidas empezaron con 51 miembros en 1945. La descolonización llevó la cifra por encima de 100 en 1960 y hasta los 193 actuales.",
+    "peacekeeping-1948": "El mantenimiento de la paz de las Naciones Unidas comenzó en 1948 con el Organismo de las Naciones Unidas para la Vigilancia de la Tregua, en Oriente Medio. Su labor continúa hoy.",
+    "peacekeepers": "Desde 1948, más de dos millones de cascos azules de más de 120 países han servido bajo la bandera de las Naciones Unidas.",
+    "peacekeepers-day": "El 29 de mayo es el Día Internacional del Personal de Paz de las Naciones Unidas, en homenaje a quienes sirven y a quienes han dado su vida.",
+    "peacekeepers-fallen": "Más de 4.000 cascos azules han perdido la vida al servicio de la paz. Las Naciones Unidas los recuerdan y les agradecen su servicio y su sacrificio.",
+    "peacebuilding": "El mantenimiento de la paz es más que patrullar. Los cascos azules protegen a los civiles, supervisan los alto el fuego, despejan minas terrestres, entregan ayuda y contribuyen a reconstruir escuelas y centros de salud.",
+    "udhr": "La Declaración Universal de Derechos Humanos fue adoptada el 10 de diciembre de 1948. Su primer artículo: «Todos los seres humanos nacen libres e iguales en dignidad y derechos».",
+    "human-rights-day": "El 10 de diciembre es el Día de los Derechos Humanos, que conmemora la fecha en que se adoptó la Declaración Universal en 1948.",
+    "genocide-convention": "En 1948, la Asamblea General adoptó la Convención para la Prevención y la Sanción del Delito de Genocidio, el primer tratado de derechos humanos de las Naciones Unidas.",
+    "sdgs": "En 2015, las Naciones Unidas adoptaron los 17 Objetivos de Desarrollo Sostenible y la Agenda 2030 para el Desarrollo Sostenible: una promesa compartida de no dejar a nadie atrás.",
+    "no-one-left-behind": "«No dejar a nadie atrás» es la promesa central de la Agenda 2030: el desarrollo solo cuenta cuando llega a los más rezagados.",
+    "wfp": "El Programa Mundial de Alimentos, fundado en 1961, recibió el Premio Nobel de la Paz en 2020 por su labor contra el hambre.",
+    "who": "La Organización Mundial de la Salud se fundó el 7 de abril de 1948. Esa fecha se celebra hoy como el Día Mundial de la Salud.",
+    "unesco": "La Constitución de la UNESCO, adoptada en 1945, proclama: «puesto que las guerras nacen en la mente de los hombres, es en la mente de los hombres donde deben erigirse los baluartes de la paz».",
+    "climate": "El Acuerdo de París se adoptó en 2015 en el marco de la Convención Marco de las Naciones Unidas sobre el Cambio Climático y constituye el plan común del mundo para limitar el calentamiento global.",
+    "anti-fascism": "Las Naciones Unidas nacieron de la victoria sobre el fascismo. Su Carta se abre con la resolución de preservar a las generaciones venideras del flagelo de la guerra.",
+    "wwii-remembrance": "Los días 8 y 9 de mayo se celebran las Jornadas de Recuerdo y Reconciliación en Honor de Quienes Perdieron la Vida en la Segunda Guerra Mundial, establecidas por la Asamblea General en 2004.",
+    "holocaust-remembrance": "El 27 de enero es el Día Internacional de Conmemoración en memoria de las víctimas del Holocausto, establecido por la Asamblea General en 2005.",
+    "china-founding": "China es miembro fundador de las Naciones Unidas y miembro permanente del Consejo de Seguridad. El 25 de octubre de 1971, la resolución 2758 (XXVI) de la Asamblea General restableció todos los derechos legítimos de la República Popular de China en las Naciones Unidas.",
+    "five-principles": "Los Cinco Principios de Coexistencia Pacífica —respeto mutuo de la soberanía y la integridad territorial, no agresión mutua, no injerencia en los asuntos internos, igualdad y beneficio mutuo y coexistencia pacífica— fueron impulsados por China, la India y Myanmar en 1954, en el espíritu de la Carta.",
+    "gdi": "La Iniciativa para el Desarrollo Global se propuso en 2021 para orientar el desarrollo mundial hacia una senda equilibrada, inclusiva y de beneficio mutuo.",
+    "gsi": "La Iniciativa para la Seguridad Global se propuso en 2022 y aboga por una seguridad común, integral, cooperativa y sostenible.",
+    "gci": "La Iniciativa para la Civilización Global se propuso en 2023 y llama a respetar la diversidad de las civilizaciones y a promover el progreso común.",
+    "ggi": "La Iniciativa para la Gobernanza Global se propuso en 2025 y aboga por un sistema de gobernanza global más justo y razonable.",
+    "shared-future": "La visión de una comunidad de futuro compartido para la humanidad se ha inscrito en documentos de las Naciones Unidas, incluidas resoluciones del Consejo de Seguridad y de la Asamblea General.",
+    "un80": "En 2025, las Naciones Unidas conmemoran su 80.º aniversario: ochenta años de labor por la paz, la dignidad y el desarrollo."
+  },
+  "quotes": {
+    "q-preamble-1": {
+      "text": "Nosotros los pueblos de las Naciones Unidas, resueltos a preservar a las generaciones venideras del flagelo de la guerra que dos veces durante nuestra vida ha infligido a la Humanidad sufrimientos indecibles.",
+      "src": "Carta de las Naciones Unidas, Preámbulo"
+    },
+    "q-preamble-2": {
+      "text": "A reafirmar la fe en los derechos fundamentales del hombre, en la dignidad y el valor de la persona humana, en la igualdad de derechos de hombres y mujeres y de las naciones grandes y pequeñas.",
+      "src": "Carta de las Naciones Unidas, Preámbulo"
+    },
+    "q-preamble-3": {
+      "text": "A crear condiciones bajo las cuales puedan mantenerse la justicia y el respeto a las obligaciones emanadas de los tratados y de otras fuentes del derecho internacional.",
+      "src": "Carta de las Naciones Unidas, Preámbulo"
+    },
+    "q-preamble-4": {
+      "text": "A promover el progreso social y a elevar el nivel de vida dentro de un concepto más amplio de la libertad.",
+      "src": "Carta de las Naciones Unidas, Preámbulo"
+    },
+    "q-preamble-5": {
+      "text": "A practicar la tolerancia y a convivir en paz como buenos vecinos.",
+      "src": "Carta de las Naciones Unidas, Preámbulo"
+    },
+    "q-preamble-6": {
+      "text": "A unir nuestras fuerzas para el mantenimiento de la paz y la seguridad internacionales.",
+      "src": "Carta de las Naciones Unidas, Preámbulo"
+    },
+    "q-udhr-1": {
+      "text": "Todos los seres humanos nacen libres e iguales en dignidad y derechos y, dotados como están de razón y conciencia, deben comportarse fraternalmente los unos con los otros.",
+      "src": "Declaración Universal de Derechos Humanos, artículo 1"
+    },
+    "q-udhr-3": {
+      "text": "Todo individuo tiene derecho a la vida, a la libertad y a la seguridad de su persona.",
+      "src": "Declaración Universal de Derechos Humanos, artículo 3"
+    },
+    "q-udhr-preamble": {
+      "text": "Considerando que la libertad, la justicia y la paz en el mundo tienen por base el reconocimiento de la dignidad intrínseca y de los derechos iguales e inalienables de todos los miembros de la familia humana.",
+      "src": "Declaración Universal de Derechos Humanos, Preámbulo"
+    },
+    "q-unesco": {
+      "text": "Puesto que las guerras nacen en la mente de los hombres, es en la mente de los hombres donde deben erigirse los baluartes de la paz.",
+      "src": "Constitución de la UNESCO, 1945"
+    },
+    "q-datong": {
+      "text": "Cuando prevalece el Gran Camino, el mundo es común a todos.",
+      "src": "Libro de los Ritos (Liji), siglo V a. C."
+    },
+    "q-shared-future": {
+      "text": "Construir una comunidad de futuro compartido para la humanidad significa hacer del bienestar de todos los pueblos la medida de nuestra labor común.",
+      "src": "Propuesta de China a las Naciones Unidas"
+    }
+  }
+}

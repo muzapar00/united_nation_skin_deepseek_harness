@@ -1,0 +1,83 @@
+{
+  "code": "or",
+  "namespaces": {
+    "common": {
+      "ok": "ଠିକ୍ ଅଛି",
+      "cancel": "ବାତିଲ୍ କରନ୍ତୁ",
+      "close": "ବନ୍ଦ କରନ୍ତୁ",
+      "copy": "କପି କରନ୍ତୁ",
+      "copied": "କପି ହୋଇଛି",
+      "copy.failed": "କପି ବିଫଳ ହେଲା",
+      "copy.value": "ମୂଲ୍ୟ କପି କରନ୍ତୁ",
+      "retry": "ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ",
+      "loading": "ଲୋଡ୍ ହେଉଛି…",
+      "load.failed": "ଲୋଡ୍ ବିଫଳ ହେଲା",
+      "submit": "ଦାଖଲ କରନ୍ତୁ",
+      "submitting": "ଦାଖଲ ହେଉଛି…",
+      "next": "ପରବର୍ତ୍ତୀ",
+      "previous": "ପୂର୍ବବର୍ତ୍ତୀ",
+      "skip": "ଛାଡ଼ିଦିଅନ୍ତୁ",
+      "delete": "ବିଲୋପ କରନ୍ତୁ",
+      "edit": "ସମ୍ପାଦନ କରନ୍ତୁ",
+      "save": "ସଞ୍ଚୟ କରନ୍ତୁ",
+      "search": "ଖୋଜନ୍ତୁ",
+      "more": "ଅଧିକ",
+      "collapse": "ସଂକୁଚିତ କରନ୍ତୁ",
+      "expand": "ବିସ୍ତାର କରନ୍ତୁ",
+      "back": "ଫେରନ୍ତୁ",
+      "brand.localBuild": "DSH ସ୍ଥାନୀୟ ବିଲ୍ଡ",
+      "unknown": "ଅଜ୍ଞାତ",
+      "none": "କିଛି ନାହିଁ",
+      "truncated": "ଛେଦିତ",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "ସେଟିଂସ୍",
+      "title": "ସେଟିଂସ୍"
+    },
+    "sidebar": {
+      "session.new": "ନୂଆ ସେସନ୍",
+      "toggle.open": "ସାଇଡବାର ଖୋଲନ୍ତୁ"
+    },
+    "conversation": {
+      "placeholder.default": "ବାର୍ତ୍ତା ପଠାନ୍ତୁ କିମ୍ବା କାର୍ଯ୍ୟ ଚଲାନ୍ତୁ, / ନିର୍ଦ୍ଦେଶ, @ ଫାଇଲ୍ କିମ୍ବା ସେସନ୍",
+      "placeholder.hero": "ଆପଣ କଣ ତିଆରି କରିବାକୁ ଚାହାନ୍ତି ବର୍ଣ୍ଣନା କରନ୍ତୁ, / ନିର୍ଦ୍ଦେଶ, @ ଫାଇଲ୍ କିମ୍ବା ସେସନ୍",
+      "input.send": "ବାର୍ତ୍ତା ପଠାନ୍ତୁ",
+      "input.stop": "ସୃଷ୍ଟି ବନ୍ଦ କରନ୍ତୁ"
+    },
+    "chat": {
+      "view.chat": "ଚାଟ୍"
+    },
+    "command": {
+      "search.placeholder": "ଖୋଜନ୍ତୁ…"
+    },
+    "model": {
+      "trigger.fallback": "ମଡେଲ୍ ବାଛନ୍ତୁ",
+      "menu.model": "ମଡେଲ୍"
+    },
+    "approval": {
+      "waiting": "ଅନୁମୋଦନ ଅପେକ୍ଷାରେ",
+      "reject": "ପ୍ରତ୍ୟାଖ୍ୟାନ କରନ୍ତୁ"
+    },
+    "question": {
+      "action.next": "ପରବର୍ତ୍ତୀ",
+      "option.recommended": "ପ୍ରସ୍ତାବିତ"
+    },
+    "plan": {
+      "chip.label": "ଯୋଜନା"
+    },
+    "workspace": {
+      "section.workspaces": "କାର୍ଯ୍ୟକ୍ଷେତ୍ର",
+      "section.sessions": "ସେସନ୍",
+      "search.placeholder": "ସେସନ୍ ଖୋଜନ୍ତୁ..."
+    },
+    "feedback": {
+      "action.like": "ଭଲ ଉତ୍ତର",
+      "action.dislike": "ଖରାପ ଉତ୍ତର"
+    },
+    "job": {
+      "status.running": "ଚାଲୁଛି"
+    }
+  }
+}

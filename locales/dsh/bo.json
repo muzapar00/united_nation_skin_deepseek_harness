@@ -1,0 +1,83 @@
+{
+  "code": "bo",
+  "namespaces": {
+    "common": {
+      "ok": "ཆོག",
+      "cancel": "ཕྱིར་འཐེན",
+      "close": "བརྒྱག",
+      "copy": "འདྲ་བཤུས",
+      "copied": "འདྲ་བཤུས་བྱས་ཟིན",
+      "copy.failed": "འདྲ་བཤུས་མ་བྱུང",
+      "copy.value": "རིན་ཐང་འདྲ་བཤུས",
+      "retry": "བསྐྱར་ཐེངས",
+      "loading": "འཇུག་བཞིན་པ…",
+      "load.failed": "འཇུག་མ་ཐུབ",
+      "submit": "བསྐུར",
+      "submitting": "བསྐུར་བཞིན་པ…",
+      "next": "རྗེས་མ",
+      "previous": "སྔོན་མ",
+      "skip": "མཆོང",
+      "delete": "བསུབ",
+      "edit": "བཅོས",
+      "save": "ཉར",
+      "search": "འཚོལ་བཤེར",
+      "more": "མང་བ",
+      "collapse": "བསྡུ",
+      "expand": "ཁྲོལ",
+      "back": "ཕྱིར་ལོག",
+      "brand.localBuild": "DSH ས་གནས་ཀྱི་བཟོ་སྐྲུན",
+      "unknown": "མི་ཤེས",
+      "none": "མེད",
+      "truncated": "བཅད་ཟིན",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "སྒྲིག་བཀོད",
+      "title": "སྒྲིག་བཀོད"
+    },
+    "sidebar": {
+      "session.new": "ཐུན་ཚོགས་གསར་པ",
+      "toggle.open": "ཟུར་ངོས་ཕྱེ"
+    },
+    "conversation": {
+      "placeholder.default": "འཕྲིན་བསྐུར་ཡང་ན་ལས་ཀ་སྒྲུབ། / བཀའ་ཚིག @ ཡིག་ཆ་ཡང་ན་ཐུན་ཚོགས",
+      "placeholder.hero": "གང་བཟོ་འདོད་པ་བཤད། / བཀའ་ཚིག @ ཡིག་ཆ་ཡང་ན་ཐུན་ཚོགས",
+      "input.send": "འཕྲིན་བསྐུར",
+      "input.stop": "བཟོ་བ་མཚམས་འཇོག"
+    },
+    "chat": {
+      "view.chat": "ཁ་བརྡ"
+    },
+    "command": {
+      "search.placeholder": "འཚོལ་བཤེར…"
+    },
+    "model": {
+      "trigger.fallback": "དཔེ་དབྱིབས་འདེམས",
+      "menu.model": "དཔེ་དབྱིབས"
+    },
+    "approval": {
+      "waiting": "ཆོག་མཆན་སྒུག་བཞིན་པ",
+      "reject": "ཁས་མི་ལེན"
+    },
+    "question": {
+      "action.next": "རྗེས་མ",
+      "option.recommended": "གྲོས་འདོན"
+    },
+    "plan": {
+      "chip.label": "འཆར་གཞི"
+    },
+    "workspace": {
+      "section.workspaces": "ལས་ཡུལ",
+      "section.sessions": "ཐུན་ཚོགས",
+      "search.placeholder": "ཐུན་ཚོགས་འཚོལ..."
+    },
+    "feedback": {
+      "action.like": "ལན་བཟང",
+      "action.dislike": "ལན་ངན"
+    },
+    "job": {
+      "status.running": "ལག་བསྟར་བཞིན་པ"
+    }
+  }
+}

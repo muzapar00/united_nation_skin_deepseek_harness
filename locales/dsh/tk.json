@@ -1,0 +1,83 @@
+{
+  "code": "tk",
+  "namespaces": {
+    "common": {
+      "ok": "Bolýar",
+      "cancel": "Ýatyrmak",
+      "close": "Ýapmak",
+      "copy": "Göçürmek",
+      "copied": "Göçürildi",
+      "copy.failed": "Göçürip bolmady",
+      "copy.value": "Bahany göçür",
+      "retry": "Täzeden synanyş",
+      "loading": "Ýüklenýär…",
+      "load.failed": "Ýüklenip bolmady",
+      "submit": "Iber",
+      "submitting": "Iberilýär…",
+      "next": "Indiki",
+      "previous": "Öňki",
+      "skip": "Geç",
+      "delete": "Poz",
+      "edit": "Üýtget",
+      "save": "Sakla",
+      "search": "Gözle",
+      "more": "Has köp",
+      "collapse": "Ýygna",
+      "expand": "Ýaýrat",
+      "back": "Yza",
+      "brand.localBuild": "DSH ýerli wersiýa",
+      "unknown": "Näbelli",
+      "none": "Ýok",
+      "truncated": "Gysgaldylan",
+      "number.thousand": "{value} müň",
+      "number.million": "{value} mln"
+    },
+    "settings": {
+      "trigger": "Sazlamalar",
+      "title": "Sazlamalar"
+    },
+    "sidebar": {
+      "session.new": "Täze sessiýa",
+      "toggle.open": "Gapdal paneli aç"
+    },
+    "conversation": {
+      "placeholder.default": "Habar ýazyň ýa-da tabşyryk işlediň, / buýruklar, @ faýllar ýa-da sessiýalar",
+      "placeholder.hero": "Näme gurjakdygyňyzy düşündiriň, / buýruklar, @ faýllar ýa-da sessiýalar",
+      "input.send": "Habar iber",
+      "input.stop": "Generasiýany togtat"
+    },
+    "chat": {
+      "view.chat": "Söhbet"
+    },
+    "command": {
+      "search.placeholder": "Gözle…"
+    },
+    "model": {
+      "trigger.fallback": "Model saýla",
+      "menu.model": "Model"
+    },
+    "approval": {
+      "waiting": "Tassyklaýyşa garaşylýar",
+      "reject": "Ret et"
+    },
+    "question": {
+      "action.next": "Indiki",
+      "option.recommended": "Maslahat berilýär"
+    },
+    "plan": {
+      "chip.label": "Meýilnama"
+    },
+    "workspace": {
+      "section.workspaces": "Iş giňişlikleri",
+      "section.sessions": "Sessiýalar",
+      "search.placeholder": "Sessiýalary gözle..."
+    },
+    "feedback": {
+      "action.like": "Gowy jogap",
+      "action.dislike": "Erbet jogap"
+    },
+    "job": {
+      "status.running": "işleýär"
+    }
+  }
+}

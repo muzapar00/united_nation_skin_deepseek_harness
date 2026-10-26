@@ -1,0 +1,83 @@
+{
+  "code": "ig",
+  "namespaces": {
+    "common": {
+      "ok": "Ọ dị mma",
+      "cancel": "Kagbuo",
+      "close": "Mechie",
+      "copy": "Detuo",
+      "copied": "Edetuoala",
+      "copy.failed": "Ndettu dara",
+      "copy.value": "Detuo uru",
+      "retry": "Nwaa ọzọ",
+      "loading": "Na-ebu…",
+      "load.failed": "Enweghị ike ibu",
+      "submit": "Nyefee",
+      "submitting": "Na-enyefe…",
+      "next": "Ọzọ",
+      "previous": "Gara aga",
+      "skip": "Gafee",
+      "delete": "Hichapụ",
+      "edit": "Dezie",
+      "save": "Chekwaa",
+      "search": "Chọọ",
+      "more": "Ihe ndị ọzọ",
+      "collapse": "Chịkọta",
+      "expand": "Gbasa",
+      "back": "Laghachi",
+      "brand.localBuild": "DSH Iwu Mpaghara",
+      "unknown": "Amaghị",
+      "none": "Ọ dịghị",
+      "truncated": "Belatara",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Ntọala",
+      "title": "Ntọala"
+    },
+    "sidebar": {
+      "session.new": "Nnọkọ ọhụrụ",
+      "toggle.open": "Mepee akụkụ"
+    },
+    "conversation": {
+      "placeholder.default": "Ziga ozi ma ọ bụ rụọ ọrụ, / iwu, @ faịlụ ma ọ bụ nnọkọ",
+      "placeholder.hero": "Kọwaa ihe ị chọrọ iwu, / iwu, @ faịlụ ma ọ bụ nnọkọ",
+      "input.send": "Ziga ozi",
+      "input.stop": "Kwụsị imepụta"
+    },
+    "chat": {
+      "view.chat": "Mkparịta ụka"
+    },
+    "command": {
+      "search.placeholder": "Chọọ…"
+    },
+    "model": {
+      "trigger.fallback": "Họrọ ụdị",
+      "menu.model": "Ụdị"
+    },
+    "approval": {
+      "waiting": "Na-eche nkwado",
+      "reject": "Jụ"
+    },
+    "question": {
+      "action.next": "Ọzọ",
+      "option.recommended": "A tụrụ aro"
+    },
+    "plan": {
+      "chip.label": "Atụmatụ"
+    },
+    "workspace": {
+      "section.workspaces": "Ebe ọrụ",
+      "section.sessions": "Nnọkọ",
+      "search.placeholder": "Chọọ nnọkọ..."
+    },
+    "feedback": {
+      "action.like": "Nzaghachi ọma",
+      "action.dislike": "Nzaghachi ọjọọ"
+    },
+    "job": {
+      "status.running": "na-agba"
+    }
+  }
+}

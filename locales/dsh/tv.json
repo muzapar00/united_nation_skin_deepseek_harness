@@ -1,0 +1,83 @@
+{
+  "code": "tv",
+  "namespaces": {
+    "common": {
+      "ok": "Okei",
+      "cancel": "Fakamuta",
+      "close": "Tapuni",
+      "copy": "Kopi",
+      "copied": "Ua kopi",
+      "copy.failed": "Ua se manuia te kopi",
+      "copy.value": "Kopi te tau",
+      "retry": "Toe fai",
+      "loading": "Ua uta…",
+      "load.failed": "Ua se manuia te uta",
+      "submit": "Tuku atu",
+      "submitting": "Ua tuku atu…",
+      "next": "Mui",
+      "previous": "Mua",
+      "skip": "Sikipi",
+      "delete": "Solo",
+      "edit": "Fakatonu",
+      "save": "Fakasao",
+      "search": "Sakili",
+      "more": "Sili atu",
+      "collapse": "Fakaiti",
+      "expand": "Fakalasi",
+      "back": "Foki",
+      "brand.localBuild": "DSH fai i konei",
+      "unknown": "Se iloa",
+      "none": "Seai",
+      "truncated": "Ua tipi",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Fakatonuga",
+      "title": "Fakatonuga"
+    },
+    "sidebar": {
+      "session.new": "Talanoaga fou",
+      "toggle.open": "Tatala te itu"
+    },
+    "conversation": {
+      "placeholder.default": "Tuku se tala pe fai se galuega, / tulafono, @ tusi po ko talanoaga",
+      "placeholder.hero": "Fakamatala te mea e fia fai, / tulafono, @ tusi po ko talanoaga",
+      "input.send": "Tuku te tala",
+      "input.stop": "Taofi te fai"
+    },
+    "chat": {
+      "view.chat": "Talanoaga"
+    },
+    "command": {
+      "search.placeholder": "Sakili…"
+    },
+    "model": {
+      "trigger.fallback": "Filifili te modeli",
+      "menu.model": "Modeli"
+    },
+    "approval": {
+      "waiting": "Ua faatali ke talia",
+      "reject": "Se talia"
+    },
+    "question": {
+      "action.next": "Mui",
+      "option.recommended": "E sili"
+    },
+    "plan": {
+      "chip.label": "Fuafuaga"
+    },
+    "workspace": {
+      "section.workspaces": "Nofoaga galuega",
+      "section.sessions": "Talanoaga",
+      "search.placeholder": "Sakili talanoaga..."
+    },
+    "feedback": {
+      "action.like": "Tala lelei",
+      "action.dislike": "Tala leaga"
+    },
+    "job": {
+      "status.running": "Ua galue"
+    }
+  }
+}

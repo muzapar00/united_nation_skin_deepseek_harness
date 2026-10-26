@@ -1,0 +1,83 @@
+{
+  "code": "ilo",
+  "namespaces": {
+    "common": {
+      "ok": "OK",
+      "cancel": "Isardeng",
+      "close": "Irekeb",
+      "copy": "Kopiaen",
+      "copied": "Naikopia",
+      "copy.failed": "Napaay ti panangikopia",
+      "copy.value": "Kopiaen ti pateg",
+      "retry": "Padasen manen",
+      "loading": "Agkarkarga…",
+      "load.failed": "Napaay ti panagkarga",
+      "submit": "Isumite",
+      "submitting": "Agsusumite…",
+      "next": "Sumaruno",
+      "previous": "Nauna",
+      "skip": "Labsan",
+      "delete": "Ikkaten",
+      "edit": "Baliwan",
+      "save": "Idulin",
+      "search": "Biroken",
+      "more": "Ad-adu pay",
+      "collapse": "Kupinen",
+      "expand": "Luktan",
+      "back": "Agsubli",
+      "brand.localBuild": "Lokal a bersion ti DSH",
+      "unknown": "Di ammo",
+      "none": "Awan",
+      "truncated": "Naputed",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Dagiti pannakaatur",
+      "title": "Dagiti pannakaatur"
+    },
+    "sidebar": {
+      "session.new": "Baro a sesion",
+      "toggle.open": "Luktan ti panel iti gilid"
+    },
+    "conversation": {
+      "placeholder.default": "Mangipatulod iti mensahe wenno mangrugi iti trabaho, / bilin, @ papeles wenno sesion",
+      "placeholder.hero": "Ilawlawag no ania ti kayat mo a bangonen, / bilin, @ papeles wenno sesion",
+      "input.send": "Mangipatulod iti mensahe",
+      "input.stop": "Isardeng ti panagpataud"
+    },
+    "chat": {
+      "view.chat": "Sarita"
+    },
+    "command": {
+      "search.placeholder": "Biroken…"
+    },
+    "model": {
+      "trigger.fallback": "Piliem ti modelo",
+      "menu.model": "Modelo"
+    },
+    "approval": {
+      "waiting": "Agur-uray iti pammalubos",
+      "reject": "Ipawil"
+    },
+    "question": {
+      "action.next": "Sumaruno",
+      "option.recommended": "Nairekomendar"
+    },
+    "plan": {
+      "chip.label": "Plano"
+    },
+    "workspace": {
+      "section.workspaces": "Dagiti pagtrabahuan",
+      "section.sessions": "Dagiti sesion",
+      "search.placeholder": "Biroken dagiti sesion..."
+    },
+    "feedback": {
+      "action.like": "Naimbag a sungbat",
+      "action.dislike": "Saan a naimbag a sungbat"
+    },
+    "job": {
+      "status.running": "agtaray"
+    }
+  }
+}

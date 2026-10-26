@@ -1,0 +1,83 @@
+{
+  "code": "qu",
+  "namespaces": {
+    "common": {
+      "ok": "Allinmi",
+      "cancel": "Saqiy",
+      "close": "Wichq'ay",
+      "copy": "Kikinchay",
+      "copied": "Kikinchasqa",
+      "copy.failed": "Manam kikinchayta atinchu",
+      "copy.value": "Chaninta kikinchay",
+      "retry": "Hukmanta ruway",
+      "loading": "Chasqichkan…",
+      "load.failed": "Manam chasqiyta atinchu",
+      "submit": "Apachiy",
+      "submitting": "Apachichkan…",
+      "next": "Qatiq",
+      "previous": "Ñawpaq",
+      "skip": "Saqipuy",
+      "delete": "Qulluy",
+      "edit": "Allichay",
+      "save": "Waqaychay",
+      "search": "Maskay",
+      "more": "Aswan",
+      "collapse": "Wichq'ay",
+      "expand": "Kichay",
+      "back": "Kutiy",
+      "brand.localBuild": "DSH kaypi ruwasqa",
+      "unknown": "Mana riqsisqa",
+      "none": "Mana kaq",
+      "truncated": "Kuchusqa",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Allichaykuna",
+      "title": "Allichaykuna"
+    },
+    "sidebar": {
+      "session.new": "Musuq rimanakuy",
+      "toggle.open": "Qhipa k'uchuta kichay"
+    },
+    "conversation": {
+      "placeholder.default": "Willakuyta apachiy utaq ruwayta qallariy, / kamachiykuna, @ qillqakuna utaq rimanakuykuna",
+      "placeholder.hero": "Imata ruwayta munanki chayta willay, / kamachiykuna, @ qillqakuna utaq rimanakuykuna",
+      "input.send": "Willakuyta apachiy",
+      "input.stop": "Ruwayta sayachiy"
+    },
+    "chat": {
+      "view.chat": "Rimanakuy"
+    },
+    "command": {
+      "search.placeholder": "Maskay…"
+    },
+    "model": {
+      "trigger.fallback": "Modelota akllay",
+      "menu.model": "Modelo"
+    },
+    "approval": {
+      "waiting": "Chaskiyta suyachkan",
+      "reject": "Manachiy"
+    },
+    "question": {
+      "action.next": "Qatiq",
+      "option.recommended": "Yuyaychasqa"
+    },
+    "plan": {
+      "chip.label": "Yuyay"
+    },
+    "workspace": {
+      "section.workspaces": "Ruwana wasikuna",
+      "section.sessions": "Rimanakuykuna",
+      "search.placeholder": "Rimanakuykunata maskay..."
+    },
+    "feedback": {
+      "action.like": "Allin kutichiy",
+      "action.dislike": "Mana allin kutichiy"
+    },
+    "job": {
+      "status.running": "purichkan"
+    }
+  }
+}

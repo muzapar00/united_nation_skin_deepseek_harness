@@ -1,0 +1,83 @@
+{
+  "code": "as",
+  "namespaces": {
+    "common": {
+      "ok": "ঠিক আছে",
+      "cancel": "বাতিল কৰক",
+      "close": "বন্ধ কৰক",
+      "copy": "কপি কৰক",
+      "copied": "কপি হ'ল",
+      "copy.failed": "কপি কৰাত ব্যৰ্থ",
+      "copy.value": "মান কপি কৰক",
+      "retry": "পুনৰ চেষ্টা কৰক",
+      "loading": "লোড হৈ আছে…",
+      "load.failed": "লোড কৰাত ব্যৰ্থ",
+      "submit": "জমা দিয়ক",
+      "submitting": "জমা দিয়া হৈ আছে…",
+      "next": "পৰৱৰ্তী",
+      "previous": "পূৰ্বৱৰ্তী",
+      "skip": "এৰি যাওক",
+      "delete": "মচক",
+      "edit": "সম্পাদনা কৰক",
+      "save": "সংৰক্ষণ কৰক",
+      "search": "সন্ধান কৰক",
+      "more": "অধিক",
+      "collapse": "সংকুচিত কৰক",
+      "expand": "বিস্তাৰ কৰক",
+      "back": "পিছলৈ",
+      "brand.localBuild": "DSH স্থানীয় নিৰ্মাণ",
+      "unknown": "অজ্ঞাত",
+      "none": "একো নাই",
+      "truncated": "কটা হৈছে",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "ছেটিংছ",
+      "title": "ছেটিংছ"
+    },
+    "sidebar": {
+      "session.new": "নতুন ছেছন",
+      "toggle.open": "চাইডবাৰ খোলক"
+    },
+    "conversation": {
+      "placeholder.default": "বাৰ্তা পঠিয়াওক বা কাম চলাওক, / নিৰ্দেশনা, @ ফাইল বা ছেছন",
+      "placeholder.hero": "আপুনি কি সাজিব বিচাৰে বৰ্ণনা কৰক, / নিৰ্দেশনা, @ ফাইল বা ছেছন",
+      "input.send": "বাৰ্তা পঠিয়াওক",
+      "input.stop": "সৃষ্টি বন্ধ কৰক"
+    },
+    "chat": {
+      "view.chat": "চাট"
+    },
+    "command": {
+      "search.placeholder": "সন্ধান কৰক…"
+    },
+    "model": {
+      "trigger.fallback": "মডেল বাছনি কৰক",
+      "menu.model": "মডেল"
+    },
+    "approval": {
+      "waiting": "অনুমোদনৰ বাবে অপেক্ষা",
+      "reject": "নাকচ কৰক"
+    },
+    "question": {
+      "action.next": "পৰৱৰ্তী",
+      "option.recommended": "প্ৰস্তাৱিত"
+    },
+    "plan": {
+      "chip.label": "পৰিকল্পনা"
+    },
+    "workspace": {
+      "section.workspaces": "কৰ্মক্ষেত্ৰ",
+      "section.sessions": "ছেছন",
+      "search.placeholder": "ছেছন সন্ধান কৰক..."
+    },
+    "feedback": {
+      "action.like": "ভাল উত্তৰ",
+      "action.dislike": "বেয়া উত্তৰ"
+    },
+    "job": {
+      "status.running": "চলি আছে"
+    }
+  }
+}

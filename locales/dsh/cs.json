@@ -1,0 +1,83 @@
+{
+  "code": "cs",
+  "namespaces": {
+    "common": {
+      "ok": "OK",
+      "cancel": "Zrušit",
+      "close": "Zavřít",
+      "copy": "Kopírovat",
+      "copied": "Zkopírováno",
+      "copy.failed": "Kopírování se nezdařilo",
+      "copy.value": "Kopírovat hodnotu",
+      "retry": "Zkusit znovu",
+      "loading": "Načítání…",
+      "load.failed": "Načtení se nezdařilo",
+      "submit": "Odeslat",
+      "submitting": "Odesílání…",
+      "next": "Další",
+      "previous": "Předchozí",
+      "skip": "Přeskočit",
+      "delete": "Smazat",
+      "edit": "Upravit",
+      "save": "Uložit",
+      "search": "Hledat",
+      "more": "Více",
+      "collapse": "Sbalit",
+      "expand": "Rozbalit",
+      "back": "Zpět",
+      "brand.localBuild": "DSH – místní sestavení",
+      "unknown": "Neznámé",
+      "none": "Žádné",
+      "truncated": "Zkráceno",
+      "number.thousand": "{value} tis.",
+      "number.million": "{value} mil."
+    },
+    "settings": {
+      "trigger": "Nastavení",
+      "title": "Nastavení"
+    },
+    "sidebar": {
+      "session.new": "Nová relace",
+      "toggle.open": "Otevřít postranní panel"
+    },
+    "conversation": {
+      "placeholder.default": "Napište zprávu nebo spusťte úlohu, / příkazy, @ soubory nebo relace",
+      "placeholder.hero": "Popište, co chcete vytvořit, / příkazy, @ soubory nebo relace",
+      "input.send": "Odeslat zprávu",
+      "input.stop": "Zastavit generování"
+    },
+    "chat": {
+      "view.chat": "Chat"
+    },
+    "command": {
+      "search.placeholder": "Hledat…"
+    },
+    "model": {
+      "trigger.fallback": "Vybrat model",
+      "menu.model": "Model"
+    },
+    "approval": {
+      "waiting": "Čeká na schválení",
+      "reject": "Zamítnout"
+    },
+    "question": {
+      "action.next": "Další",
+      "option.recommended": "Doporučeno"
+    },
+    "plan": {
+      "chip.label": "Plán"
+    },
+    "workspace": {
+      "section.workspaces": "Pracovní prostory",
+      "section.sessions": "Relace",
+      "search.placeholder": "Hledat relace..."
+    },
+    "feedback": {
+      "action.like": "Dobrá odpověď",
+      "action.dislike": "Špatná odpověď"
+    },
+    "job": {
+      "status.running": "běží"
+    }
+  }
+}

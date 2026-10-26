@@ -1,0 +1,83 @@
+{
+  "code": "ki",
+  "namespaces": {
+    "common": {
+      "ok": "Nĩ wega",
+      "cancel": "Tiga",
+      "close": "Hinga",
+      "copy": "Kopi",
+      "copied": "Kopitwo",
+      "copy.failed": "Kũkopa kwarĩ na thĩna",
+      "copy.value": "Kopi thogora",
+      "retry": "Geria rĩngĩ",
+      "loading": "Nĩ gũthondeka…",
+      "load.failed": "Kũthondeka kwarĩ na thĩna",
+      "submit": "Tũma",
+      "submitting": "Nĩ gũtũmwo…",
+      "next": "Mbere",
+      "previous": "Coka",
+      "skip": "Hĩta",
+      "delete": "Ruta",
+      "edit": "Cũrania",
+      "save": "Iga",
+      "search": "Caria",
+      "more": "Ingĩ",
+      "collapse": "Hinda",
+      "expand": "Onania",
+      "back": "Coka",
+      "brand.localBuild": "DSH yathondekirwo haha",
+      "unknown": "Ti kũmenyeka",
+      "none": "Hatirĩ",
+      "truncated": "Ĩtemetwo",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Mĩtaratara",
+      "title": "Mĩtaratara"
+    },
+    "sidebar": {
+      "session.new": "Mũario mwerũ",
+      "toggle.open": "Hingũra kĩcigo kĩa mwena"
+    },
+    "conversation": {
+      "placeholder.default": "Andĩka ũhoro kana ruta wĩra, / amri, @ faili kana mĩario",
+      "placeholder.hero": "Andĩka ũrĩa ũkwenda gũthondeka, / amri, @ faili kana mĩario",
+      "input.send": "Tũma ũhoro",
+      "input.stop": "Hagarikia gũthondeka"
+    },
+    "chat": {
+      "view.chat": "Mũario"
+    },
+    "command": {
+      "search.placeholder": "Caria…"
+    },
+    "model": {
+      "trigger.fallback": "Thuura modeli",
+      "menu.model": "Modeli"
+    },
+    "approval": {
+      "waiting": "Ĩrindĩrĩire kũtĩkĩrwo",
+      "reject": "Kanĩra"
+    },
+    "question": {
+      "action.next": "Mbere",
+      "option.recommended": "Ĩrĩa ĩega mũno"
+    },
+    "plan": {
+      "chip.label": "Mũbango"
+    },
+    "workspace": {
+      "section.workspaces": "Icigo cia wĩra",
+      "section.sessions": "Mĩario",
+      "search.placeholder": "Caria mĩario..."
+    },
+    "feedback": {
+      "action.like": "Kĩcokio kĩega",
+      "action.dislike": "Kĩcokio kĩũru"
+    },
+    "job": {
+      "status.running": "Ĩrathiĩ"
+    }
+  }
+}

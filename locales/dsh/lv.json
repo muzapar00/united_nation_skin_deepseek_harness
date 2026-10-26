@@ -1,0 +1,83 @@
+{
+  "code": "lv",
+  "namespaces": {
+    "common": {
+      "ok": "Labi",
+      "cancel": "Atcelt",
+      "close": "Aizvērt",
+      "copy": "Kopēt",
+      "copied": "Nokopēts",
+      "copy.failed": "Kopēšana neizdevās",
+      "copy.value": "Kopēt vērtību",
+      "retry": "Mēģināt vēlreiz",
+      "loading": "Ielādē…",
+      "load.failed": "Ielāde neizdevās",
+      "submit": "Iesniegt",
+      "submitting": "Iesniedz…",
+      "next": "Tālāk",
+      "previous": "Atpakaļ",
+      "skip": "Izlaist",
+      "delete": "Dzēst",
+      "edit": "Rediģēt",
+      "save": "Saglabāt",
+      "search": "Meklēt",
+      "more": "Vairāk",
+      "collapse": "Sakļaut",
+      "expand": "Izvērst",
+      "back": "Atpakaļ",
+      "brand.localBuild": "Vietējā DSH versija",
+      "unknown": "Nezināms",
+      "none": "Nav",
+      "truncated": "Saīsināts",
+      "number.thousand": "{value} tūkst.",
+      "number.million": "{value} milj."
+    },
+    "settings": {
+      "trigger": "Iestatījumi",
+      "title": "Iestatījumi"
+    },
+    "sidebar": {
+      "session.new": "Jauna sesija",
+      "toggle.open": "Atvērt sānjoslu"
+    },
+    "conversation": {
+      "placeholder.default": "Ziņa vai uzdevums, / komandas, @ faili vai sesijas",
+      "placeholder.hero": "Aprakstiet, ko vēlaties izveidot, / komandas, @ faili vai sesijas",
+      "input.send": "Nosūtīt ziņu",
+      "input.stop": "Pārtraukt ģenerēšanu"
+    },
+    "chat": {
+      "view.chat": "Tērzēšana"
+    },
+    "command": {
+      "search.placeholder": "Meklēt…"
+    },
+    "model": {
+      "trigger.fallback": "Izvēlēties modeli",
+      "menu.model": "Modelis"
+    },
+    "approval": {
+      "waiting": "Gaida apstiprinājumu",
+      "reject": "Noraidīt"
+    },
+    "question": {
+      "action.next": "Tālāk",
+      "option.recommended": "Ieteicams"
+    },
+    "plan": {
+      "chip.label": "Plāns"
+    },
+    "workspace": {
+      "section.workspaces": "Darbvietas",
+      "section.sessions": "Sesijas",
+      "search.placeholder": "Meklēt sesijas..."
+    },
+    "feedback": {
+      "action.like": "Laba atbilde",
+      "action.dislike": "Slikta atbilde"
+    },
+    "job": {
+      "status.running": "darbojas"
+    }
+  }
+}

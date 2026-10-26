@@ -1,0 +1,83 @@
+{
+  "code": "kn",
+  "namespaces": {
+    "common": {
+      "ok": "ಸರಿ",
+      "cancel": "ರದ್ದುಮಾಡಿ",
+      "close": "ಮುಚ್ಚಿ",
+      "copy": "ನಕಲಿಸಿ",
+      "copied": "ನಕಲಿಸಲಾಗಿದೆ",
+      "copy.failed": "ನಕಲಿಸಲು ವಿಫಲವಾಗಿದೆ",
+      "copy.value": "ಮೌಲ್ಯವನ್ನು ನಕಲಿಸಿ",
+      "retry": "ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ",
+      "loading": "ಲೋಡ್ ಆಗುತ್ತಿದೆ…",
+      "load.failed": "ಲೋಡ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ",
+      "submit": "ಸಲ್ಲಿಸಿ",
+      "submitting": "ಸಲ್ಲಿಸಲಾಗುತ್ತಿದೆ…",
+      "next": "ಮುಂದೆ",
+      "previous": "ಹಿಂದೆ",
+      "skip": "ಬಿಟ್ಟುಬಿಡಿ",
+      "delete": "ಅಳಿಸಿ",
+      "edit": "ಸಂಪಾದಿಸಿ",
+      "save": "ಉಳಿಸಿ",
+      "search": "ಹುಡುಕಿ",
+      "more": "ಇನ್ನಷ್ಟು",
+      "collapse": "ಸಂಕುಚಿಸಿ",
+      "expand": "ವಿಸ್ತರಿಸಿ",
+      "back": "ಹಿಂದೆ",
+      "brand.localBuild": "DSH ಸ್ಥಳೀಯ ಬಿಲ್ಡ್",
+      "unknown": "ಅಜ್ಞಾತ",
+      "none": "ಯಾವುದೂ ಇಲ್ಲ",
+      "truncated": "ಕತ್ತರಿಸಲಾಗಿದೆ",
+      "number.thousand": "{value} ಸಾವಿರ",
+      "number.million": "{value} ಮಿಲಿಯನ್"
+    },
+    "settings": {
+      "trigger": "ಸೆಟ್ಟಿಂಗ್‌ಗಳು",
+      "title": "ಸೆಟ್ಟಿಂಗ್‌ಗಳು"
+    },
+    "sidebar": {
+      "session.new": "ಹೊಸ ಸೆಷನ್",
+      "toggle.open": "ಸೈಡ್‌ಬಾರ್ ತೆರೆಯಿರಿ"
+    },
+    "conversation": {
+      "placeholder.default": "ಸಂದೇಶ ಕಳುಹಿಸಿ ಅಥವಾ ಕೆಲಸ ನಡೆಸಿ, / ಆಜ್ಞೆಗಳು, @ ಫೈಲ್‌ಗಳು ಅಥವಾ ಸೆಷನ್‌ಗಳು",
+      "placeholder.hero": "ನೀವು ನಿರ್ಮಿಸಲು ಬಯಸುವುದನ್ನು ವಿವರಿಸಿ, / ಆಜ್ಞೆಗಳು, @ ಫೈಲ್‌ಗಳು ಅಥವಾ ಸೆಷನ್‌ಗಳು",
+      "input.send": "ಸಂದೇಶ ಕಳುಹಿಸಿ",
+      "input.stop": "ರಚಿಸುವುದನ್ನು ನಿಲ್ಲಿಸಿ"
+    },
+    "chat": {
+      "view.chat": "ಚಾಟ್"
+    },
+    "command": {
+      "search.placeholder": "ಹುಡುಕಿ…"
+    },
+    "model": {
+      "trigger.fallback": "ಮಾಡೆಲ್ ಆಯ್ಕೆಮಾಡಿ",
+      "menu.model": "ಮಾಡೆಲ್"
+    },
+    "approval": {
+      "waiting": "ಅನುಮೋದನೆಗಾಗಿ ಕಾಯುತ್ತಿದೆ",
+      "reject": "ತಿರಸ್ಕರಿಸಿ"
+    },
+    "question": {
+      "action.next": "ಮುಂದೆ",
+      "option.recommended": "ಶಿಫಾರಸು ಮಾಡಲಾಗಿದೆ"
+    },
+    "plan": {
+      "chip.label": "ಯೋಜನೆ"
+    },
+    "workspace": {
+      "section.workspaces": "ಕಾರ್ಯಕ್ಷೇತ್ರಗಳು",
+      "section.sessions": "ಸೆಷನ್‌ಗಳು",
+      "search.placeholder": "ಸೆಷನ್‌ಗಳನ್ನು ಹುಡುಕಿ…"
+    },
+    "feedback": {
+      "action.like": "ಉತ್ತಮ ಉತ್ತರ",
+      "action.dislike": "ಕೆಟ್ಟ ಉತ್ತರ"
+    },
+    "job": {
+      "status.running": "ಚಾಲನೆಯಲ್ಲಿದೆ"
+    }
+  }
+}

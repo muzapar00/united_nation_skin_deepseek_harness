@@ -1,0 +1,83 @@
+{
+  "code": "fj",
+  "namespaces": {
+    "common": {
+      "ok": "Io",
+      "cancel": "Vakacacana",
+      "close": "Vakatiwa",
+      "copy": "Kopia",
+      "copied": "Sa kopia",
+      "copy.failed": "Sega ni kopia",
+      "copy.value": "Kopia na kena iyau",
+      "retry": "Tovolea tale",
+      "loading": "Sa vakarautaki tiko…",
+      "load.failed": "Sega ni vakarautaki",
+      "submit": "Sorova",
+      "submitting": "Sa sorovi tiko…",
+      "next": "Tarava",
+      "previous": "E liu",
+      "skip": "Kali",
+      "delete": "Bokoca",
+      "edit": "Vakadodonutaka",
+      "save": "Maroroi",
+      "search": "Vaqaqa",
+      "more": "Tale",
+      "collapse": "Vakalailaitaka",
+      "expand": "Vakalevulevutaka",
+      "back": "Lesu",
+      "brand.localBuild": "DSH ni Vanua Oqo",
+      "unknown": "Sega ni kilai",
+      "none": "Sega",
+      "truncated": "Sa muduki",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Ivakarau",
+      "title": "Ivakarau"
+    },
+    "sidebar": {
+      "session.new": "Veivosaki vou",
+      "toggle.open": "Dolava na taba e yasa"
+    },
+    "conversation": {
+      "placeholder.default": "Vakauwaitaka e dua na italanoa, se vakayacora e dua na cakacaka, / na ivakaro, @ na ivola se na veivosaki",
+      "placeholder.hero": "Vakamacalataka na ka o vinakata mo tara, / na ivakaro, @ na ivola se na veivosaki",
+      "input.send": "Tala na italanoa",
+      "input.stop": "Vakamuduka na kena buli"
+    },
+    "chat": {
+      "view.chat": "Veivosaki"
+    },
+    "command": {
+      "search.placeholder": "Vaqaqa…"
+    },
+    "model": {
+      "trigger.fallback": "Digia e dua na ivakaraitaki",
+      "menu.model": "Ivakaraitaki"
+    },
+    "approval": {
+      "waiting": "Sa waraka na vakadonuya",
+      "reject": "Vakaserea"
+    },
+    "question": {
+      "action.next": "Tarava",
+      "option.recommended": "Vakasalataki"
+    },
+    "plan": {
+      "chip.label": "Vakarau"
+    },
+    "workspace": {
+      "section.workspaces": "Na vanua ni cakacaka",
+      "section.sessions": "Na veivosaki",
+      "search.placeholder": "Vaqaqa na veivosaki…"
+    },
+    "feedback": {
+      "action.like": "Vakauta vinaka",
+      "action.dislike": "Vakauta ca"
+    },
+    "job": {
+      "status.running": "sa cakacaka tiko"
+    }
+  }
+}

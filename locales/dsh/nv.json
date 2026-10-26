@@ -1,0 +1,83 @@
+{
+  "code": "nv",
+  "namespaces": {
+    "common": {
+      "ok": "Hágo",
+      "cancel": "Doo ádzaa da",
+      "close": "Nídaʼneezʼą́",
+      "copy": "Náánáʼílyaa",
+      "copied": "Náánáʼályaa",
+      "copy.failed": "Doo náánáʼályaa da",
+      "copy.value": "Náánáʼílyaa",
+      "retry": "Nááná ádíílnííł",
+      "loading": "Ádíílnííł…",
+      "load.failed": "Doo ályaa da",
+      "submit": "Baa nídaahkah",
+      "submitting": "Baa nídaahkah…",
+      "next": "Náás",
+      "previous": "Bidááhdóó",
+      "skip": "Tʼóó náás",
+      "delete": "Yóóʼaníłtįįh",
+      "edit": "Łaʼ ádíílnííł",
+      "save": "Hazʼą́",
+      "search": "Hálnééh",
+      "more": "Nááná",
+      "collapse": "Áłtsʼíísí",
+      "expand": "Nitsaago",
+      "back": "Náádááh",
+      "brand.localBuild": "DSH Ádaalneʼígíí",
+      "unknown": "Doo bił béédahózin da",
+      "none": "Ádin",
+      "truncated": "Tʼáá yázhí",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Bee nahazʼą́",
+      "title": "Bee nahazʼą́"
+    },
+    "sidebar": {
+      "session.new": "Bee yádaałtiʼ ániid",
+      "toggle.open": "Bidááhdóó adínííł"
+    },
+    "conversation": {
+      "placeholder.default": "Saad łaʼ nídííłʼįįh, éí doodago naʼałnish, / bee naʼídíká, @ naaltsoos, éí doodago bee yádaałtiʼ",
+      "placeholder.hero": "Haa léʼéhgo ánéínilzingo, / bee naʼídíká, @ naaltsoos, éí doodago bee yádaałtiʼ",
+      "input.send": "Saad baa ninááh",
+      "input.stop": "Doo baa nídaałnish da"
+    },
+    "chat": {
+      "view.chat": "Bee yádaałtiʼ"
+    },
+    "command": {
+      "search.placeholder": "Hálnééh…"
+    },
+    "model": {
+      "trigger.fallback": "Bee álnééh bíd",
+      "menu.model": "Bee álnééh"
+    },
+    "approval": {
+      "waiting": "Bichʼįʼ nididlaah",
+      "reject": "Doo ákódaatʼįįh da"
+    },
+    "question": {
+      "action.next": "Náás",
+      "option.recommended": "Yáʼátʼééh"
+    },
+    "plan": {
+      "chip.label": "Baa nitsáhákees"
+    },
+    "workspace": {
+      "section.workspaces": "Naʼanishgi",
+      "section.sessions": "Bee yádaałtiʼ",
+      "search.placeholder": "Bee yádaałtiʼ hálnééh…"
+    },
+    "feedback": {
+      "action.like": "Yáʼátʼééh bee haneʼ",
+      "action.dislike": "Doo yáʼátʼééh da bee haneʼ"
+    },
+    "job": {
+      "status.running": "Nídaʼałnish"
+    }
+  }
+}

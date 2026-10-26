@@ -1,0 +1,83 @@
+{
+  "code": "ht",
+  "namespaces": {
+    "common": {
+      "ok": "Dakò",
+      "cancel": "Anile",
+      "close": "Fèmen",
+      "copy": "Kopye",
+      "copied": "Kopye fini",
+      "copy.failed": "Kopye pa reyisi",
+      "copy.value": "Kopye valè a",
+      "retry": "Eseye ankò",
+      "loading": "Ap chaje…",
+      "load.failed": "Chajman echwe",
+      "submit": "Soumèt",
+      "submitting": "Ap soumèt…",
+      "next": "Suivant",
+      "previous": "Anvan",
+      "skip": "Sote",
+      "delete": "Efase",
+      "edit": "Modifye",
+      "save": "Anrejistre",
+      "search": "Chèche",
+      "more": "Plis",
+      "collapse": "Plwaye",
+      "expand": "Devlope",
+      "back": "Retounen",
+      "brand.localBuild": "DSH vèsyon lokal",
+      "unknown": "Enkoni",
+      "none": "Okenn",
+      "truncated": "Twonke",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Paramèt",
+      "title": "Paramèt"
+    },
+    "sidebar": {
+      "session.new": "Nouvo sesyon",
+      "toggle.open": "Louvri bar lateral"
+    },
+    "conversation": {
+      "placeholder.default": "Voye yon mesaj oswa lanse yon travay, / kòmandman, @ fichye oswa sesyon",
+      "placeholder.hero": "Deskripsyon sa w vle konstwi, / kòmandman, @ fichye oswa sesyon",
+      "input.send": "Voye mesaj",
+      "input.stop": "Sispann jenere"
+    },
+    "chat": {
+      "view.chat": "Diskisyon"
+    },
+    "command": {
+      "search.placeholder": "Chèche…"
+    },
+    "model": {
+      "trigger.fallback": "Chwazi modèl",
+      "menu.model": "Modèl"
+    },
+    "approval": {
+      "waiting": "Ap tann apwobasyon",
+      "reject": "Refize"
+    },
+    "question": {
+      "action.next": "Suivant",
+      "option.recommended": "Rekòmande"
+    },
+    "plan": {
+      "chip.label": "Plan"
+    },
+    "workspace": {
+      "section.workspaces": "Espas travay",
+      "section.sessions": "Sesyon",
+      "search.placeholder": "Chèche sesyon..."
+    },
+    "feedback": {
+      "action.like": "Bon repons",
+      "action.dislike": "Move repons"
+    },
+    "job": {
+      "status.running": "ap egzekite"
+    }
+  }
+}

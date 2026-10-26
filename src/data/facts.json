@@ -1,0 +1,434 @@
+[
+  {
+    "id": "founded",
+    "tag": "charter",
+    "i18n": {
+      "en": "The United Nations was founded on 24 October 1945, when the Charter entered into force. That day is observed every year as United Nations Day.",
+      "zh": "1945 年 10 月 24 日，《联合国宪章》生效，联合国正式成立。这一天被定为“联合国日”。",
+      "ar": "تأسست الأمم المتحدة في 24 تشرين الأول/أكتوبر 1945، حين بدأ نفاذ ميثاق الأمم المتحدة. ويُحتفل بذلك اليوم كل عام بوصفه يوم الأمم المتحدة.",
+      "es": "Las Naciones Unidas se fundaron el 24 de octubre de 1945, cuando entró en vigor la Carta. Ese día se celebra cada año el Día de las Naciones Unidas.",
+      "fr": "L’Organisation des Nations Unies a été fondée le 24 octobre 1945, date de l’entrée en vigueur de la Charte. Ce jour est célébré chaque année comme la Journée des Nations Unies.",
+      "ru": "Организация Объединенных Наций была основана 24 октября 1945 года, когда вступил в силу Устав ООН. Этот день ежегодно отмечается как День Организации Объединенных Наций."
+    }
+  },
+  {
+    "id": "members",
+    "tag": "charter",
+    "i18n": {
+      "en": "The United Nations has 193 Member States. South Sudan, which joined in 2011, is the newest.",
+      "zh": "联合国共有 193 个会员国。2011 年加入的南苏丹是最年轻的会员国。",
+      "ar": "تضم الأمم المتحدة 193 دولة عضواً. وأحدث هذه الدول انضماماً هي جنوب السودان، التي انضمت في عام 2011.",
+      "es": "Las Naciones Unidas cuentan con 193 Estados Miembros. Sudán del Sur, que se incorporó en 2011, es el miembro más reciente.",
+      "fr": "L’Organisation des Nations Unies compte 193 États Membres. Le Soudan du Sud, qui l’a rejointe en 2011, est le membre le plus récent.",
+      "ru": "В Организацию Объединенных Наций входят 193 государства-члена. Самое молодое из них — Южный Судан, вступивший в состав ООН в 2011 году."
+    }
+  },
+  {
+    "id": "languages",
+    "tag": "charter",
+    "i18n": {
+      "en": "The United Nations works in six official languages: Arabic, Chinese, English, French, Russian and Spanish.",
+      "zh": "联合国使用六种正式语言：阿拉伯文、中文、英文、法文、俄文和西班牙文。",
+      "ar": "تعمل الأمم المتحدة بست لغات رسمية هي: العربية والصينية والإنجليزية والفرنسية والروسية والإسبانية.",
+      "es": "Las Naciones Unidas trabajan en seis idiomas oficiales: árabe, chino, inglés, francés, ruso y español.",
+      "fr": "L’ONU travaille en six langues officielles : l’arabe, le chinois, l’anglais, le français, le russe et l’espagnol.",
+      "ru": "Организация Объединенных Наций работает на шести официальных языках: арабском, китайском, английском, французском, русском и испанском."
+    }
+  },
+  {
+    "id": "flag",
+    "tag": "charter",
+    "i18n": {
+      "en": "The UN flag was adopted on 20 October 1947: a light blue field with the white emblem. The blue is the colour of hope.",
+      "zh": "联合国旗于 1947 年 10 月 20 日通过：浅蓝色底，白色徽记。蓝色象征希望。",
+      "ar": "اعتُمد علم الأمم المتحدة في 20 تشرين الأول/أكتوبر 1947: خلفية زرقاء فاتحة تحمل الشعار باللون الأبيض. والأزرق هو لون الأمل.",
+      "es": "La bandera de las Naciones Unidas fue adoptada el 20 de octubre de 1947: fondo azul claro con el emblema en blanco. El azul es el color de la esperanza.",
+      "fr": "Le drapeau des Nations Unies a été adopté le 20 octobre 1947 : un fond bleu clair et l’emblème en blanc. Le bleu est la couleur de l’espérance.",
+      "ru": "Флаг Организации Объединенных Наций был утвержден 20 октября 1947 года: светло-голубое полотнище с белой эмблемой. Голубой цвет — это цвет надежды."
+    }
+  },
+  {
+    "id": "emblem",
+    "tag": "charter",
+    "i18n": {
+      "en": "The emblem is a map of the world in azimuthal equidistant projection centred on the North Pole, held by two olive branches — the world, at peace.",
+      "zh": "联合国徽记是以北极为中心的方位等距投影世界地图，两旁环绕橄榄枝——寓意世界和平。",
+      "ar": "الشعار خريطة للعالم بمسقط سمتي متساوي المسافات يتوسطه القطب الشمالي، يحيط بها غصنا زيتون: عالم ينعم بالسلام.",
+      "es": "El emblema es un mapa del mundo en proyección azimutal equidistante centrada en el Polo Norte, rodeado de dos ramas de olivo: el mundo, en paz.",
+      "fr": "L’emblème est une carte du monde en projection azimutale équidistante centrée sur le pôle Nord, entourée de deux rameaux d’olivier : le monde, en paix.",
+      "ru": "Эмблема — карта мира в азимутальной равнопромежуточной проекции с центром на Северном полюсе, обрамленная двумя оливковыми ветвями: мир, живущий в мире."
+    }
+  },
+  {
+    "id": "charter-purposes",
+    "tag": "charter",
+    "i18n": {
+      "en": "The Charter sets four purposes: to maintain international peace and security, to develop friendly relations among nations, to cooperate on economic, social and cultural problems, and to be a centre for harmonizing the actions of nations.",
+      "zh": "《联合国宪章》确立了四大宗旨：维持国际和平及安全；发展国际间友好关系；促进经济、社会、文化等方面的国际合作；构成协调各国行动之中心。",
+      "ar": "يحدد الميثاق أربعة مقاصد: حفظ السلم والأمن الدوليين، وإنماء العلاقات الودية بين الأمم، وتحقيق التعاون الدولي في حل المسائل الاقتصادية والاجتماعية والثقافية، وجعل المنظمة مرجعاً لتنسيق أعمال الأمم.",
+      "es": "La Carta establece cuatro propósitos: mantener la paz y la seguridad internacionales, fomentar las relaciones de amistad entre las naciones, cooperar en la solución de los problemas económicos, sociales y culturales y servir de centro que armonice los esfuerzos de las naciones.",
+      "fr": "La Charte fixe quatre buts : maintenir la paix et la sécurité internationales, développer entre les nations des relations amicales, coopérer à la solution des problèmes économiques, sociaux et culturels et être un centre où s’harmonisent les efforts des nations.",
+      "ru": "Устав устанавливает четыре цели: поддерживать международный мир и безопасность, развивать дружественные отношения между нациями, осуществлять международное сотрудничество в решении проблем экономического, социального и культурного характера и быть центром для согласования действий наций."
+    }
+  },
+  {
+    "id": "we-the-peoples",
+    "tag": "charter",
+    "i18n": {
+      "en": "The Charter opens with three words — “We the Peoples”. It was adopted in San Francisco in 1945 by 51 founding members.",
+      "zh": "《联合国宪章》以“我联合国人民”开篇。1945 年，51 个创始会员国在旧金山通过宪章。",
+      "ar": "يُفتتح الميثاق بعبارته الشهيرة «نحن شعوب الأمم المتحدة». وقد اعتُمد في سان فرانسيسكو في عام 1945 من جانب 51 دولة مؤسسة.",
+      "es": "La Carta comienza con tres palabras: «Nosotros los pueblos». Fue adoptada en San Francisco en 1945 por 51 miembros fundadores.",
+      "fr": "La Charte s’ouvre par une formule devenue célèbre : « Nous, peuples des Nations Unies ». Elle a été adoptée à San Francisco en 1945 par 51 membres fondateurs.",
+      "ru": "Устав открывается словами «Мы, народы Объединенных Наций». В 1945 году его приняли в Сан-Франциско 51 государство-основатель."
+    }
+  },
+  {
+    "id": "general-assembly",
+    "tag": "charter",
+    "i18n": {
+      "en": "In the General Assembly every Member State has one vote. The Assembly meets every September in New York.",
+      "zh": "联合国大会实行一国一票。每年 9 月，各会员国代表在纽约集会。",
+      "ar": "لكل دولة عضو في الجمعية العامة صوت واحد. وتجتمع الجمعية كل أيلول/سبتمبر في نيويورك.",
+      "es": "En la Asamblea General, cada Estado Miembro tiene un voto. La Asamblea se reúne cada septiembre en Nueva York.",
+      "fr": "À l’Assemblée générale, chaque État Membre dispose d’une voix. L’Assemblée se réunit chaque septembre à New York.",
+      "ru": "В Генеральной Ассамблее каждое государство-член имеет один голос. Ассамблея собирается каждый сентябрь в Нью-Йорке."
+    }
+  },
+  {
+    "id": "security-council",
+    "tag": "charter",
+    "i18n": {
+      "en": "The Security Council has 15 members: five permanent members and ten elected for two-year terms. It bears the primary responsibility for international peace and security.",
+      "zh": "联合国安全理事会由 15 个理事国组成：5 个常任理事国和 10 个经选举产生、任期两年的非常任理事国。安理会负有维持国际和平及安全的主要责任。",
+      "ar": "يتألف مجلس الأمن من 15 عضواً: خمسة أعضاء دائمين وعشرة أعضاء غير دائمين يُنتخبون لفترة سنتين. ويضطلع بالمسؤولية الرئيسية عن صون السلم والأمن الدوليين.",
+      "es": "El Consejo de Seguridad tiene 15 miembros: cinco permanentes y diez elegidos por un período de dos años. Tiene la responsabilidad primordial del mantenimiento de la paz y la seguridad internacionales.",
+      "fr": "Le Conseil de sécurité compte 15 membres : cinq membres permanents et dix élus pour un mandat de deux ans. Il porte la responsabilité principale du maintien de la paix et de la sécurité internationales.",
+      "ru": "Совет Безопасности состоит из 15 членов: пяти постоянных и десяти непостоянных, избираемых на двухлетний срок. На него возложена главная ответственность за поддержание международного мира и безопасности."
+    }
+  },
+  {
+    "id": "secretary-general",
+    "tag": "charter",
+    "i18n": {
+      "en": "The Secretary-General is appointed by the General Assembly on the recommendation of the Security Council, and speaks for the world's peoples.",
+      "zh": "秘书长由大会根据安全理事会的推荐任命，为世界人民发声。",
+      "ar": "يعيّن الأمين العامَ الجمعيةُ العامة بناءً على توصية مجلس الأمن، وهو يتحدث باسم شعوب العالم.",
+      "es": "El Secretario General es nombrado por la Asamblea General a recomendación del Consejo de Seguridad y habla en nombre de los pueblos del mundo.",
+      "fr": "Le Secrétaire général est nommé par l’Assemblée générale sur recommandation du Conseil de sécurité, et il porte la parole des peuples du monde.",
+      "ru": "Генеральный секретарь назначается Генеральной Ассамблеей по рекомендации Совета Безопасности и говорит от имени народов мира."
+    }
+  },
+  {
+    "id": "members-history",
+    "tag": "charter",
+    "i18n": {
+      "en": "The United Nations began with 51 members in 1945. Decolonization carried the number past 100 in 1960 and to 193 today.",
+      "zh": "1945 年联合国成立时只有 51 个会员国。随着非殖民化进程，1960 年会员国超过 100 个，今天达到 193 个。",
+      "ar": "بدأت الأمم المتحدة عام 1945 بـ 51 عضواً. وبفضل إنهاء الاستعمار تجاوز العدد 100 في عام 1960، ليبلغ اليوم 193 عضواً.",
+      "es": "Las Naciones Unidas empezaron con 51 miembros en 1945. La descolonización llevó la cifra por encima de 100 en 1960 y hasta los 193 actuales.",
+      "fr": "L’ONU a commencé avec 51 membres en 1945. La décolonisation a fait passer ce nombre au-delà de 100 en 1960, puis à 193 aujourd’hui.",
+      "ru": "Организация Объединенных Наций начала работу в 1945 году в составе 51 члена. В результате деколонизации в 1960 году число членов превысило 100, а сегодня составляет 193."
+    }
+  },
+  {
+    "id": "peacekeeping-1948",
+    "tag": "peace",
+    "i18n": {
+      "en": "United Nations peacekeeping began in 1948 with the United Nations Truce Supervision Organization in the Middle East. It continues its work today.",
+      "zh": "联合国维和行动始于 1948 年在中东设立的联合国停战监督组织，其工作延续至今。",
+      "ar": "بدأت عمليات حفظ السلام التابعة للأمم المتحدة في عام 1948 مع إنشاء هيئة الأمم المتحدة لمراقبة الهدنة في الشرق الأوسط، وهي تواصل عملها حتى اليوم.",
+      "es": "El mantenimiento de la paz de las Naciones Unidas comenzó en 1948 con el Organismo de las Naciones Unidas para la Vigilancia de la Tregua, en Oriente Medio. Su labor continúa hoy.",
+      "fr": "Le maintien de la paix des Nations Unies a commencé en 1948 avec l’Organisme des Nations Unies chargé de la surveillance de la trêve, au Moyen-Orient. Son action se poursuit aujourd’hui.",
+      "ru": "Миротворческая деятельность ООН началась в 1948 году с создания Органа Организации Объединенных Наций по наблюдению за выполнением условий перемирия на Ближнем Востоке. Он продолжает свою работу и сегодня."
+    }
+  },
+  {
+    "id": "peacekeepers",
+    "tag": "peace",
+    "i18n": {
+      "en": "Since 1948, more than two million peacekeepers from over 120 countries have served under the UN flag.",
+      "zh": "自 1948 年以来，来自 120 多个国家的 200 多万名维和人员曾在联合国旗帜下服役。",
+      "ar": "منذ عام 1948، خدم أكثر من مليوني حفظ سلام من أكثر من 120 بلداً تحت علم الأمم المتحدة.",
+      "es": "Desde 1948, más de dos millones de cascos azules de más de 120 países han servido bajo la bandera de las Naciones Unidas.",
+      "fr": "Depuis 1948, plus de deux millions de Casques bleus de plus de 120 pays ont servi sous le drapeau des Nations Unies.",
+      "ru": "С 1948 года более двух миллионов миротворцев из более чем 120 стран несли службу под флагом ООН."
+    }
+  },
+  {
+    "id": "peacekeepers-day",
+    "tag": "peace",
+    "i18n": {
+      "en": "29 May is the International Day of United Nations Peacekeepers, honouring those who serve and those who have given their lives.",
+      "zh": "5 月 29 日是“联合国维和人员国际日”，向正在服役以及献出生命的维和人员致敬。",
+      "ar": "يُحتفل في 29 أيار/مايو باليوم الدولي لحفظة السلام، تكريماً لمن يخدمون اليوم ولمن فقدوا حياتهم.",
+      "es": "El 29 de mayo es el Día Internacional del Personal de Paz de las Naciones Unidas, en homenaje a quienes sirven y a quienes han dado su vida.",
+      "fr": "Le 29 mai est la Journée internationale des Casques bleus des Nations Unies, qui rend hommage à ceux qui servent et à ceux qui ont donné leur vie.",
+      "ru": "29 мая отмечается Международный день миротворцев ООН — дань уважения тем, кто служит сегодня, и тем, кто отдал свою жизнь."
+    }
+  },
+  {
+    "id": "peacekeepers-fallen",
+    "tag": "peace",
+    "i18n": {
+      "en": "More than 4,000 peacekeepers have lost their lives in the service of peace. The United Nations remembers them, and thanks them for their service and sacrifice.",
+      "zh": "已有 4000 多名维和人员在和平事业中献出生命。联合国铭记他们，并感谢他们的服务与牺牲。",
+      "ar": "قضى أكثر من 4000 من حفظة السلام في سبيل قضية السلام. والأمم المتحدة تحيي ذكراهم وتشكرهم على خدمتهم وتضحياتهم.",
+      "es": "Más de 4.000 cascos azules han perdido la vida al servicio de la paz. Las Naciones Unidas los recuerdan y les agradecen su servicio y su sacrificio.",
+      "fr": "Plus de 4 000 Casques bleus ont perdu la vie au service de la paix. Les Nations Unies se souviennent d’eux et les remercient pour leur service et leur sacrifice.",
+      "ru": "Более 4000 миротворцев погибли на службе делу мира. Организация Объединенных Наций помнит о них и благодарит их за службу и самопожертвование."
+    }
+  },
+  {
+    "id": "peacebuilding",
+    "tag": "peace",
+    "i18n": {
+      "en": "Peacekeeping is more than patrolling. Peacekeepers protect civilians, monitor ceasefires, clear landmines, deliver aid and help rebuild schools and clinics.",
+      "zh": "维和不止于巡逻。维和人员保护平民、监督停火、排除地雷、运送援助，并帮助重建学校和诊所。",
+      "ar": "حفظ السلام أكثر من مجرد دوريات. فحفظة السلام يحمون المدنيين، ويراقبون وقف إطلاق النار، ويزيلون الألغام، ويوصلون المساعدات، ويساعدون في إعادة بناء المدارس والعيادات.",
+      "es": "El mantenimiento de la paz es más que patrullar. Los cascos azules protegen a los civiles, supervisan los alto el fuego, despejan minas terrestres, entregan ayuda y contribuyen a reconstruir escuelas y centros de salud.",
+      "fr": "Le maintien de la paix, ce n’est pas seulement patrouiller. Les Casques bleus protègent les civils, surveillent les cessez-le-feu, enlèvent les mines terrestres, acheminent l’aide et aident à reconstruire écoles et centres de santé.",
+      "ru": "Миротворчество — это не только патрулирование. Миротворцы защищают гражданское население, контролируют прекращение огня, обезвреживают мины, доставляют помощь и помогают восстанавливать школы и медицинские пункты."
+    }
+  },
+  {
+    "id": "udhr",
+    "tag": "rights",
+    "i18n": {
+      "en": "The Universal Declaration of Human Rights was adopted on 10 December 1948. Its first article: “All human beings are born free and equal in dignity and rights.”",
+      "zh": "《世界人权宣言》于 1948 年 12 月 10 日通过。第一条写道：“人人生而自由，在尊严和权利上一律平等。”",
+      "ar": "اعتُمد الإعلان العالمي لحقوق الإنسان في 10 كانون الأول/ديسمبر 1948. وتنص مادته الأولى على: «يولد جميع الناس أحراراً ومتساوين في الكرامة والحقوق».",
+      "es": "La Declaración Universal de Derechos Humanos fue adoptada el 10 de diciembre de 1948. Su primer artículo: «Todos los seres humanos nacen libres e iguales en dignidad y derechos».",
+      "fr": "La Déclaration universelle des droits de l’homme a été adoptée le 10 décembre 1948. Son article premier : « Tous les êtres humains naissent libres et égaux en dignité et en droits ».",
+      "ru": "Всеобщая декларация прав человека была принята 10 декабря 1948 года. Ее первая статья гласит: «Все люди рождаются свободными и равными в своем достоинстве и правах»."
+    }
+  },
+  {
+    "id": "human-rights-day",
+    "tag": "rights",
+    "i18n": {
+      "en": "10 December is Human Rights Day, marking the day the Universal Declaration was adopted in 1948.",
+      "zh": "12 月 10 日是“人权日”，纪念 1948 年《世界人权宣言》的通过。",
+      "ar": "10 كانون الأول/ديسمبر هو اليوم الدولي لحقوق الإنسان، وهو اليوم الذي اعتُمد فيه الإعلان العالمي في عام 1948.",
+      "es": "El 10 de diciembre es el Día de los Derechos Humanos, que conmemora la fecha en que se adoptó la Declaración Universal en 1948.",
+      "fr": "Le 10 décembre est la Journée des droits de l’homme, qui marque la date à laquelle la Déclaration universelle a été adoptée en 1948.",
+      "ru": "10 декабря — День прав человека, день, когда в 1948 году была принята Всеобщая декларация."
+    }
+  },
+  {
+    "id": "genocide-convention",
+    "tag": "rights",
+    "i18n": {
+      "en": "In 1948 the General Assembly adopted the Convention on the Prevention and Punishment of the Crime of Genocide — the first human rights treaty of the United Nations.",
+      "zh": "1948 年，联合国大会通过《防止及惩治灭绝种族罪公约》，这是联合国的第一份人权条约。",
+      "ar": "في عام 1948، اعتمدت الجمعية العامة اتفاقية منع جريمة الإبادة الجماعية والمعاقبة عليها، وهي أول معاهدة للأمم المتحدة في مجال حقوق الإنسان.",
+      "es": "En 1948, la Asamblea General adoptó la Convención para la Prevención y la Sanción del Delito de Genocidio, el primer tratado de derechos humanos de las Naciones Unidas.",
+      "fr": "En 1948, l’Assemblée générale a adopté la Convention pour la prévention et la répression du crime de génocide, le premier traité des Nations Unies relatif aux droits de l’homme.",
+      "ru": "В 1948 году Генеральная Ассамблея приняла Конвенцию о предупреждении преступления геноцида и наказании за него — первый договор Организации Объединенных Наций в области прав человека."
+    }
+  },
+  {
+    "id": "sdgs",
+    "tag": "development",
+    "i18n": {
+      "en": "In 2015 the United Nations adopted the 17 Sustainable Development Goals and the 2030 Agenda — a shared promise to leave no one behind.",
+      "zh": "2015 年，联合国通过 17 个可持续发展目标和 2030 年可持续发展议程——一个“不让任何人掉队”的共同承诺。",
+      "ar": "في عام 2015، اعتمدت الأمم المتحدة 17 هدفاً للتنمية المستدامة وخطة التنمية المستدامة لعام 2030 — وعداً مشتركاً بعدم ترك أي أحد خلف الركب.",
+      "es": "En 2015, las Naciones Unidas adoptaron los 17 Objetivos de Desarrollo Sostenible y la Agenda 2030 para el Desarrollo Sostenible: una promesa compartida de no dejar a nadie atrás.",
+      "fr": "En 2015, les Nations Unies ont adopté les 17 objectifs de développement durable et le Programme de développement durable à l’horizon 2030 : une promesse commune de ne laisser personne de côté.",
+      "ru": "В 2015 году Организация Объединенных Наций приняла 17 целей в области устойчивого развития и Повестку дня в области устойчивого развития на период до 2030 года — общее обещание никого не оставить в стороне."
+    }
+  },
+  {
+    "id": "no-one-left-behind",
+    "tag": "development",
+    "i18n": {
+      "en": "“Leaving no one behind” is the central promise of the 2030 Agenda: development counts only when it reaches the furthest behind.",
+      "zh": "“不让任何人掉队”是 2030 年议程的核心承诺：只有惠及最落后的人群，发展才有意义。",
+      "ar": "«عدم ترك أي أحد خلف الركب» هو الوعد المحوري في خطة عام 2030: فلا تكون للتنمية قيمة إلا حين تصل إلى من هم أبعد عن الركب.",
+      "es": "«No dejar a nadie atrás» es la promesa central de la Agenda 2030: el desarrollo solo cuenta cuando llega a los más rezagados.",
+      "fr": "« Ne laisser personne de côté » est la promesse centrale du Programme 2030 : le développement ne compte que s’il parvient aux plus laissés-pour-compte.",
+      "ru": "«Не оставлять никого в стороне» — центральное обещание Повестки дня на период до 2030 года: развитие имеет значение только тогда, когда доходит до самых отстающих."
+    }
+  },
+  {
+    "id": "wfp",
+    "tag": "development",
+    "i18n": {
+      "en": "The World Food Programme, founded in 1961, received the Nobel Peace Prize in 2020 for its work against hunger.",
+      "zh": "世界粮食计划署成立于 1961 年，因抗击饥饿的努力于 2020 年获得诺贝尔和平奖。",
+      "ar": "حصل برنامج الأغذية العالمي، الذي تأسس في عام 1961، على جائزة نوبل للسلام في عام 2020 تقديراً لجهوده في مكافحة الجوع.",
+      "es": "El Programa Mundial de Alimentos, fundado en 1961, recibió el Premio Nobel de la Paz en 2020 por su labor contra el hambre.",
+      "fr": "Le Programme alimentaire mondial, fondé en 1961, a reçu le prix Nobel de la paix en 2020 pour son action contre la faim.",
+      "ru": "Всемирная продовольственная программа, основанная в 1961 году, была удостоена Нобелевской премии мира в 2020 году за работу по борьбе с голодом."
+    }
+  },
+  {
+    "id": "who",
+    "tag": "development",
+    "i18n": {
+      "en": "The World Health Organization was founded on 7 April 1948. That date is now World Health Day.",
+      "zh": "世界卫生组织于 1948 年 4 月 7 日成立，这一天后来成为“世界卫生日”。",
+      "ar": "تأسست منظمة الصحة العالمية في 7 نيسان/أبريل 1948، ويُحتفل بذلك اليوم باعتباره اليوم العالمي للصحة.",
+      "es": "La Organización Mundial de la Salud se fundó el 7 de abril de 1948. Esa fecha se celebra hoy como el Día Mundial de la Salud.",
+      "fr": "L’Organisation mondiale de la Santé a été fondée le 7 avril 1948. Cette date est célébrée aujourd’hui comme la Journée mondiale de la Santé.",
+      "ru": "Всемирная организация здравоохранения была основана 7 апреля 1948 года. Этот день теперь отмечается как Всемирный день здоровья."
+    }
+  },
+  {
+    "id": "unesco",
+    "tag": "development",
+    "i18n": {
+      "en": "UNESCO's Constitution, adopted in 1945, says: “Since wars begin in the minds of men, it is in the minds of men that the defences of peace must be constructed.”",
+      "zh": "联合国教科文组织 1945 年通过的《组织法》写道：“战争起源于人之思想，故务需于人之思想中筑起保卫和平之屏障。”",
+      "ar": "يقول دستور اليونسكو، الذي اعتُمد في عام 1945: «لما كانت الحروب تتولد في عقول البشر، ففي عقول البشر يجب أن تُبنى حصون السلام».",
+      "es": "La Constitución de la UNESCO, adoptada en 1945, proclama: «puesto que las guerras nacen en la mente de los hombres, es en la mente de los hombres donde deben erigirse los baluartes de la paz».",
+      "fr": "L’Acte constitutif de l’UNESCO, adopté en 1945, proclame : « Les guerres prenant naissance dans l’esprit des hommes, c’est dans l’esprit des hommes que doivent être élevées les défenses de la paix ».",
+      "ru": "В Уставе ЮНЕСКО, принятом в 1945 году, говорится: «Мысли о войне возникают в умах людей, поэтому в сознании людей следует укоренять идею защиты мира»."
+    }
+  },
+  {
+    "id": "climate",
+    "tag": "development",
+    "i18n": {
+      "en": "The Paris Agreement was adopted in 2015 under the United Nations Framework Convention on Climate Change, and is the world's common plan to limit global warming.",
+      "zh": "《巴黎协定》于 2015 年在《联合国气候变化框架公约》下通过，是全球共同应对气候变暖的行动计划。",
+      "ar": "اعتُمد اتفاق باريس في عام 2015 في إطار اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ، وهو الخطة المشتركة للعالم للحد من الاحترار العالمي.",
+      "es": "El Acuerdo de París se adoptó en 2015 en el marco de la Convención Marco de las Naciones Unidas sobre el Cambio Climático y constituye el plan común del mundo para limitar el calentamiento global.",
+      "fr": "L’Accord de Paris a été adopté en 2015 dans le cadre de la Convention-cadre des Nations Unies sur les changements climatiques et constitue le plan commun du monde pour limiter le réchauffement climatique.",
+      "ru": "Парижское соглашение было принято в 2015 году в рамках Рамочной конвенции Организации Объединенных Наций об изменении климата и стало общим планом человечества по ограничению глобального потепления."
+    }
+  },
+  {
+    "id": "anti-fascism",
+    "tag": "memory",
+    "i18n": {
+      "en": "The United Nations was born of the victory over fascism. Its Charter opens with the resolve to save succeeding generations from the scourge of war.",
+      "zh": "联合国是反法西斯战争胜利的产物。《联合国宪章》开宗明义：欲免后世再遭今代人类两度身历惨不堪言之战祸。",
+      "ar": "وُلدت الأمم المتحدة من انتصار البشرية على الفاشية. ويفتتح ميثاقها بالتصميم على إنقاذ الأجيال المقبلة من ويلات الحرب.",
+      "es": "Las Naciones Unidas nacieron de la victoria sobre el fascismo. Su Carta se abre con la resolución de preservar a las generaciones venideras del flagelo de la guerra.",
+      "fr": "L’Organisation des Nations Unies est née de la victoire sur le fascisme. Sa Charte s’ouvre sur la résolution de préserver les générations futures du fléau de la guerre.",
+      "ru": "Организация Объединенных Наций родилась из победы над фашизмом. Ее Устав открывается решимостью избавить грядущие поколения от бедствий войны."
+    }
+  },
+  {
+    "id": "wwii-remembrance",
+    "tag": "memory",
+    "i18n": {
+      "en": "8–9 May is the Time of Remembrance and Reconciliation for Those Who Lost Their Lives during the Second World War, established by the General Assembly in 2004.",
+      "zh": "5 月 8 日至 9 日是“悼念第二次世界大战死难者致敬与和解日”，由联合国大会于 2004 年设立。",
+      "ar": "يومي 8 و9 أيار/مايو هما مناسبة للتذكر والمصالحة إجلالاً لذكرى ضحايا الحرب العالمية الثانية، وقد أنشأتها الجمعية العامة في عام 2004.",
+      "es": "Los días 8 y 9 de mayo se celebran las Jornadas de Recuerdo y Reconciliación en Honor de Quienes Perdieron la Vida en la Segunda Guerra Mundial, establecidas por la Asamblea General en 2004.",
+      "fr": "Les 8 et 9 mai sont les Journées du souvenir et de la réconciliation en l’honneur des morts de la Seconde Guerre mondiale, instituées par l’Assemblée générale en 2004.",
+      "ru": "8–9 мая — Дни памяти и примирения, посвященные погибшим во Второй мировой войне; они учреждены Генеральной Ассамблеей в 2004 году."
+    }
+  },
+  {
+    "id": "holocaust-remembrance",
+    "tag": "memory",
+    "i18n": {
+      "en": "27 January is the International Day of Commemoration in Memory of the Victims of the Holocaust, established by the General Assembly in 2005.",
+      "zh": "1 月 27 日是“国际大屠杀纪念日”，由联合国大会于 2005 年设立。",
+      "ar": "27 كانون الثاني/يناير هو اليوم الدولي لإحياء ذكرى ضحايا الهولوكوست، وقد أنشأته الجمعية العامة في عام 2005.",
+      "es": "El 27 de enero es el Día Internacional de Conmemoración en memoria de las víctimas del Holocausto, establecido por la Asamblea General en 2005.",
+      "fr": "Le 27 janvier est la Journée internationale dédiée à la mémoire des victimes de l’Holocauste, instituée par l’Assemblée générale en 2005.",
+      "ru": "27 января — Международный день памяти жертв Холокоста, учрежденный Генеральной Ассамблеей в 2005 году."
+    }
+  },
+  {
+    "id": "china-founding",
+    "tag": "china",
+    "i18n": {
+      "en": "China is a founding Member of the United Nations and a permanent member of the Security Council. On 25 October 1971, General Assembly resolution 2758 restored all lawful rights of the People's Republic of China in the United Nations.",
+      "zh": "中国是联合国创始会员国和安理会常任理事国。1971 年 10 月 25 日，联合国大会通过第 2758 号决议，恢复中华人民共和国在联合国的一切合法权利。",
+      "ar": "الصين عضو مؤسس في الأمم المتحدة وعضو دائم في مجلس الأمن. وفي 25 تشرين الأول/أكتوبر 1971، أعاد قرار الجمعية العامة رقم 2758 إلى جمهورية الصين الشعبية جميع حقوقها المشروعة في الأمم المتحدة.",
+      "es": "China es miembro fundador de las Naciones Unidas y miembro permanente del Consejo de Seguridad. El 25 de octubre de 1971, la resolución 2758 (XXVI) de la Asamblea General restableció todos los derechos legítimos de la República Popular de China en las Naciones Unidas.",
+      "fr": "La Chine est membre fondateur de l’Organisation des Nations Unies et membre permanent du Conseil de sécurité. Le 25 octobre 1971, la résolution 2758 (XXVI) de l’Assemblée générale a rétabli tous les droits légitimes de la République populaire de Chine au sein des Nations Unies.",
+      "ru": "Китай — один из основателей Организации Объединенных Наций и постоянный член Совета Безопасности. 25 октября 1971 года Генеральная Ассамблея резолюцией 2758 восстановила все законные права Китайской Народной Республики в Организации Объединенных Наций."
+    }
+  },
+  {
+    "id": "five-principles",
+    "tag": "china",
+    "i18n": {
+      "en": "The Five Principles of Peaceful Coexistence — mutual respect for sovereignty and territorial integrity, mutual non-aggression, non-interference in internal affairs, equality and mutual benefit, and peaceful coexistence — were initiated by China, India and Myanmar in 1954, in the spirit of the Charter.",
+      "zh": "和平共处五项原则——互相尊重主权和领土完整、互不侵犯、互不干涉内政、平等互利、和平共处——由中印缅三国于 1954 年共同倡导，与《联合国宪章》精神一脉相承。",
+      "ar": "المبادئ الخمسة للتعايش السلمي — الاحترام المتبادل للسيادة والسلامة الإقليمية، وعدم الاعتداء المتبادل، وعدم التدخل في الشؤون الداخلية، والمساواة والمنفعة المتبادلة، والتعايش السلمي — أعلنتها الصين والهند وميانمار في عام 1954 بروح ميثاق الأمم المتحدة.",
+      "es": "Los Cinco Principios de Coexistencia Pacífica —respeto mutuo de la soberanía y la integridad territorial, no agresión mutua, no injerencia en los asuntos internos, igualdad y beneficio mutuo y coexistencia pacífica— fueron impulsados por China, la India y Myanmar en 1954, en el espíritu de la Carta.",
+      "fr": "Les Cinq principes de la coexistence pacifique — le respect mutuel de la souveraineté et de l’intégrité territoriale, la non-agression mutuelle, la non-ingérence dans les affaires intérieures, l’égalité et l’avantage réciproque, la coexistence pacifique — ont été promus par la Chine, l’Inde et le Myanmar en 1954, dans l’esprit de la Charte.",
+      "ru": "Пять принципов мирного сосуществования — взаимное уважение суверенитета и территориальной целостности, взаимное ненападение, невмешательство во внутренние дела, равенство и взаимная выгода, мирное сосуществование — были провозглашены Китаем, Индией и Мьянмой в 1954 году в духе Устава Организации Объединенных Наций."
+    }
+  },
+  {
+    "id": "gdi",
+    "tag": "china",
+    "i18n": {
+      "en": "The Global Development Initiative was proposed in 2021 to steer global development towards a balanced, inclusive and win-win path.",
+      "zh": "全球发展倡议于 2021 年提出，推动全球发展迈向平衡、包容、共赢。",
+      "ar": "طُرحت مبادرة التنمية العالمية في عام 2021 لتوجيه التنمية العالمية نحو مسار متوازن وشامل يعود بالنفع على الجميع.",
+      "es": "La Iniciativa para el Desarrollo Global se propuso en 2021 para orientar el desarrollo mundial hacia una senda equilibrada, inclusiva y de beneficio mutuo.",
+      "fr": "L’Initiative pour le développement mondial a été proposée en 2021 pour orienter le développement mondial vers une voie équilibrée, inclusive et mutuellement bénéfique.",
+      "ru": "Инициатива по глобальному развитию была выдвинута в 2021 году, чтобы направить глобальное развитие по сбалансированному, инклюзивному и взаимовыгодному пути."
+    }
+  },
+  {
+    "id": "gsi",
+    "tag": "china",
+    "i18n": {
+      "en": "The Global Security Initiative was proposed in 2022, advocating common, comprehensive, cooperative and sustainable security.",
+      "zh": "全球安全倡议于 2022 年提出，倡导共同、综合、合作、可持续的安全观。",
+      "ar": "طُرحت مبادرة الأمن العالمي في عام 2022، وهي تدعو إلى أمن مشترك وشامل وتعاوني ومستدام.",
+      "es": "La Iniciativa para la Seguridad Global se propuso en 2022 y aboga por una seguridad común, integral, cooperativa y sostenible.",
+      "fr": "L’Initiative pour la sécurité mondiale a été proposée en 2022 ; elle prône une sécurité commune, globale, coopérative et durable.",
+      "ru": "Инициатива по глобальной безопасности была выдвинута в 2022 году в поддержку общей, всеобъемлющей, основанной на сотрудничестве и устойчивой безопасности."
+    }
+  },
+  {
+    "id": "gci",
+    "tag": "china",
+    "i18n": {
+      "en": "The Global Civilization Initiative was proposed in 2023, calling for respect for the diversity of civilizations and for common progress.",
+      "zh": "全球文明倡议于 2023 年提出，倡导尊重世界文明多样性，促进人类文明共同进步。",
+      "ar": "طُرحت مبادرة الحضارة العالمية في عام 2023، ودعت إلى احترام تنوع الحضارات وإلى تحقيق التقدم المشترك.",
+      "es": "La Iniciativa para la Civilización Global se propuso en 2023 y llama a respetar la diversidad de las civilizaciones y a promover el progreso común.",
+      "fr": "L’Initiative pour la civilisation mondiale a été proposée en 2023 ; elle appelle au respect de la diversité des civilisations et au progrès commun.",
+      "ru": "Инициатива по глобальной цивилизации была выдвинута в 2023 году с призывом уважать многообразие цивилизаций и добиваться общего прогресса."
+    }
+  },
+  {
+    "id": "ggi",
+    "tag": "china",
+    "i18n": {
+      "en": "The Global Governance Initiative was proposed in 2025, calling for a more just and reasonable global governance system.",
+      "zh": "全球治理倡议于 2025 年提出，倡导推动构建更加公正合理的全球治理体系。",
+      "ar": "طُرحت مبادرة الحوكمة العالمية في عام 2025، داعيةً إلى إرساء نظام للحوكمة العالمية أكثر عدلاً وإنصافاً.",
+      "es": "La Iniciativa para la Gobernanza Global se propuso en 2025 y aboga por un sistema de gobernanza global más justo y razonable.",
+      "fr": "L’Initiative pour la gouvernance mondiale a été proposée en 2025 ; elle appelle à un système de gouvernance mondiale plus juste et plus équitable.",
+      "ru": "Инициатива по глобальному управлению была выдвинута в 2025 году с призывом построить более справедливую и рациональную систему глобального управления."
+    }
+  },
+  {
+    "id": "shared-future",
+    "tag": "china",
+    "i18n": {
+      "en": "The vision of a community with a shared future for mankind has been written into United Nations documents, including Security Council and General Assembly resolutions.",
+      "zh": "构建人类命运共同体理念多次被写入联合国文件，包括安理会决议和大会决议。",
+      "ar": "أُدرجت رؤية بناء مجتمع ذي مستقبل مشترك للبشرية في وثائق الأمم المتحدة، بما في ذلك قرارات مجلس الأمن والجمعية العامة.",
+      "es": "La visión de una comunidad de futuro compartido para la humanidad se ha inscrito en documentos de las Naciones Unidas, incluidas resoluciones del Consejo de Seguridad y de la Asamblea General.",
+      "fr": "La vision d’une communauté de destin pour l’humanité a été inscrite dans des documents des Nations Unies, notamment des résolutions du Conseil de sécurité et de l’Assemblée générale.",
+      "ru": "Идея сообщества единой судьбы человечества закреплена в документах Организации Объединенных Наций, в том числе в резолюциях Совета Безопасности и Генеральной Ассамблеи."
+    }
+  },
+  {
+    "id": "un80",
+    "tag": "charter",
+    "i18n": {
+      "en": "In 2025 the United Nations marks its 80th anniversary — eighty years of work for peace, dignity and development.",
+      "zh": "2025 年，联合国迎来成立 80 周年——八十年为和平、尊严与发展而努力。",
+      "ar": "تحتفل الأمم المتحدة في عام 2025 بذكراها الثمانين — 80 عاماً من العمل من أجل السلام والكرامة والتنمية.",
+      "es": "En 2025, las Naciones Unidas conmemoran su 80.º aniversario: ochenta años de labor por la paz, la dignidad y el desarrollo.",
+      "fr": "En 2025, les Nations Unies marquent leur 80e anniversaire : quatre-vingts ans d’action pour la paix, la dignité et le développement.",
+      "ru": "В 2025 году Организация Объединенных Наций отмечает 80-летие — восемьдесят лет работы ради мира, достоинства и развития."
+    }
+  }
+]

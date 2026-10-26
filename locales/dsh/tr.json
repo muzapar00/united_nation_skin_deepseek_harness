@@ -1,0 +1,83 @@
+{
+  "code": "tr",
+  "namespaces": {
+    "common": {
+      "ok": "Tamam",
+      "cancel": "İptal",
+      "close": "Kapat",
+      "copy": "Kopyala",
+      "copied": "Kopyalandı",
+      "copy.failed": "Kopyalanamadı",
+      "copy.value": "Değeri kopyala",
+      "retry": "Yeniden dene",
+      "loading": "Yükleniyor…",
+      "load.failed": "Yüklenemedi",
+      "submit": "Gönder",
+      "submitting": "Gönderiliyor…",
+      "next": "İleri",
+      "previous": "Geri",
+      "skip": "Atla",
+      "delete": "Sil",
+      "edit": "Düzenle",
+      "save": "Kaydet",
+      "search": "Ara",
+      "more": "Daha fazla",
+      "collapse": "Daralt",
+      "expand": "Genişlet",
+      "back": "Geri",
+      "brand.localBuild": "DSH yerel derlemesi",
+      "unknown": "Bilinmiyor",
+      "none": "Hiçbiri",
+      "truncated": "Kısaltıldı",
+      "number.thousand": "{value} B",
+      "number.million": "{value} Mn"
+    },
+    "settings": {
+      "trigger": "Ayarlar",
+      "title": "Ayarlar"
+    },
+    "sidebar": {
+      "session.new": "Yeni oturum",
+      "toggle.open": "Kenar çubuğunu aç"
+    },
+    "conversation": {
+      "placeholder.default": "Mesaj yazın veya görev çalıştırın, / komutlar, @ dosyalar veya oturumlar",
+      "placeholder.hero": "Ne oluşturmak istediğinizi anlatın, / komutlar, @ dosyalar veya oturumlar",
+      "input.send": "Mesaj gönder",
+      "input.stop": "Üretmeyi durdur"
+    },
+    "chat": {
+      "view.chat": "Sohbet"
+    },
+    "command": {
+      "search.placeholder": "Ara…"
+    },
+    "model": {
+      "trigger.fallback": "Model seç",
+      "menu.model": "Model"
+    },
+    "approval": {
+      "waiting": "Onay bekleniyor",
+      "reject": "Reddet"
+    },
+    "question": {
+      "action.next": "İleri",
+      "option.recommended": "Önerilen"
+    },
+    "plan": {
+      "chip.label": "Plan"
+    },
+    "workspace": {
+      "section.workspaces": "Çalışma alanları",
+      "section.sessions": "Oturumlar",
+      "search.placeholder": "Oturumlarda ara..."
+    },
+    "feedback": {
+      "action.like": "İyi yanıt",
+      "action.dislike": "Kötü yanıt"
+    },
+    "job": {
+      "status.running": "çalışıyor"
+    }
+  }
+}

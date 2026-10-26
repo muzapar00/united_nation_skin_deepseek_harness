@@ -1,0 +1,83 @@
+{
+  "code": "ro",
+  "namespaces": {
+    "common": {
+      "ok": "OK",
+      "cancel": "Anulează",
+      "close": "Închide",
+      "copy": "Copiază",
+      "copied": "Copiat",
+      "copy.failed": "Copierea a eșuat",
+      "copy.value": "Copiază valoarea",
+      "retry": "Reîncearcă",
+      "loading": "Se încarcă…",
+      "load.failed": "Încărcarea a eșuat",
+      "submit": "Trimite",
+      "submitting": "Se trimite…",
+      "next": "Următorul",
+      "previous": "Anteriorul",
+      "skip": "Omite",
+      "delete": "Șterge",
+      "edit": "Editează",
+      "save": "Salvează",
+      "search": "Caută",
+      "more": "Mai multe",
+      "collapse": "Restrânge",
+      "expand": "Extinde",
+      "back": "Înapoi",
+      "brand.localBuild": "DSH – versiune locală",
+      "unknown": "Necunoscut",
+      "none": "Niciunul",
+      "truncated": "Trunchiat",
+      "number.thousand": "{value} mii",
+      "number.million": "{value} mil."
+    },
+    "settings": {
+      "trigger": "Setări",
+      "title": "Setări"
+    },
+    "sidebar": {
+      "session.new": "Sesiune nouă",
+      "toggle.open": "Deschide bara laterală"
+    },
+    "conversation": {
+      "placeholder.default": "Trimite un mesaj sau rulează o sarcină, / comenzi, @ fișiere sau sesiuni",
+      "placeholder.hero": "Descrie ce vrei să construiești, / comenzi, @ fișiere sau sesiuni",
+      "input.send": "Trimite mesajul",
+      "input.stop": "Oprește generarea"
+    },
+    "chat": {
+      "view.chat": "Chat"
+    },
+    "command": {
+      "search.placeholder": "Caută…"
+    },
+    "model": {
+      "trigger.fallback": "Selectează modelul",
+      "menu.model": "Model"
+    },
+    "approval": {
+      "waiting": "Se așteaptă aprobarea",
+      "reject": "Respinge"
+    },
+    "question": {
+      "action.next": "Următorul",
+      "option.recommended": "Recomandat"
+    },
+    "plan": {
+      "chip.label": "Plan"
+    },
+    "workspace": {
+      "section.workspaces": "Spații de lucru",
+      "section.sessions": "Sesiuni",
+      "search.placeholder": "Caută sesiuni..."
+    },
+    "feedback": {
+      "action.like": "Răspuns bun",
+      "action.dislike": "Răspuns prost"
+    },
+    "job": {
+      "status.running": "rulează"
+    }
+  }
+}

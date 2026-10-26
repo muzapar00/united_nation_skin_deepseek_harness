@@ -1,0 +1,83 @@
+{
+  "code": "bn",
+  "namespaces": {
+    "common": {
+      "ok": "ঠিক আছে",
+      "cancel": "বাতিল",
+      "close": "বন্ধ করুন",
+      "copy": "অনুলিপি করুন",
+      "copied": "অনুলিপি হয়েছে",
+      "copy.failed": "অনুলিপি করা যায়নি",
+      "copy.value": "মান অনুলিপি করুন",
+      "retry": "আবার চেষ্টা করুন",
+      "loading": "লোড হচ্ছে…",
+      "load.failed": "লোড করা যায়নি",
+      "submit": "জমা দিন",
+      "submitting": "জমা হচ্ছে…",
+      "next": "পরবর্তী",
+      "previous": "পূর্ববর্তী",
+      "skip": "এড়িয়ে যান",
+      "delete": "মুছুন",
+      "edit": "সম্পাদনা",
+      "save": "সংরক্ষণ",
+      "search": "খুঁজুন",
+      "more": "আরও",
+      "collapse": "সংকুচিত করুন",
+      "expand": "প্রসারিত করুন",
+      "back": "ফিরে যান",
+      "brand.localBuild": "DSH স্থানীয় বিল্ড",
+      "unknown": "অজানা",
+      "none": "কোনোটিই নয়",
+      "truncated": "সংক্ষিপ্ত করা",
+      "number.thousand": "{value} হাজার",
+      "number.million": "{value} মিলিয়ন"
+    },
+    "settings": {
+      "trigger": "সেটিংস",
+      "title": "সেটিংস"
+    },
+    "sidebar": {
+      "session.new": "নতুন সেশন",
+      "toggle.open": "সাইডবার খুলুন"
+    },
+    "conversation": {
+      "placeholder.default": "বার্তা পাঠান বা কাজ চালান, / কমান্ড, @ ফাইল বা সেশন",
+      "placeholder.hero": "আপনি যা তৈরি করতে চান বর্ণনা করুন, / কমান্ড, @ ফাইল বা সেশন",
+      "input.send": "বার্তা পাঠান",
+      "input.stop": "তৈরি করা থামান"
+    },
+    "chat": {
+      "view.chat": "চ্যাট"
+    },
+    "command": {
+      "search.placeholder": "খুঁজুন…"
+    },
+    "model": {
+      "trigger.fallback": "মডেল বেছে নিন",
+      "menu.model": "মডেল"
+    },
+    "approval": {
+      "waiting": "অনুমোদনের অপেক্ষায়",
+      "reject": "প্রত্যাখ্যান"
+    },
+    "question": {
+      "action.next": "পরবর্তী",
+      "option.recommended": "প্রস্তাবিত"
+    },
+    "plan": {
+      "chip.label": "পরিকল্পনা"
+    },
+    "workspace": {
+      "section.workspaces": "ওয়ার্কস্পেস",
+      "section.sessions": "সেশন",
+      "search.placeholder": "সেশন খুঁজুন…"
+    },
+    "feedback": {
+      "action.like": "ভালো উত্তর",
+      "action.dislike": "খারাপ উত্তর"
+    },
+    "job": {
+      "status.running": "চলছে"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "code": "el",
+  "namespaces": {
+    "common": {
+      "ok": "OK",
+      "cancel": "Άκυρο",
+      "close": "Κλείσιμο",
+      "copy": "Αντιγραφή",
+      "copied": "Αντιγράφηκε",
+      "copy.failed": "Η αντιγραφή απέτυχε",
+      "copy.value": "Αντιγραφή τιμής",
+      "retry": "Δοκιμάστε ξανά",
+      "loading": "Φόρτωση…",
+      "load.failed": "Η φόρτωση απέτυχε",
+      "submit": "Υποβολή",
+      "submitting": "Υποβολή…",
+      "next": "Επόμενο",
+      "previous": "Προηγούμενο",
+      "skip": "Παράλειψη",
+      "delete": "Διαγραφή",
+      "edit": "Επεξεργασία",
+      "save": "Αποθήκευση",
+      "search": "Αναζήτηση",
+      "more": "Περισσότερα",
+      "collapse": "Σύμπτυξη",
+      "expand": "Ανάπτυξη",
+      "back": "Πίσω",
+      "brand.localBuild": "DSH – τοπική κατασκευή",
+      "unknown": "Άγνωστο",
+      "none": "Κανένα",
+      "truncated": "Περικομμένο",
+      "number.thousand": "{value} χιλ.",
+      "number.million": "{value} εκατ."
+    },
+    "settings": {
+      "trigger": "Ρυθμίσεις",
+      "title": "Ρυθμίσεις"
+    },
+    "sidebar": {
+      "session.new": "Νέα συνεδρία",
+      "toggle.open": "Άνοιγμα πλαϊνής γραμμής"
+    },
+    "conversation": {
+      "placeholder.default": "Γράψτε μήνυμα ή εκτελέστε εργασία, / εντολές, @ αρχεία ή συνεδρίες",
+      "placeholder.hero": "Περιγράψτε τι θέλετε να φτιάξετε, / εντολές, @ αρχεία ή συνεδρίες",
+      "input.send": "Αποστολή μηνύματος",
+      "input.stop": "Διακοπή δημιουργίας"
+    },
+    "chat": {
+      "view.chat": "Συνομιλία"
+    },
+    "command": {
+      "search.placeholder": "Αναζήτηση…"
+    },
+    "model": {
+      "trigger.fallback": "Επιλογή μοντέλου",
+      "menu.model": "Μοντέλο"
+    },
+    "approval": {
+      "waiting": "Αναμονή έγκρισης",
+      "reject": "Απόρριψη"
+    },
+    "question": {
+      "action.next": "Επόμενο",
+      "option.recommended": "Προτεινόμενο"
+    },
+    "plan": {
+      "chip.label": "Σχέδιο"
+    },
+    "workspace": {
+      "section.workspaces": "Χώροι εργασίας",
+      "section.sessions": "Συνεδρίες",
+      "search.placeholder": "Αναζήτηση συνεδριών..."
+    },
+    "feedback": {
+      "action.like": "Καλή απάντηση",
+      "action.dislike": "Κακή απάντηση"
+    },
+    "job": {
+      "status.running": "σε εκτέλεση"
+    }
+  }
+}

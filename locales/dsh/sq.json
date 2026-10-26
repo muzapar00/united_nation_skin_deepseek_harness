@@ -1,0 +1,83 @@
+{
+  "code": "sq",
+  "namespaces": {
+    "common": {
+      "ok": "Në rregull",
+      "cancel": "Anulo",
+      "close": "Mbyll",
+      "copy": "Kopjo",
+      "copied": "U kopjua",
+      "copy.failed": "Kopjimi dështoi",
+      "copy.value": "Kopjo vlerën",
+      "retry": "Provo përsëri",
+      "loading": "Po ngarkohet…",
+      "load.failed": "Ngarkimi dështoi",
+      "submit": "Dërgo",
+      "submitting": "Po dërgohet…",
+      "next": "Tjetra",
+      "previous": "Prapa",
+      "skip": "Kapërce",
+      "delete": "Fshi",
+      "edit": "Ndrysho",
+      "save": "Ruaj",
+      "search": "Kërko",
+      "more": "Më shumë",
+      "collapse": "Mblidh",
+      "expand": "Zgjero",
+      "back": "Kthehu",
+      "brand.localBuild": "Ndërtim lokal i DSH",
+      "unknown": "E panjohur",
+      "none": "Asnjë",
+      "truncated": "I shkurtuar",
+      "number.thousand": "{value} mijë",
+      "number.million": "{value} mln"
+    },
+    "settings": {
+      "trigger": "Cilësimet",
+      "title": "Cilësimet"
+    },
+    "sidebar": {
+      "session.new": "Sesion i ri",
+      "toggle.open": "Hap shiritin anësor"
+    },
+    "conversation": {
+      "placeholder.default": "Dërgoni një mesazh ose detyrë, / komanda, @ skedarë ose sesione",
+      "placeholder.hero": "Përshkruani çfarë dëshironi të ndërtoni, / komanda, @ skedarë ose sesione",
+      "input.send": "Dërgo mesazhin",
+      "input.stop": "Ndalo gjenerimin"
+    },
+    "chat": {
+      "view.chat": "Bisedë"
+    },
+    "command": {
+      "search.placeholder": "Kërko…"
+    },
+    "model": {
+      "trigger.fallback": "Zgjidh modelin",
+      "menu.model": "Modeli"
+    },
+    "approval": {
+      "waiting": "Në pritje të miratimit",
+      "reject": "Refuzo"
+    },
+    "question": {
+      "action.next": "Tjetra",
+      "option.recommended": "E rekomanduar"
+    },
+    "plan": {
+      "chip.label": "Plan"
+    },
+    "workspace": {
+      "section.workspaces": "Hapësirat e punës",
+      "section.sessions": "Sesionet",
+      "search.placeholder": "Kërko sesione..."
+    },
+    "feedback": {
+      "action.like": "Përgjigje e mirë",
+      "action.dislike": "Përgjigje e dobët"
+    },
+    "job": {
+      "status.running": "po ecën"
+    }
+  }
+}

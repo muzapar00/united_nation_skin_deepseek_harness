@@ -1,0 +1,52 @@
+{
+  "id": "united-nations",
+  "name": "联合国 · United Nations",
+  "nameEn": "United Nations",
+  "author": "muzapar00",
+  "version": "0.1.0",
+  "tagline": "白底蓝金的联合国气质，128 种语言的界面，致敬维和行动",
+  "taglineEn": "White and UN blue, 128 translated interfaces, in tribute to peacekeeping",
+  "description": "把 DeepSeek Harness 换成联合国的样子：官方徽记、维和背景轮播、宪章金句、193 个会员国的知识轮播，以及一个收录 7,030 种语言、128 种已完整翻译的语言选择器。",
+  "tags": [
+    "united-nations",
+    "un",
+    "theme",
+    "skin",
+    "light",
+    "i18n",
+    "peacekeeping",
+    "chinese"
+  ],
+  "accent": "#009EDB",
+  "bodyAttr": "data-dsh-un",
+  "package": "dsh-theme-un",
+  "order": 20,
+  "screenshots": [
+    "docs/screenshots/home-light-zh.png",
+    "docs/screenshots/home-dark-zh.png",
+    "docs/screenshots/language-picker-zh.png",
+    "docs/screenshots/language-picker-ar-rtl.png",
+    "docs/screenshots/settings-un-zh.png"
+  ],
+  "links": {
+    "repo": "https://github.com/muzapar00/united_nation_skin_deepseek_harness",
+    "un": "https://www.un.org/"
+  },
+  "languages": {
+    "translated": 127,
+    "catalogued": 7030,
+    "official": 6
+  },
+  "compatibility": {
+    "dsh": ">=0.1.5",
+    "profiles": [
+      "web",
+      "desktop"
+    ],
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ]
+  }
+}

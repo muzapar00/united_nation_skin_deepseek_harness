@@ -1,0 +1,83 @@
+{
+  "code": "sv",
+  "namespaces": {
+    "common": {
+      "ok": "OK",
+      "cancel": "Avbryt",
+      "close": "Stäng",
+      "copy": "Kopiera",
+      "copied": "Kopierat",
+      "copy.failed": "Kopieringen misslyckades",
+      "copy.value": "Kopiera värde",
+      "retry": "Försök igen",
+      "loading": "Läser in…",
+      "load.failed": "Det gick inte att läsa in",
+      "submit": "Skicka",
+      "submitting": "Skickar…",
+      "next": "Nästa",
+      "previous": "Föregående",
+      "skip": "Hoppa över",
+      "delete": "Radera",
+      "edit": "Redigera",
+      "save": "Spara",
+      "search": "Sök",
+      "more": "Mer",
+      "collapse": "Fäll ihop",
+      "expand": "Fäll ut",
+      "back": "Tillbaka",
+      "brand.localBuild": "Lokal DSH-build",
+      "unknown": "Okänt",
+      "none": "Inget",
+      "truncated": "Trunkerat",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Inställningar",
+      "title": "Inställningar"
+    },
+    "sidebar": {
+      "session.new": "Ny session",
+      "toggle.open": "Öppna sidopanelen"
+    },
+    "conversation": {
+      "placeholder.default": "Skicka ett meddelande eller kör en uppgift, / kommandon, @ filer eller sessioner",
+      "placeholder.hero": "Beskriv vad du vill bygga, / kommandon, @ filer eller sessioner",
+      "input.send": "Skicka meddelande",
+      "input.stop": "Stoppa genereringen"
+    },
+    "chat": {
+      "view.chat": "Chatt"
+    },
+    "command": {
+      "search.placeholder": "Sök…"
+    },
+    "model": {
+      "trigger.fallback": "Välj modell",
+      "menu.model": "Modell"
+    },
+    "approval": {
+      "waiting": "Väntar på godkännande",
+      "reject": "Avvisa"
+    },
+    "question": {
+      "action.next": "Nästa",
+      "option.recommended": "Rekommenderas"
+    },
+    "plan": {
+      "chip.label": "Plan"
+    },
+    "workspace": {
+      "section.workspaces": "Arbetsytor",
+      "section.sessions": "Sessioner",
+      "search.placeholder": "Sök sessioner..."
+    },
+    "feedback": {
+      "action.like": "Bra svar",
+      "action.dislike": "Dåligt svar"
+    },
+    "job": {
+      "status.running": "körs"
+    }
+  }
+}

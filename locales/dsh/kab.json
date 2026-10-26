@@ -1,0 +1,83 @@
+{
+  "code": "kab",
+  "namespaces": {
+    "common": {
+      "ok": "Ih",
+      "cancel": "Sefsex",
+      "close": "Mdel",
+      "copy": "Nɣel",
+      "copied": "Yettwanɣel",
+      "copy.failed": "Ur yettwanɣel ara",
+      "copy.value": "Nɣel azal",
+      "retry": "Ɛreḍ tikkelt-nniḍen",
+      "loading": "Yettwasali…",
+      "load.failed": "Yegguma ad yettwasali",
+      "submit": "Azen",
+      "submitting": "Yettwazen…",
+      "next": "Iḍfṛen",
+      "previous": "Izrin",
+      "skip": "Zri",
+      "delete": "Kkes",
+      "edit": "Snifel",
+      "save": "Sekles",
+      "search": "Nadi",
+      "more": "Ugar",
+      "collapse": "Mdel",
+      "expand": "Ldi",
+      "back": "Uɣal",
+      "brand.localBuild": "Asuffeɣ adigan n DSH",
+      "unknown": "Ur yettwassen ara",
+      "none": "Ulac",
+      "truncated": "Yettwagzem",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Iɣewwaṛen",
+      "title": "Iɣewwaṛen"
+    },
+    "sidebar": {
+      "session.new": "Timlilit tamaynut",
+      "toggle.open": "Ldi tasga"
+    },
+    "conversation": {
+      "placeholder.default": "Azen izen neɣ bdu tawuri, / lumur, @ ifuyla neɣ timlilin",
+      "placeholder.hero": "Ssiwel ɣef wayen tebɣaḍ ad t-tesnulfuḍ, / lumur, @ ifuyla neɣ timlilin",
+      "input.send": "Azen izen",
+      "input.stop": "Ḥbes asnulfu"
+    },
+    "chat": {
+      "view.chat": "Amsawal"
+    },
+    "command": {
+      "search.placeholder": "Nadi…"
+    },
+    "model": {
+      "trigger.fallback": "Fren amudel",
+      "menu.model": "Amudel"
+    },
+    "approval": {
+      "waiting": "Yettṛaǧu lmuwafaqa",
+      "reject": "Agi"
+    },
+    "question": {
+      "action.next": "Iḍfṛen",
+      "option.recommended": "Yettwasumer"
+    },
+    "plan": {
+      "chip.label": "Aɣawas"
+    },
+    "workspace": {
+      "section.workspaces": "Iwadegen n tawuri",
+      "section.sessions": "Timlilin",
+      "search.placeholder": "Nadi timlilin..."
+    },
+    "feedback": {
+      "action.like": "Tiririt telha",
+      "action.dislike": "Tiririt ur telha ara"
+    },
+    "job": {
+      "status.running": "Yetteddu"
+    }
+  }
+}

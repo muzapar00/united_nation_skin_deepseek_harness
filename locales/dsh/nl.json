@@ -1,0 +1,83 @@
+{
+  "code": "nl",
+  "namespaces": {
+    "common": {
+      "ok": "Oké",
+      "cancel": "Annuleren",
+      "close": "Sluiten",
+      "copy": "Kopiëren",
+      "copied": "Gekopieerd",
+      "copy.failed": "Kopiëren mislukt",
+      "copy.value": "Waarde kopiëren",
+      "retry": "Opnieuw proberen",
+      "loading": "Laden…",
+      "load.failed": "Laden mislukt",
+      "submit": "Verzenden",
+      "submitting": "Verzenden…",
+      "next": "Volgende",
+      "previous": "Vorige",
+      "skip": "Overslaan",
+      "delete": "Verwijderen",
+      "edit": "Bewerken",
+      "save": "Opslaan",
+      "search": "Zoeken",
+      "more": "Meer",
+      "collapse": "Inklappen",
+      "expand": "Uitklappen",
+      "back": "Terug",
+      "brand.localBuild": "Lokale DSH-build",
+      "unknown": "Onbekend",
+      "none": "Geen",
+      "truncated": "Afgekapt",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Instellingen",
+      "title": "Instellingen"
+    },
+    "sidebar": {
+      "session.new": "Nieuwe sessie",
+      "toggle.open": "Zijbalk openen"
+    },
+    "conversation": {
+      "placeholder.default": "Stuur een bericht of start een taak, / opdrachten, @ bestanden of sessies",
+      "placeholder.hero": "Beschrijf wat je wilt bouwen, / opdrachten, @ bestanden of sessies",
+      "input.send": "Bericht verzenden",
+      "input.stop": "Genereren stoppen"
+    },
+    "chat": {
+      "view.chat": "Chat"
+    },
+    "command": {
+      "search.placeholder": "Zoeken…"
+    },
+    "model": {
+      "trigger.fallback": "Model selecteren",
+      "menu.model": "Model"
+    },
+    "approval": {
+      "waiting": "Wachten op goedkeuring",
+      "reject": "Weigeren"
+    },
+    "question": {
+      "action.next": "Volgende",
+      "option.recommended": "Aanbevolen"
+    },
+    "plan": {
+      "chip.label": "Plan"
+    },
+    "workspace": {
+      "section.workspaces": "Werkruimtes",
+      "section.sessions": "Sessies",
+      "search.placeholder": "Sessies zoeken..."
+    },
+    "feedback": {
+      "action.like": "Goed antwoord",
+      "action.dislike": "Slecht antwoord"
+    },
+    "job": {
+      "status.running": "actief"
+    }
+  }
+}

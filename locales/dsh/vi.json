@@ -1,0 +1,83 @@
+{
+  "code": "vi",
+  "namespaces": {
+    "common": {
+      "ok": "Đồng ý",
+      "cancel": "Hủy",
+      "close": "Đóng",
+      "copy": "Sao chép",
+      "copied": "Đã sao chép",
+      "copy.failed": "Sao chép thất bại",
+      "copy.value": "Sao chép giá trị",
+      "retry": "Thử lại",
+      "loading": "Đang tải…",
+      "load.failed": "Tải thất bại",
+      "submit": "Gửi",
+      "submitting": "Đang gửi…",
+      "next": "Tiếp",
+      "previous": "Trước",
+      "skip": "Bỏ qua",
+      "delete": "Xóa",
+      "edit": "Sửa",
+      "save": "Lưu",
+      "search": "Tìm kiếm",
+      "more": "Thêm",
+      "collapse": "Thu gọn",
+      "expand": "Mở rộng",
+      "back": "Quay lại",
+      "brand.localBuild": "Bản dựng cục bộ DSH",
+      "unknown": "Không rõ",
+      "none": "Không có",
+      "truncated": "Đã cắt bớt",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Cài đặt",
+      "title": "Cài đặt"
+    },
+    "sidebar": {
+      "session.new": "Phiên mới",
+      "toggle.open": "Mở thanh bên"
+    },
+    "conversation": {
+      "placeholder.default": "Nhập tin nhắn hoặc chạy tác vụ, / lệnh, @ tệp hoặc phiên",
+      "placeholder.hero": "Mô tả điều bạn muốn tạo, / lệnh, @ tệp hoặc phiên",
+      "input.send": "Gửi tin nhắn",
+      "input.stop": "Dừng tạo"
+    },
+    "chat": {
+      "view.chat": "Trò chuyện"
+    },
+    "command": {
+      "search.placeholder": "Tìm kiếm…"
+    },
+    "model": {
+      "trigger.fallback": "Chọn mô hình",
+      "menu.model": "Mô hình"
+    },
+    "approval": {
+      "waiting": "Đang chờ phê duyệt",
+      "reject": "Từ chối"
+    },
+    "question": {
+      "action.next": "Tiếp",
+      "option.recommended": "Đề xuất"
+    },
+    "plan": {
+      "chip.label": "Kế hoạch"
+    },
+    "workspace": {
+      "section.workspaces": "Không gian làm việc",
+      "section.sessions": "Phiên",
+      "search.placeholder": "Tìm phiên..."
+    },
+    "feedback": {
+      "action.like": "Câu trả lời tốt",
+      "action.dislike": "Câu trả lời kém"
+    },
+    "job": {
+      "status.running": "đang chạy"
+    }
+  }
+}

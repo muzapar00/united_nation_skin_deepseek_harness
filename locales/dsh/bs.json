@@ -1,0 +1,83 @@
+{
+  "code": "bs",
+  "namespaces": {
+    "common": {
+      "ok": "U redu",
+      "cancel": "Otkaži",
+      "close": "Zatvori",
+      "copy": "Kopiraj",
+      "copied": "Kopirano",
+      "copy.failed": "Kopiranje nije uspjelo",
+      "copy.value": "Kopiraj vrijednost",
+      "retry": "Pokušaj ponovo",
+      "loading": "Učitavanje…",
+      "load.failed": "Učitavanje nije uspjelo",
+      "submit": "Pošalji",
+      "submitting": "Slanje…",
+      "next": "Dalje",
+      "previous": "Nazad",
+      "skip": "Preskoči",
+      "delete": "Izbriši",
+      "edit": "Uredi",
+      "save": "Sačuvaj",
+      "search": "Pretraži",
+      "more": "Više",
+      "collapse": "Sažmi",
+      "expand": "Proširi",
+      "back": "Nazad",
+      "brand.localBuild": "DSH lokalna izrada",
+      "unknown": "Nepoznato",
+      "none": "Nema",
+      "truncated": "Skraćeno",
+      "number.thousand": "{value} hilj.",
+      "number.million": "{value} mil."
+    },
+    "settings": {
+      "trigger": "Postavke",
+      "title": "Postavke"
+    },
+    "sidebar": {
+      "session.new": "Nova sesija",
+      "toggle.open": "Otvori bočnu traku"
+    },
+    "conversation": {
+      "placeholder.default": "Pošaljite poruku ili zadatak, / komande, @ datoteke ili sesije",
+      "placeholder.hero": "Opišite šta želite napraviti, / komande, @ datoteke ili sesije",
+      "input.send": "Pošalji poruku",
+      "input.stop": "Zaustavi generisanje"
+    },
+    "chat": {
+      "view.chat": "Razgovor"
+    },
+    "command": {
+      "search.placeholder": "Pretraži…"
+    },
+    "model": {
+      "trigger.fallback": "Odaberi model",
+      "menu.model": "Model"
+    },
+    "approval": {
+      "waiting": "Čeka odobrenje",
+      "reject": "Odbij"
+    },
+    "question": {
+      "action.next": "Dalje",
+      "option.recommended": "Preporučeno"
+    },
+    "plan": {
+      "chip.label": "Plan"
+    },
+    "workspace": {
+      "section.workspaces": "Radni prostori",
+      "section.sessions": "Sesije",
+      "search.placeholder": "Pretraži sesije..."
+    },
+    "feedback": {
+      "action.like": "Dobar odgovor",
+      "action.dislike": "Loš odgovor"
+    },
+    "job": {
+      "status.running": "radi"
+    }
+  }
+}

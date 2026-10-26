@@ -1,0 +1,83 @@
+{
+  "code": "ml",
+  "namespaces": {
+    "common": {
+      "ok": "ശരി",
+      "cancel": "റദ്ദാക്കുക",
+      "close": "അടയ്ക്കുക",
+      "copy": "പകർത്തുക",
+      "copied": "പകർത്തി",
+      "copy.failed": "പകർത്താൻ കഴിഞ്ഞില്ല",
+      "copy.value": "മൂല്യം പകർത്തുക",
+      "retry": "വീണ്ടും ശ്രമിക്കുക",
+      "loading": "ലോഡ് ചെയ്യുന്നു…",
+      "load.failed": "ലോഡ് ചെയ്യാൻ കഴിഞ്ഞില്ല",
+      "submit": "സമർപ്പിക്കുക",
+      "submitting": "സമർപ്പിക്കുന്നു…",
+      "next": "അടുത്തത്",
+      "previous": "മുൻപത്തേത്",
+      "skip": "ഒഴിവാക്കുക",
+      "delete": "ഇല്ലാതാക്കുക",
+      "edit": "തിരുത്തുക",
+      "save": "സംരക്ഷിക്കുക",
+      "search": "തിരയുക",
+      "more": "കൂടുതൽ",
+      "collapse": "ചുരുക്കുക",
+      "expand": "വിടർത്തുക",
+      "back": "പിന്നോട്ട്",
+      "brand.localBuild": "DSH ലോക്കൽ ബിൽഡ്",
+      "unknown": "അജ്ഞാതം",
+      "none": "ഒന്നുമില്ല",
+      "truncated": "വെട്ടിച്ചുരുക്കി",
+      "number.thousand": "{value} ആയിരം",
+      "number.million": "{value} ദശലക്ഷം"
+    },
+    "settings": {
+      "trigger": "ക്രമീകരണങ്ങൾ",
+      "title": "ക്രമീകരണങ്ങൾ"
+    },
+    "sidebar": {
+      "session.new": "പുതിയ സെഷൻ",
+      "toggle.open": "സൈഡ്ബാർ തുറക്കുക"
+    },
+    "conversation": {
+      "placeholder.default": "സന്ദേശം അയക്കുക അല്ലെങ്കിൽ ജോലി പ്രവർത്തിപ്പിക്കുക, / കമാൻഡുകൾ, @ ഫയലുകൾ അല്ലെങ്കിൽ സെഷനുകൾ",
+      "placeholder.hero": "നിങ്ങൾ നിർമ്മിക്കാൻ ആഗ്രഹിക്കുന്നത് വിവരിക്കുക, / കമാൻഡുകൾ, @ ഫയലുകൾ അല്ലെങ്കിൽ സെഷനുകൾ",
+      "input.send": "സന്ദേശം അയക്കുക",
+      "input.stop": "ജനറേറ്റ് ചെയ്യുന്നത് നിർത്തുക"
+    },
+    "chat": {
+      "view.chat": "ചാറ്റ്"
+    },
+    "command": {
+      "search.placeholder": "തിരയുക…"
+    },
+    "model": {
+      "trigger.fallback": "മോഡൽ തിരഞ്ഞെടുക്കുക",
+      "menu.model": "മോഡൽ"
+    },
+    "approval": {
+      "waiting": "അനുമതിക്കായി കാത്തിരിക്കുന്നു",
+      "reject": "നിരസിക്കുക"
+    },
+    "question": {
+      "action.next": "അടുത്തത്",
+      "option.recommended": "ശുപാർശ ചെയ്യുന്നു"
+    },
+    "plan": {
+      "chip.label": "പ്ലാൻ"
+    },
+    "workspace": {
+      "section.workspaces": "വർക്ക്സ്പേസുകൾ",
+      "section.sessions": "സെഷനുകൾ",
+      "search.placeholder": "സെഷനുകൾ തിരയുക…"
+    },
+    "feedback": {
+      "action.like": "നല്ല മറുപടി",
+      "action.dislike": "മോശം മറുപടി"
+    },
+    "job": {
+      "status.running": "പ്രവർത്തിക്കുന്നു"
+    }
+  }
+}

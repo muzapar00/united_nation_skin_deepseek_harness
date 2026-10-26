@@ -1,0 +1,83 @@
+{
+  "code": "et",
+  "namespaces": {
+    "common": {
+      "ok": "Sobib",
+      "cancel": "Tühista",
+      "close": "Sulge",
+      "copy": "Kopeeri",
+      "copied": "Kopeeritud",
+      "copy.failed": "Kopeerimine ebaõnnestus",
+      "copy.value": "Kopeeri väärtus",
+      "retry": "Proovi uuesti",
+      "loading": "Laadimine…",
+      "load.failed": "Laadimine ebaõnnestus",
+      "submit": "Esita",
+      "submitting": "Esitamine…",
+      "next": "Järgmine",
+      "previous": "Eelmine",
+      "skip": "Jäta vahele",
+      "delete": "Kustuta",
+      "edit": "Muuda",
+      "save": "Salvesta",
+      "search": "Otsi",
+      "more": "Rohkem",
+      "collapse": "Ahenda",
+      "expand": "Laienda",
+      "back": "Tagasi",
+      "brand.localBuild": "DSH kohalik versioon",
+      "unknown": "Teadmata",
+      "none": "Puudub",
+      "truncated": "Kärbitud",
+      "number.thousand": "{value} tuh",
+      "number.million": "{value} mln"
+    },
+    "settings": {
+      "trigger": "Seaded",
+      "title": "Seaded"
+    },
+    "sidebar": {
+      "session.new": "Uus seanss",
+      "toggle.open": "Ava külgriba"
+    },
+    "conversation": {
+      "placeholder.default": "Saada sõnum või käivita ülesanne, / käsud, @ failid või seansid",
+      "placeholder.hero": "Kirjelda, mida soovid luua, / käsud, @ failid või seansid",
+      "input.send": "Saada sõnum",
+      "input.stop": "Peata genereerimine"
+    },
+    "chat": {
+      "view.chat": "Vestlus"
+    },
+    "command": {
+      "search.placeholder": "Otsi…"
+    },
+    "model": {
+      "trigger.fallback": "Vali mudel",
+      "menu.model": "Mudel"
+    },
+    "approval": {
+      "waiting": "Ootab kinnitust",
+      "reject": "Keeldu"
+    },
+    "question": {
+      "action.next": "Edasi",
+      "option.recommended": "Soovitatav"
+    },
+    "plan": {
+      "chip.label": "Plaan"
+    },
+    "workspace": {
+      "section.workspaces": "Tööruumid",
+      "section.sessions": "Seansid",
+      "search.placeholder": "Otsi seansse..."
+    },
+    "feedback": {
+      "action.like": "Hea vastus",
+      "action.dislike": "Halb vastus"
+    },
+    "job": {
+      "status.running": "töötab"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "code": "ar",
+  "namespaces": {
+    "common": {
+      "ok": "موافق",
+      "cancel": "إلغاء",
+      "close": "إغلاق",
+      "copy": "نسخ",
+      "copied": "تم النسخ",
+      "copy.failed": "فشل النسخ",
+      "copy.value": "نسخ القيمة",
+      "retry": "إعادة المحاولة",
+      "loading": "جارٍ التحميل…",
+      "load.failed": "فشل التحميل",
+      "submit": "إرسال",
+      "submitting": "جارٍ الإرسال…",
+      "next": "التالي",
+      "previous": "السابق",
+      "skip": "تخطٍّ",
+      "delete": "حذف",
+      "edit": "تعديل",
+      "save": "حفظ",
+      "search": "بحث",
+      "more": "المزيد",
+      "collapse": "طيّ",
+      "expand": "توسيع",
+      "back": "رجوع",
+      "brand.localBuild": "بناء DSH المحلي",
+      "unknown": "غير معروف",
+      "none": "لا شيء",
+      "truncated": "مقطوع",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "الإعدادات",
+      "title": "الإعدادات"
+    },
+    "sidebar": {
+      "session.new": "جلسة جديدة",
+      "toggle.open": "فتح الشريط الجانبي"
+    },
+    "conversation": {
+      "placeholder.default": "أرسل رسالة أو نفّذ مهمة، / للأوامر، @ للملفات أو الجلسات",
+      "placeholder.hero": "صِف ما تريد إنشاءه، / للأوامر، @ للملفات أو الجلسات",
+      "input.send": "إرسال الرسالة",
+      "input.stop": "إيقاف التوليد"
+    },
+    "chat": {
+      "view.chat": "المحادثة"
+    },
+    "command": {
+      "search.placeholder": "بحث…"
+    },
+    "model": {
+      "trigger.fallback": "اختيار النموذج",
+      "menu.model": "النموذج"
+    },
+    "approval": {
+      "waiting": "في انتظار الموافقة",
+      "reject": "رفض"
+    },
+    "question": {
+      "action.next": "التالي",
+      "option.recommended": "موصى به"
+    },
+    "plan": {
+      "chip.label": "خطة"
+    },
+    "workspace": {
+      "section.workspaces": "مساحات العمل",
+      "section.sessions": "الجلسات",
+      "search.placeholder": "البحث في الجلسات..."
+    },
+    "feedback": {
+      "action.like": "إجابة جيدة",
+      "action.dislike": "إجابة سيئة"
+    },
+    "job": {
+      "status.running": "قيد التشغيل"
+    }
+  }
+}

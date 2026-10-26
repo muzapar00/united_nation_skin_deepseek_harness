@@ -1,0 +1,83 @@
+{
+  "code": "ak",
+  "namespaces": {
+    "common": {
+      "ok": "Yoo",
+      "cancel": "Twa mu",
+      "close": "To mu",
+      "copy": "Kɔpi",
+      "copied": "Wɔakɔpi",
+      "copy.failed": "Kɔpi anyɛ yie",
+      "copy.value": "Kɔpi boɔ no",
+      "retry": "San yɛ",
+      "loading": "Wɔresɔ…",
+      "load.failed": "Ɛnsɔe yie",
+      "submit": "Kɔma",
+      "submitting": "Wɔrekɔma…",
+      "next": "Kɔ anim",
+      "previous": "Deɛ adi kan",
+      "skip": "Fa so kɔ",
+      "delete": "Pepa",
+      "edit": "Sesa",
+      "save": "Sie",
+      "search": "Hwehwɛ",
+      "more": "Nea ɛwɔ hɔ bio",
+      "collapse": "Bɔ mu",
+      "expand": "Bue",
+      "back": "San kɔ",
+      "brand.localBuild": "DSH a wɔyɛɛ no ha",
+      "unknown": "Wɔnnim",
+      "none": "Hwee",
+      "truncated": "Wɔatwa so",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Nhyehyɛeɛ",
+      "title": "Nhyehyɛeɛ"
+    },
+    "sidebar": {
+      "session.new": "Nkɔmbɔ foforo",
+      "toggle.open": "Bue nkyɛnmu"
+    },
+    "conversation": {
+      "placeholder.default": "Kyerɛw asɛm anaa yɛ adwuma bi, / ahyɛdeɛ, @ fael anaa nkɔmbɔ",
+      "placeholder.hero": "Kyerɛkyerɛ deɛ wopɛ sɛ woyɛ no, / ahyɛdeɛ, @ fael anaa nkɔmbɔ",
+      "input.send": "Soma asɛm",
+      "input.stop": "Gyae yɛ"
+    },
+    "chat": {
+      "view.chat": "Nkɔmbɔ"
+    },
+    "command": {
+      "search.placeholder": "Hwehwɛ…"
+    },
+    "model": {
+      "trigger.fallback": "Paw nhwɛsoɔ",
+      "menu.model": "Nhwɛsoɔ"
+    },
+    "approval": {
+      "waiting": "Wɔretwɛn kwan",
+      "reject": "Po"
+    },
+    "question": {
+      "action.next": "Kɔ anim",
+      "option.recommended": "Yɛkam"
+    },
+    "plan": {
+      "chip.label": "Nhyehyɛeɛ"
+    },
+    "workspace": {
+      "section.workspaces": "Adwumabea",
+      "section.sessions": "Nkɔmbɔ",
+      "search.placeholder": "Hwehwɛ nkɔmbɔ..."
+    },
+    "feedback": {
+      "action.like": "Mmuaeɛ pa",
+      "action.dislike": "Mmuaeɛ bɔne"
+    },
+    "job": {
+      "status.running": "Ɛrekɔ so"
+    }
+  }
+}

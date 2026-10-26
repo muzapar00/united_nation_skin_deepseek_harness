@@ -1,0 +1,83 @@
+{
+  "code": "lb",
+  "namespaces": {
+    "common": {
+      "ok": "OK",
+      "cancel": "Ofbriechen",
+      "close": "Zoumaachen",
+      "copy": "Kopéieren",
+      "copied": "Kopéiert",
+      "copy.failed": "Kopéiere feelgeschloen",
+      "copy.value": "Wäert kopéieren",
+      "retry": "Erëm probéieren",
+      "loading": "Lueden…",
+      "load.failed": "Luede feelgeschloen",
+      "submit": "Ofschécken",
+      "submitting": "Gëtt ofgeschéckt…",
+      "next": "Weider",
+      "previous": "Vireg",
+      "skip": "Iwwersprangen",
+      "delete": "Läschen",
+      "edit": "Änneren",
+      "save": "Späicheren",
+      "search": "Sichen",
+      "more": "Méi",
+      "collapse": "Zouklappen",
+      "expand": "Opklappen",
+      "back": "Zréck",
+      "brand.localBuild": "Lokal DSH-Versioun",
+      "unknown": "Onbekannt",
+      "none": "Keng",
+      "truncated": "Ofgeschnidden",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Astellungen",
+      "title": "Astellungen"
+    },
+    "sidebar": {
+      "session.new": "Nei Sessioun",
+      "toggle.open": "Säitenleiste opmaachen"
+    },
+    "conversation": {
+      "placeholder.default": "Noriicht schécken oder eng Aufgab starten, / Befehler, @ Dateien oder Sessiounen",
+      "placeholder.hero": "Beschreift, wat Dir bauen wëllt, / Befehler, @ Dateien oder Sessiounen",
+      "input.send": "Noriicht schécken",
+      "input.stop": "Generéierung stoppen"
+    },
+    "chat": {
+      "view.chat": "Gespréich"
+    },
+    "command": {
+      "search.placeholder": "Sichen…"
+    },
+    "model": {
+      "trigger.fallback": "Modell auswielen",
+      "menu.model": "Modell"
+    },
+    "approval": {
+      "waiting": "Waart op Genehmegung",
+      "reject": "Refuséieren"
+    },
+    "question": {
+      "action.next": "Weider",
+      "option.recommended": "Empfohlen"
+    },
+    "plan": {
+      "chip.label": "Plang"
+    },
+    "workspace": {
+      "section.workspaces": "Aarbechtsberäicher",
+      "section.sessions": "Sessiounen",
+      "search.placeholder": "Sessiounen sichen..."
+    },
+    "feedback": {
+      "action.like": "Gutt Äntwert",
+      "action.dislike": "Schlecht Äntwert"
+    },
+    "job": {
+      "status.running": "leeft"
+    }
+  }
+}

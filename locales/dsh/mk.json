@@ -1,0 +1,83 @@
+{
+  "code": "mk",
+  "namespaces": {
+    "common": {
+      "ok": "Во ред",
+      "cancel": "Откажи",
+      "close": "Затвори",
+      "copy": "Копирај",
+      "copied": "Копирано",
+      "copy.failed": "Копирањето не успеа",
+      "copy.value": "Копирај ја вредноста",
+      "retry": "Обиди се повторно",
+      "loading": "Се вчитува…",
+      "load.failed": "Вчитувањето не успеа",
+      "submit": "Испрати",
+      "submitting": "Се испраќа…",
+      "next": "Следно",
+      "previous": "Претходно",
+      "skip": "Прескокни",
+      "delete": "Избриши",
+      "edit": "Уреди",
+      "save": "Зачувај",
+      "search": "Пребарај",
+      "more": "Повеќе",
+      "collapse": "Собери",
+      "expand": "Прошири",
+      "back": "Назад",
+      "brand.localBuild": "Локална изградба на DSH",
+      "unknown": "Непознато",
+      "none": "Нема",
+      "truncated": "Скратено",
+      "number.thousand": "{value} илј.",
+      "number.million": "{value} мил."
+    },
+    "settings": {
+      "trigger": "Поставки",
+      "title": "Поставки"
+    },
+    "sidebar": {
+      "session.new": "Нова сесија",
+      "toggle.open": "Отвори странична лента"
+    },
+    "conversation": {
+      "placeholder.default": "Испратете порака или задача, / команди, @ датотеки или сесии",
+      "placeholder.hero": "Опишете што сакате да изградите, / команди, @ датотеки или сесии",
+      "input.send": "Испрати порака",
+      "input.stop": "Запри генерирање"
+    },
+    "chat": {
+      "view.chat": "Разговор"
+    },
+    "command": {
+      "search.placeholder": "Пребарај…"
+    },
+    "model": {
+      "trigger.fallback": "Изберете модел",
+      "menu.model": "Модел"
+    },
+    "approval": {
+      "waiting": "Чека одобрување",
+      "reject": "Одбиј"
+    },
+    "question": {
+      "action.next": "Следно",
+      "option.recommended": "Препорачано"
+    },
+    "plan": {
+      "chip.label": "План"
+    },
+    "workspace": {
+      "section.workspaces": "Работни простори",
+      "section.sessions": "Сесии",
+      "search.placeholder": "Пребарај сесии..."
+    },
+    "feedback": {
+      "action.like": "Добар одговор",
+      "action.dislike": "Лош одговор"
+    },
+    "job": {
+      "status.running": "работи"
+    }
+  }
+}

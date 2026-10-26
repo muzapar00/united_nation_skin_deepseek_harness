@@ -1,0 +1,83 @@
+{
+  "code": "ja",
+  "namespaces": {
+    "common": {
+      "ok": "OK",
+      "cancel": "キャンセル",
+      "close": "閉じる",
+      "copy": "コピー",
+      "copied": "コピーしました",
+      "copy.failed": "コピーに失敗しました",
+      "copy.value": "値をコピー",
+      "retry": "再試行",
+      "loading": "読み込み中…",
+      "load.failed": "読み込みに失敗しました",
+      "submit": "送信",
+      "submitting": "送信中…",
+      "next": "次へ",
+      "previous": "前へ",
+      "skip": "スキップ",
+      "delete": "削除",
+      "edit": "編集",
+      "save": "保存",
+      "search": "検索",
+      "more": "その他",
+      "collapse": "折りたたむ",
+      "expand": "展開",
+      "back": "戻る",
+      "brand.localBuild": "DSH ローカルビルド",
+      "unknown": "不明",
+      "none": "なし",
+      "truncated": "切り詰め済み",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "設定",
+      "title": "設定"
+    },
+    "sidebar": {
+      "session.new": "新しいセッション",
+      "toggle.open": "サイドバーを開く"
+    },
+    "conversation": {
+      "placeholder.default": "メッセージを送信するかタスクを実行、/ コマンド、@ ファイルやセッション",
+      "placeholder.hero": "作りたいものを説明してください、/ コマンド、@ ファイルやセッション",
+      "input.send": "メッセージを送信",
+      "input.stop": "生成を停止"
+    },
+    "chat": {
+      "view.chat": "チャット"
+    },
+    "command": {
+      "search.placeholder": "検索…"
+    },
+    "model": {
+      "trigger.fallback": "モデルを選択",
+      "menu.model": "モデル"
+    },
+    "approval": {
+      "waiting": "承認待ち",
+      "reject": "拒否"
+    },
+    "question": {
+      "action.next": "次へ",
+      "option.recommended": "おすすめ"
+    },
+    "plan": {
+      "chip.label": "プラン"
+    },
+    "workspace": {
+      "section.workspaces": "ワークスペース",
+      "section.sessions": "セッション",
+      "search.placeholder": "セッションを検索..."
+    },
+    "feedback": {
+      "action.like": "良い回答",
+      "action.dislike": "良くない回答"
+    },
+    "job": {
+      "status.running": "実行中"
+    }
+  }
+}

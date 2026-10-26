@@ -1,0 +1,83 @@
+{
+  "code": "mn",
+  "namespaces": {
+    "common": {
+      "ok": "За",
+      "cancel": "Цуцлах",
+      "close": "Хаах",
+      "copy": "Хуулах",
+      "copied": "Хуулсан",
+      "copy.failed": "Хуулж чадсангүй",
+      "copy.value": "Утгыг хуулах",
+      "retry": "Дахин оролдох",
+      "loading": "Ачаалж байна…",
+      "load.failed": "Ачаалж чадсангүй",
+      "submit": "Илгээх",
+      "submitting": "Илгээж байна…",
+      "next": "Дараах",
+      "previous": "Өмнөх",
+      "skip": "Алгасах",
+      "delete": "Устгах",
+      "edit": "Засах",
+      "save": "Хадгалах",
+      "search": "Хайх",
+      "more": "Илүү",
+      "collapse": "Хураах",
+      "expand": "Дэлгэх",
+      "back": "Буцах",
+      "brand.localBuild": "DSH локал хувилбар",
+      "unknown": "Тодорхойгүй",
+      "none": "Байхгүй",
+      "truncated": "Таслагдсан",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Тохиргоо",
+      "title": "Тохиргоо"
+    },
+    "sidebar": {
+      "session.new": "Шинэ сесс",
+      "toggle.open": "Хажуу самбарыг нээх"
+    },
+    "conversation": {
+      "placeholder.default": "Мессеж бичих эсвэл даалгавар гүйцэтгэх, / команд, @ файл эсвэл сесс",
+      "placeholder.hero": "Бүтээхийг хүссэн зүйлээ тайлбарла, / команд, @ файл эсвэл сесс",
+      "input.send": "Мессеж илгээх",
+      "input.stop": "Үүсгэлтийг зогсоох"
+    },
+    "chat": {
+      "view.chat": "Чат"
+    },
+    "command": {
+      "search.placeholder": "Хайх…"
+    },
+    "model": {
+      "trigger.fallback": "Модель сонгох",
+      "menu.model": "Модель"
+    },
+    "approval": {
+      "waiting": "Зөвшөөрөл хүлээж байна",
+      "reject": "Татгалзах"
+    },
+    "question": {
+      "action.next": "Дараах",
+      "option.recommended": "Санал болгож буй"
+    },
+    "plan": {
+      "chip.label": "Төлөвлөгөө"
+    },
+    "workspace": {
+      "section.workspaces": "Ажлын талбар",
+      "section.sessions": "Сессүүд",
+      "search.placeholder": "Сесс хайх..."
+    },
+    "feedback": {
+      "action.like": "Сайн хариулт",
+      "action.dislike": "Муу хариулт"
+    },
+    "job": {
+      "status.running": "ажиллаж байна"
+    }
+  }
+}

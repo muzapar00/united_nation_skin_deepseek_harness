@@ -1,0 +1,83 @@
+{
+  "code": "my",
+  "namespaces": {
+    "common": {
+      "ok": "အိုကေ",
+      "cancel": "ပယ်ဖျက်",
+      "close": "ပိတ်",
+      "copy": "ကူးယူ",
+      "copied": "ကူးယူပြီး",
+      "copy.failed": "ကူးယူ၍ မရပါ",
+      "copy.value": "တန်ဖိုး ကူးယူ",
+      "retry": "ပြန်ကြိုးစား",
+      "loading": "တင်နေသည်…",
+      "load.failed": "တင်၍ မရပါ",
+      "submit": "တင်သွင်း",
+      "submitting": "တင်သွင်းနေသည်…",
+      "next": "ရှေ့သို့",
+      "previous": "နောက်သို့",
+      "skip": "ကျော်သွား",
+      "delete": "ဖျက်",
+      "edit": "တည်းဖြတ်",
+      "save": "သိမ်းဆည်း",
+      "search": "ရှာဖွေ",
+      "more": "ပိုမို",
+      "collapse": "ချုံ့",
+      "expand": "ချဲ့",
+      "back": "နောက်သို့",
+      "brand.localBuild": "DSH ဒေသတွင်း တည်ဆောက်ချက်",
+      "unknown": "မသိ",
+      "none": "မရှိ",
+      "truncated": "ဖြတ်တောက်ထားသည်",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "ဆက်တင်",
+      "title": "ဆက်တင်"
+    },
+    "sidebar": {
+      "session.new": "စကားဝိုင်း အသစ်",
+      "toggle.open": "ဘေးဘား ဖွင့်"
+    },
+    "conversation": {
+      "placeholder.default": "မက်ဆေ့ချ် ပို့ပါ သို့မဟုတ် လုပ်ငန်း လုပ်ဆောင်ပါ၊ / ညွှန်ကြားချက်များ၊ @ ဖိုင်များ သို့မဟုတ် စကားဝိုင်းများ",
+      "placeholder.hero": "သင်တည်ဆောက်လိုသည်ကို ဖော်ပြပါ၊ / ညွှန်ကြားချက်များ၊ @ ဖိုင်များ သို့မဟုတ် စကားဝိုင်းများ",
+      "input.send": "မက်ဆေ့ချ် ပို့",
+      "input.stop": "ထုတ်လုပ်မှု ရပ်"
+    },
+    "chat": {
+      "view.chat": "စကားပြောခန်း"
+    },
+    "command": {
+      "search.placeholder": "ရှာဖွေ…"
+    },
+    "model": {
+      "trigger.fallback": "မော်ဒယ် ရွေးပါ",
+      "menu.model": "မော်ဒယ်"
+    },
+    "approval": {
+      "waiting": "အတည်ပြုချက် စောင့်နေသည်",
+      "reject": "ငြင်းပယ်"
+    },
+    "question": {
+      "action.next": "ရှေ့သို့",
+      "option.recommended": "အကြံပြုထားသည်"
+    },
+    "plan": {
+      "chip.label": "အစီအစဉ်"
+    },
+    "workspace": {
+      "section.workspaces": "အလုပ်ခွင်",
+      "section.sessions": "စကားဝိုင်းများ",
+      "search.placeholder": "စကားဝိုင်း ရှာဖွေ..."
+    },
+    "feedback": {
+      "action.like": "ကောင်းသော အဖြေ",
+      "action.dislike": "မကောင်းသော အဖြေ"
+    },
+    "job": {
+      "status.running": "လုပ်ဆောင်နေသည်"
+    }
+  }
+}

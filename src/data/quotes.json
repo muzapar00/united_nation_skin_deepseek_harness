@@ -1,0 +1,230 @@
+[
+  {
+    "id": "q-preamble-1",
+    "src": {
+      "en": "Charter of the United Nations, Preamble",
+      "zh": "《联合国宪章》序言",
+      "ar": "ميثاق الأمم المتحدة، الديباجة",
+      "es": "Carta de las Naciones Unidas, Preámbulo",
+      "fr": "Charte des Nations Unies, Préambule",
+      "ru": "Устав Организации Объединенных Наций, преамбула"
+    },
+    "text": {
+      "en": "We the peoples of the United Nations determined to save succeeding generations from the scourge of war, which twice in our lifetime has brought untold sorrow to mankind.",
+      "zh": "我联合国人民同兹决心，欲免后世再遭今代人类两度身历惨不堪言之战祸。",
+      "ar": "نحن شعوب الأمم المتحدة وقد آلينا على أنفسنا أن ننقذ الأجيال المقبلة من ويلات الحرب التي في خلال جيل واحد جلبت على الإنسانية مرتين أحزاناً يعجز عنها الوصف.",
+      "es": "Nosotros los pueblos de las Naciones Unidas, resueltos a preservar a las generaciones venideras del flagelo de la guerra que dos veces durante nuestra vida ha infligido a la Humanidad sufrimientos indecibles.",
+      "fr": "Nous, peuples des Nations Unies, résolus à préserver les générations futures du fléau de la guerre qui deux fois en l’espace d’une vie humaine a infligé à l’humanité d’indicibles souffrances.",
+      "ru": "Мы, народы Объединенных Наций, преисполненные решимости избавить грядущие поколения от бедствий войны, дважды в нашей жизни принесшей человечеству невыразимое горе."
+    }
+  },
+  {
+    "id": "q-preamble-2",
+    "src": {
+      "en": "Charter of the United Nations, Preamble",
+      "zh": "《联合国宪章》序言",
+      "ar": "ميثاق الأمم المتحدة، الديباجة",
+      "es": "Carta de las Naciones Unidas, Preámbulo",
+      "fr": "Charte des Nations Unies, Préambule",
+      "ru": "Устав Организации Объединенных Наций, преамбула"
+    },
+    "text": {
+      "en": "And to reaffirm faith in fundamental human rights, in the dignity and worth of the human person, in the equal rights of men and women and of nations large and small.",
+      "zh": "重申基本人权、人格尊严与价值，以及男女与大小各国平等权利之信念。",
+      "ar": "وأن نؤكد من جديد إيماننا بالحقوق الأساسية للإنسان وبكرامة الفرد وقدره وبما للرجال والنساء والأمم كبيرها وصغيرها من حقوق متساوية.",
+      "es": "A reafirmar la fe en los derechos fundamentales del hombre, en la dignidad y el valor de la persona humana, en la igualdad de derechos de hombres y mujeres y de las naciones grandes y pequeñas.",
+      "fr": "À proclamer à nouveau notre foi dans les droits fondamentaux de l’homme, dans la dignité et la valeur de la personne humaine, dans l’égalité de droits des hommes et des femmes, ainsi que des nations, grandes et petites.",
+      "ru": "Вновь утвердить веру в основные права человека, в достоинство и ценность человеческой личности, в равноправие мужчин и женщин и в равенство прав больших и малых наций."
+    }
+  },
+  {
+    "id": "q-preamble-3",
+    "src": {
+      "en": "Charter of the United Nations, Preamble",
+      "zh": "《联合国宪章》序言",
+      "ar": "ميثاق الأمم المتحدة، الديباجة",
+      "es": "Carta de las Naciones Unidas, Preámbulo",
+      "fr": "Charte des Nations Unies, Préambule",
+      "ru": "Устав Организации Объединенных Наций, преамбула"
+    },
+    "text": {
+      "en": "And to establish conditions under which justice and respect for the obligations arising from treaties and other sources of international law can be maintained.",
+      "zh": "创造适当环境，俾克维持正义，尊重由条约与国际法及其他渊源而起之义务。",
+      "ar": "وأن نبيّن الأحوال التي يمكن في ظلها تحقيق العدالة واحترام الالتزامات الناشئة عن المعاهدات وغيرها من مصادر القانون الدولي.",
+      "es": "A crear condiciones bajo las cuales puedan mantenerse la justicia y el respeto a las obligaciones emanadas de los tratados y de otras fuentes del derecho internacional.",
+      "fr": "À créer les conditions nécessaires au maintien de la justice et du respect des obligations nées des traités et autres sources du droit international.",
+      "ru": "Создать условия, при которых могут соблюдаться справедливость и уважение к обязательствам, вытекающим из договоров и других источников международного права."
+    }
+  },
+  {
+    "id": "q-preamble-4",
+    "src": {
+      "en": "Charter of the United Nations, Preamble",
+      "zh": "《联合国宪章》序言",
+      "ar": "ميثاق الأمم المتحدة، الديباجة",
+      "es": "Carta de las Naciones Unidas, Preámbulo",
+      "fr": "Charte des Nations Unies, Préambule",
+      "ru": "Устав Организации Объединенных Наций, преамбула"
+    },
+    "text": {
+      "en": "And to promote social progress and better standards of life in larger freedom.",
+      "zh": "促成大自由中之社会进步及较善之民生。",
+      "ar": "وأن ندفع بالرقي الاجتماعي قدماً، وأن نرفع مستوى الحياة في جو من الحرية أفسح.",
+      "es": "A promover el progreso social y a elevar el nivel de vida dentro de un concepto más amplio de la libertad.",
+      "fr": "À favoriser le progrès social et instaurer de meilleures conditions de vie dans une liberté plus grande.",
+      "ru": "Содействовать социальному прогрессу и улучшению условий жизни при большей свободе."
+    }
+  },
+  {
+    "id": "q-preamble-5",
+    "src": {
+      "en": "Charter of the United Nations, Preamble",
+      "zh": "《联合国宪章》序言",
+      "ar": "ميثاق الأمم المتحدة، الديباجة",
+      "es": "Carta de las Naciones Unidas, Preámbulo",
+      "fr": "Charte des Nations Unies, Préambule",
+      "ru": "Устав Организации Объединенных Наций, преамбула"
+    },
+    "text": {
+      "en": "And to practice tolerance and live together in peace with one another as good neighbours.",
+      "zh": "力行容恕，彼此以善邻之道和睦相处。",
+      "ar": "أن نأخذ أنفسنا بالتسامح، وأن نعيش معاً في سلام وحسن جوار.",
+      "es": "A practicar la tolerancia y a convivir en paz como buenos vecinos.",
+      "fr": "À pratiquer la tolérance, à vivre en paix l’un avec l’autre dans un esprit de bon voisinage.",
+      "ru": "Проявлять терпимость и жить вместе, в мире друг с другом, как добрые соседи."
+    }
+  },
+  {
+    "id": "q-preamble-6",
+    "src": {
+      "en": "Charter of the United Nations, Preamble",
+      "zh": "《联合国宪章》序言",
+      "ar": "ميثاق الأمم المتحدة، الديباجة",
+      "es": "Carta de las Naciones Unidas, Preámbulo",
+      "fr": "Charte des Nations Unies, Préambule",
+      "ru": "Устав Организации Объединенных Наций, преамбула"
+    },
+    "text": {
+      "en": "And to unite our strength to maintain international peace and security.",
+      "zh": "集中力量，以维持国际和平及安全。",
+      "ar": "وأن نضم قوانا كي نحتفظ بالسلم والأمن الدولي.",
+      "es": "A unir nuestras fuerzas para el mantenimiento de la paz y la seguridad internacionales.",
+      "fr": "À unir nos forces pour maintenir la paix et la sécurité internationales.",
+      "ru": "Объединить наши силы для поддержания международного мира и безопасности."
+    }
+  },
+  {
+    "id": "q-udhr-1",
+    "src": {
+      "en": "Universal Declaration of Human Rights, Article 1",
+      "zh": "《世界人权宣言》第一条",
+      "ar": "الإعلان العالمي لحقوق الإنسان، المادة 1",
+      "es": "Declaración Universal de Derechos Humanos, artículo 1",
+      "fr": "Déclaration universelle des droits de l’homme, article premier",
+      "ru": "Всеобщая декларация прав человека, статья 1"
+    },
+    "text": {
+      "en": "All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.",
+      "zh": "人人生而自由，在尊严和权利上一律平等。他们赋有理性和良心，并应以兄弟关系的精神相对待。",
+      "ar": "يولد جميع الناس أحراراً ومتساوين في الكرامة والحقوق. وهم قد وهبوا العقل والوجدان وعليهم أن يعاملوا بعضهم بعضاً بروح الإخاء.",
+      "es": "Todos los seres humanos nacen libres e iguales en dignidad y derechos y, dotados como están de razón y conciencia, deben comportarse fraternalmente los unos con los otros.",
+      "fr": "Tous les êtres humains naissent libres et égaux en dignité et en droits. Ils sont doués de raison et de conscience et doivent agir les uns envers les autres dans un esprit de fraternité.",
+      "ru": "Все люди рождаются свободными и равными в своем достоинстве и правах. Они наделены разумом и совестью и должны поступать в отношении друг друга в духе братства."
+    }
+  },
+  {
+    "id": "q-udhr-3",
+    "src": {
+      "en": "Universal Declaration of Human Rights, Article 3",
+      "zh": "《世界人权宣言》第三条",
+      "ar": "الإعلان العالمي لحقوق الإنسان، المادة 3",
+      "es": "Declaración Universal de Derechos Humanos, artículo 3",
+      "fr": "Déclaration universelle des droits de l’homme, article 3",
+      "ru": "Всеобщая декларация прав человека, статья 3"
+    },
+    "text": {
+      "en": "Everyone has the right to life, liberty and security of person.",
+      "zh": "人人有权享有生命、自由和人身安全。",
+      "ar": "لكل فرد الحق في الحياة والحرية وفي الأمان على شخصه.",
+      "es": "Todo individuo tiene derecho a la vida, a la libertad y a la seguridad de su persona.",
+      "fr": "Tout individu a droit à la vie, à la liberté et à la sûreté de sa personne.",
+      "ru": "Каждый человек имеет право на жизнь, на свободу и на личную неприкосновенность."
+    }
+  },
+  {
+    "id": "q-udhr-preamble",
+    "src": {
+      "en": "Universal Declaration of Human Rights, Preamble",
+      "zh": "《世界人权宣言》序言",
+      "ar": "الإعلان العالمي لحقوق الإنسان، الديباجة",
+      "es": "Declaración Universal de Derechos Humanos, Preámbulo",
+      "fr": "Déclaration universelle des droits de l’homme, Préambule",
+      "ru": "Всеобщая декларация прав человека, преамбула"
+    },
+    "text": {
+      "en": "Recognition of the inherent dignity and of the equal and inalienable rights of all members of the human family is the foundation of freedom, justice and peace in the world.",
+      "zh": "对人类家庭所有成员的固有尊严及其平等的和不移的权利的承认，乃是世界自由、正义与和平的基础。",
+      "ar": "الاعتراف بالكرامة المتأصلة في جميع أعضاء الأسرة البشرية وبحقوقهم المتساوية الثابتة هو أساس الحرية والعدل والسلام في العالم.",
+      "es": "Considerando que la libertad, la justicia y la paz en el mundo tienen por base el reconocimiento de la dignidad intrínseca y de los derechos iguales e inalienables de todos los miembros de la familia humana.",
+      "fr": "Considérant que la reconnaissance de la dignité inhérente à tous les membres de la famille humaine et de leurs droits égaux et inaliénables constitue le fondement de la liberté, de la justice et de la paix dans le monde.",
+      "ru": "Признание достоинства, присущего всем членам человеческой семьи, и равных и неотъемлемых прав их является основой свободы, справедливости и всеобщего мира."
+    }
+  },
+  {
+    "id": "q-unesco",
+    "src": {
+      "en": "UNESCO Constitution, 1945",
+      "zh": "《联合国教育、科学及文化组织组织法》，1945 年",
+      "ar": "دستور اليونسكو، 1945",
+      "es": "Constitución de la UNESCO, 1945",
+      "fr": "Acte constitutif de l’UNESCO, 1945",
+      "ru": "Устав ЮНЕСКО, 1945"
+    },
+    "text": {
+      "en": "Since wars begin in the minds of men, it is in the minds of men that the defences of peace must be constructed.",
+      "zh": "战争起源于人之思想，故务需于人之思想中筑起保卫和平之屏障。",
+      "ar": "لما كانت الحروب تتولد في عقول البشر، ففي عقول البشر يجب أن تُبنى حصون السلام.",
+      "es": "Puesto que las guerras nacen en la mente de los hombres, es en la mente de los hombres donde deben erigirse los baluartes de la paz.",
+      "fr": "Les guerres prenant naissance dans l’esprit des hommes, c’est dans l’esprit des hommes que doivent être élevées les défenses de la paix.",
+      "ru": "Мысли о войне возникают в умах людей, поэтому в сознании людей следует укоренять идею защиты мира."
+    }
+  },
+  {
+    "id": "q-datong",
+    "src": {
+      "en": "Book of Rites (Liji), 5th century BCE",
+      "zh": "《礼记·礼运》",
+      "ar": "كتاب الطقوس (لي جي)، القرن الخامس قبل الميلاد",
+      "es": "Libro de los Ritos (Liji), siglo V a. C.",
+      "fr": "Livre des Rites (Liji), Ve siècle avant notre ère",
+      "ru": "Книга ритуалов («Ли цзи»), V век до н. э."
+    },
+    "text": {
+      "en": "When the great way prevails, the world is shared by all.",
+      "zh": "大道之行也，天下为公。",
+      "ar": "عندما يسود الطريق الأعظم، يكون العالم ملكاً للجميع.",
+      "es": "Cuando prevalece el Gran Camino, el mundo es común a todos.",
+      "fr": "Quand la Grande Voie prévaut, le monde est commun à tous.",
+      "ru": "Когда торжествует Великий путь, Поднебесная принадлежит всем."
+    }
+  },
+  {
+    "id": "q-shared-future",
+    "src": {
+      "en": "China's proposal to the United Nations",
+      "zh": "中国向联合国提出的理念",
+      "ar": "مقترح الصين المقدم إلى الأمم المتحدة",
+      "es": "Propuesta de China a las Naciones Unidas",
+      "fr": "Proposition de la Chine aux Nations Unies",
+      "ru": "Предложение Китая, представленное Организации Объединенных Наций"
+    },
+    "text": {
+      "en": "To build a community with a shared future for mankind is to make the well-being of all peoples the measure of our common work.",
+      "zh": "构建人类命运共同体，就是要把各国人民对美好生活的向往作为共同的奋斗目标。",
+      "ar": "بناء مجتمع ذي مستقبل مشترك للبشرية يعني جعل رفاه جميع الشعوب مقياساً لعملنا المشترك.",
+      "es": "Construir una comunidad de futuro compartido para la humanidad significa hacer del bienestar de todos los pueblos la medida de nuestra labor común.",
+      "fr": "Construire une communauté de destin pour l’humanité, c’est faire du bien-être de tous les peuples la mesure de notre œuvre commune.",
+      "ru": "Строить сообщество единой судьбы человечества — значит делать благополучие всех народов мерилом нашего общего дела."
+    }
+  }
+]

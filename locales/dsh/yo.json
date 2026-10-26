@@ -1,0 +1,83 @@
+{
+  "code": "yo",
+  "namespaces": {
+    "common": {
+      "ok": "Ó dára",
+      "cancel": "Fagilé",
+      "close": "Tì",
+      "copy": "Ṣe àdàkọ",
+      "copied": "A ti ṣe àdàkọ",
+      "copy.failed": "Àdàkọ kùnà",
+      "copy.value": "Ṣe àdàkọ iye",
+      "retry": "Gbidanwo lẹ́ẹ̀kan sí i",
+      "loading": "Ń gbé wọlé…",
+      "load.failed": "Ìgbéwọlé kùnà",
+      "submit": "Fi ránṣẹ́",
+      "submitting": "Ń fi ránṣẹ́…",
+      "next": "Tókàn",
+      "previous": "Ti ṣáájú",
+      "skip": "Fò kọjá",
+      "delete": "Paarẹ́",
+      "edit": "Ṣàtúnṣe",
+      "save": "Fi pamọ́",
+      "search": "Wá",
+      "more": "Sí i",
+      "collapse": "Kó pamọ́",
+      "expand": "Ṣí i",
+      "back": "Padà",
+      "brand.localBuild": "DSH Ìkọ́ Ìbílẹ̀",
+      "unknown": "A kò mọ̀ ọ́n",
+      "none": "Kò sí",
+      "truncated": "A ti gé e",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Ètò",
+      "title": "Ètò"
+    },
+    "sidebar": {
+      "session.new": "Ìjíròrò tuntun",
+      "toggle.open": "Ṣí ojú-ẹ̀gbẹ́"
+    },
+    "conversation": {
+      "placeholder.default": "Fi ìfọ̀rọ̀wérọ̀ ránṣẹ́ tàbí ṣe iṣẹ́ kan, / àwọn àṣẹ, @ àwọn fáìlì tàbí ìjíròrò",
+      "placeholder.hero": "Ṣàpèjúwe ohun tí o fẹ́ kọ́, / àwọn àṣẹ, @ àwọn fáìlì tàbí ìjíròrò",
+      "input.send": "Fi ìfọ̀rọ̀wérọ̀ ránṣẹ́",
+      "input.stop": "Dá ṣíṣe dúró"
+    },
+    "chat": {
+      "view.chat": "Ìjíròrò"
+    },
+    "command": {
+      "search.placeholder": "Wá…"
+    },
+    "model": {
+      "trigger.fallback": "Yan àwòṣe",
+      "menu.model": "Àwòṣe"
+    },
+    "approval": {
+      "waiting": "Ń dúró fún ìfọwọ́sí",
+      "reject": "Kọ̀ ọ́"
+    },
+    "question": {
+      "action.next": "Tókàn",
+      "option.recommended": "Tí a dábàá"
+    },
+    "plan": {
+      "chip.label": "Ètò iṣẹ́"
+    },
+    "workspace": {
+      "section.workspaces": "Àwọn ààyè iṣẹ́",
+      "section.sessions": "Ìjíròrò",
+      "search.placeholder": "Wá ìjíròrò..."
+    },
+    "feedback": {
+      "action.like": "Ìdáhùn dáadáa",
+      "action.dislike": "Ìdáhùn tí kò dára"
+    },
+    "job": {
+      "status.running": "ń ṣiṣẹ́"
+    }
+  }
+}

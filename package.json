@@ -1,0 +1,75 @@
+{
+  "name": "dsh-theme-un",
+  "version": "0.1.0",
+  "description": "United Nations — a UN-style theme for DeepSeek Harness with a 7,000-language picker and 128 translated interfaces.",
+  "type": "module",
+  "main": "index.js",
+  "exports": {
+    ".": "./index.js",
+    "./client": "./client.js",
+    "./package.json": "./package.json",
+    "./skin.json": "./skin.json"
+  },
+  "files": [
+    "index.js",
+    "client.js",
+    "cordis.patch.yml",
+    "skin.json",
+    "icon.png",
+    "icon@2x.png",
+    "assets",
+    "locales",
+    "src/data",
+    "README.md",
+    "README.en.md",
+    "CHANGELOG.md",
+    "NOTICE",
+    "LICENSE"
+  ],
+  "icon": "./icon.png",
+  "keywords": [
+    "dsh",
+    "dsh-plugin",
+    "deepseek-harness",
+    "theme",
+    "skin",
+    "united-nations",
+    "un",
+    "i18n",
+    "languages",
+    "peacekeeping"
+  ],
+  "license": "MIT",
+  "author": "muzapar00",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muzapar00/united_nation_skin_deepseek_harness.git"
+  },
+  "homepage": "https://github.com/muzapar00/united_nation_skin_deepseek_harness#readme",
+  "bugs": {
+    "url": "https://github.com/muzapar00/united_nation_skin_deepseek_harness/issues"
+  },
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    },
+    "client": {
+      "platform": "web",
+      "immediately": true,
+      "inject": [
+        "@deepseek-ai/dsh-client-ui-theme",
+        "@deepseek-ai/dsh-client-locale",
+        "@deepseek-ai/dsh-client-ui-settings",
+        "@deepseek-ai/dsh-client-ui-renderer",
+        "@deepseek-ai/dsh-client-ui-layout",
+        "@deepseek-ai/dsh-client-ui-sidebar",
+        "@deepseek-ai/dsh-client-ui-conversation"
+      ]
+    }
+  },
+  "scripts": {
+    "build": "node src/build.mjs",
+    "check": "node scripts/check-locales.mjs",
+    "build:check": "node src/build.mjs --check"
+  }
+}

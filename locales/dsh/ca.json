@@ -1,0 +1,83 @@
+{
+  "code": "ca",
+  "namespaces": {
+    "common": {
+      "ok": "D'acord",
+      "cancel": "Cancel·la",
+      "close": "Tanca",
+      "copy": "Copia",
+      "copied": "Copiat",
+      "copy.failed": "No s'ha pogut copiar",
+      "copy.value": "Copia el valor",
+      "retry": "Torna-ho a provar",
+      "loading": "S'està carregant…",
+      "load.failed": "No s'ha pogut carregar",
+      "submit": "Envia",
+      "submitting": "S'està enviant…",
+      "next": "Següent",
+      "previous": "Anterior",
+      "skip": "Omet",
+      "delete": "Elimina",
+      "edit": "Edita",
+      "save": "Desa",
+      "search": "Cerca",
+      "more": "Més",
+      "collapse": "Replega",
+      "expand": "Desplega",
+      "back": "Enrere",
+      "brand.localBuild": "DSH compilació local",
+      "unknown": "Desconegut",
+      "none": "Cap",
+      "truncated": "Truncat",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Configuració",
+      "title": "Configuració"
+    },
+    "sidebar": {
+      "session.new": "Sessió nova",
+      "toggle.open": "Obre la barra lateral"
+    },
+    "conversation": {
+      "placeholder.default": "Escriu un missatge o executa una tasca, / ordres, @ fitxers o sessions",
+      "placeholder.hero": "Descriu què vols crear, / ordres, @ fitxers o sessions",
+      "input.send": "Envia el missatge",
+      "input.stop": "Atura la generació"
+    },
+    "chat": {
+      "view.chat": "Xat"
+    },
+    "command": {
+      "search.placeholder": "Cerca…"
+    },
+    "model": {
+      "trigger.fallback": "Tria un model",
+      "menu.model": "Model"
+    },
+    "approval": {
+      "waiting": "Esperant aprovació",
+      "reject": "Rebutja"
+    },
+    "question": {
+      "action.next": "Següent",
+      "option.recommended": "Recomanat"
+    },
+    "plan": {
+      "chip.label": "Pla"
+    },
+    "workspace": {
+      "section.workspaces": "Espais de treball",
+      "section.sessions": "Sessions",
+      "search.placeholder": "Cerca sessions..."
+    },
+    "feedback": {
+      "action.like": "Bona resposta",
+      "action.dislike": "Mala resposta"
+    },
+    "job": {
+      "status.running": "en marxa"
+    }
+  }
+}

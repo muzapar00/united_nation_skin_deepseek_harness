@@ -1,0 +1,83 @@
+{
+  "code": "si",
+  "namespaces": {
+    "common": {
+      "ok": "හරි",
+      "cancel": "අවලංගු කරන්න",
+      "close": "වසන්න",
+      "copy": "පිටපත් කරන්න",
+      "copied": "පිටපත් කළා",
+      "copy.failed": "පිටපත් කිරීම අසාර්ථකයි",
+      "copy.value": "අගය පිටපත් කරන්න",
+      "retry": "නැවත උත්සාහ කරන්න",
+      "loading": "පූරණය වෙමින්…",
+      "load.failed": "පූරණය කිරීම අසාර්ථකයි",
+      "submit": "යොමු කරන්න",
+      "submitting": "යොමු වෙමින්…",
+      "next": "ඊළඟ",
+      "previous": "පෙර",
+      "skip": "මඟ හරින්න",
+      "delete": "මකන්න",
+      "edit": "සංස්කරණය කරන්න",
+      "save": "සුරකින්න",
+      "search": "සොයන්න",
+      "more": "තව",
+      "collapse": "හකුළන්න",
+      "expand": "දිගහරින්න",
+      "back": "ආපසු",
+      "brand.localBuild": "DSH දේශීය නිර්මාණය",
+      "unknown": "නොදනී",
+      "none": "කිසිවක් නැත",
+      "truncated": "කපා හැර ඇත",
+      "number.thousand": "{value} දහස",
+      "number.million": "{value} මිලියනය"
+    },
+    "settings": {
+      "trigger": "සැකසීම්",
+      "title": "සැකසීම්"
+    },
+    "sidebar": {
+      "session.new": "නව සැසිය",
+      "toggle.open": "පැති තීරුව විවෘත කරන්න"
+    },
+    "conversation": {
+      "placeholder.default": "පණිවිඩයක් යවන්න හෝ කාර්යයක් ධාවනය කරන්න, / විධාන, @ ගොනු හෝ සැසි",
+      "placeholder.hero": "ඔබ ගොඩනැගීමට අවශ්‍ය දේ විස්තර කරන්න, / විධාන, @ ගොනු හෝ සැසි",
+      "input.send": "පණිවිඩය යවන්න",
+      "input.stop": "ජනනය කිරීම නවත්වන්න"
+    },
+    "chat": {
+      "view.chat": "කතාබස්"
+    },
+    "command": {
+      "search.placeholder": "සොයන්න…"
+    },
+    "model": {
+      "trigger.fallback": "ආකෘතිය තෝරන්න",
+      "menu.model": "ආකෘතිය"
+    },
+    "approval": {
+      "waiting": "අනුමැතිය එනතුරු රැඳී සිටී",
+      "reject": "ප්‍රතික්ෂේප කරන්න"
+    },
+    "question": {
+      "action.next": "ඊළඟ",
+      "option.recommended": "නිර්දේශිත"
+    },
+    "plan": {
+      "chip.label": "සැලසුම"
+    },
+    "workspace": {
+      "section.workspaces": "වැඩබිම්",
+      "section.sessions": "සැසි",
+      "search.placeholder": "සැසි සොයන්න…"
+    },
+    "feedback": {
+      "action.like": "හොඳ පිළිතුර",
+      "action.dislike": "නරක පිළිතුර"
+    },
+    "job": {
+      "status.running": "ධාවනය වෙමින්"
+    }
+  }
+}

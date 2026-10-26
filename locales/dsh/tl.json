@@ -1,0 +1,83 @@
+{
+  "code": "tl",
+  "namespaces": {
+    "common": {
+      "ok": "OK",
+      "cancel": "Kanselahin",
+      "close": "Isara",
+      "copy": "Kopyahin",
+      "copied": "Nakopya",
+      "copy.failed": "Nabigo ang pagkopya",
+      "copy.value": "Kopyahin ang halaga",
+      "retry": "Subukan muli",
+      "loading": "Naglo-load…",
+      "load.failed": "Nabigo ang pag-load",
+      "submit": "Isumite",
+      "submitting": "Isinusumite…",
+      "next": "Susunod",
+      "previous": "Nakaraan",
+      "skip": "Laktawan",
+      "delete": "Tanggalin",
+      "edit": "I-edit",
+      "save": "I-save",
+      "search": "Maghanap",
+      "more": "Higit pa",
+      "collapse": "Ilukot",
+      "expand": "Palawakin",
+      "back": "Bumalik",
+      "brand.localBuild": "Lokal na Build ng DSH",
+      "unknown": "Hindi alam",
+      "none": "Wala",
+      "truncated": "Pinaikli",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Mga setting",
+      "title": "Mga setting"
+    },
+    "sidebar": {
+      "session.new": "Bagong Sesyon",
+      "toggle.open": "Buksan ang sidebar"
+    },
+    "conversation": {
+      "placeholder.default": "Magpadala ng mensahe o magpatakbo ng gawain, / mga command, @ mga file o sesyon",
+      "placeholder.hero": "Ilarawan ang gusto mong buuin, / mga command, @ mga file o sesyon",
+      "input.send": "Magpadala ng mensahe",
+      "input.stop": "Itigil ang pagbuo"
+    },
+    "chat": {
+      "view.chat": "Chat"
+    },
+    "command": {
+      "search.placeholder": "Maghanap…"
+    },
+    "model": {
+      "trigger.fallback": "Pumili ng modelo",
+      "menu.model": "Modelo"
+    },
+    "approval": {
+      "waiting": "Naghihintay ng pag-apruba",
+      "reject": "Tanggihan"
+    },
+    "question": {
+      "action.next": "Susunod",
+      "option.recommended": "Inirerekomenda"
+    },
+    "plan": {
+      "chip.label": "Plano"
+    },
+    "workspace": {
+      "section.workspaces": "Mga workspace",
+      "section.sessions": "Mga sesyon",
+      "search.placeholder": "Maghanap ng sesyon..."
+    },
+    "feedback": {
+      "action.like": "Magandang sagot",
+      "action.dislike": "Masamang sagot"
+    },
+    "job": {
+      "status.running": "tumatakbo"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "code": "lo",
+  "namespaces": {
+    "common": {
+      "ok": "ຕົກລົງ",
+      "cancel": "ຍົກເລີກ",
+      "close": "ປິດ",
+      "copy": "ຄັດລອກ",
+      "copied": "ຄັດລອກແລ້ວ",
+      "copy.failed": "ຄັດລອກບໍ່ສຳເລັດ",
+      "copy.value": "ຄັດລອກຄ່າ",
+      "retry": "ລອງໃໝ່",
+      "loading": "ກຳລັງໂຫລດ…",
+      "load.failed": "ໂຫລດບໍ່ສຳເລັດ",
+      "submit": "ສົ່ງ",
+      "submitting": "ກຳລັງສົ່ງ…",
+      "next": "ຕໍ່ໄປ",
+      "previous": "ກ່ອນໜ້າ",
+      "skip": "ຂ້າມ",
+      "delete": "ລຶບ",
+      "edit": "ແກ້ໄຂ",
+      "save": "ບັນທຶກ",
+      "search": "ຄົ້ນຫາ",
+      "more": "ເພີ່ມເຕີມ",
+      "collapse": "ຫຍໍ້",
+      "expand": "ຂະຫຍາຍ",
+      "back": "ກັບຄືນ",
+      "brand.localBuild": "DSH ບິວທ້ອງຖິ່ນ",
+      "unknown": "ບໍ່ຮູ້",
+      "none": "ບໍ່ມີ",
+      "truncated": "ຖືກຕັດອອກ",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "ການຕັ້ງຄ່າ",
+      "title": "ການຕັ້ງຄ່າ"
+    },
+    "sidebar": {
+      "session.new": "ເຊສຊັນໃໝ່",
+      "toggle.open": "ເປີດແຖບຂ້າງ"
+    },
+    "conversation": {
+      "placeholder.default": "ພິມຂໍ້ຄວາມ ຫຼື ແລ່ນວຽກ, / ຄຳສັ່ງ, @ ໄຟລ໌ ຫຼື ເຊສຊັນ",
+      "placeholder.hero": "ອະທິບາຍສິ່ງທີ່ທ່ານຢາກສ້າງ, / ຄຳສັ່ງ, @ ໄຟລ໌ ຫຼື ເຊສຊັນ",
+      "input.send": "ສົ່ງຂໍ້ຄວາມ",
+      "input.stop": "ຢຸດສ້າງ"
+    },
+    "chat": {
+      "view.chat": "ແຊັດ"
+    },
+    "command": {
+      "search.placeholder": "ຄົ້ນຫາ…"
+    },
+    "model": {
+      "trigger.fallback": "ເລືອກໂມເດລ",
+      "menu.model": "ໂມເດລ"
+    },
+    "approval": {
+      "waiting": "ກຳລັງລໍຖ້າການອະນຸມັດ",
+      "reject": "ປະຕິເສດ"
+    },
+    "question": {
+      "action.next": "ຕໍ່ໄປ",
+      "option.recommended": "ແນະນຳ"
+    },
+    "plan": {
+      "chip.label": "ແຜນ"
+    },
+    "workspace": {
+      "section.workspaces": "ພື້ນທີ່ເຮັດວຽກ",
+      "section.sessions": "ເຊສຊັນ",
+      "search.placeholder": "ຄົ້ນຫາເຊສຊັນ..."
+    },
+    "feedback": {
+      "action.like": "ຄຳຕອບທີ່ດີ",
+      "action.dislike": "ຄຳຕອບທີ່ບໍ່ດີ"
+    },
+    "job": {
+      "status.running": "ກຳລັງແລ່ນ"
+    }
+  }
+}

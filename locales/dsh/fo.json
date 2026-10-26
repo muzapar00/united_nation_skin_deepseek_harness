@@ -1,0 +1,83 @@
+{
+  "code": "fo",
+  "namespaces": {
+    "common": {
+      "ok": "OK",
+      "cancel": "Avlýs",
+      "close": "Loka",
+      "copy": "Avrita",
+      "copied": "Avritað",
+      "copy.failed": "Avrit miseydnaðist",
+      "copy.value": "Avrita virði",
+      "retry": "Royn aftur",
+      "loading": "Lesur inn…",
+      "load.failed": "Innlesing miseydnaðist",
+      "submit": "Send inn",
+      "submitting": "Sendir inn…",
+      "next": "Næsta",
+      "previous": "Fyrra",
+      "skip": "Hoppa yvir",
+      "delete": "Strika",
+      "edit": "Ritstjórna",
+      "save": "Goym",
+      "search": "Leita",
+      "more": "Meira",
+      "collapse": "Falda saman",
+      "expand": "Falda út",
+      "back": "Aftur",
+      "brand.localBuild": "Lokal DSH-útgáva",
+      "unknown": "Ókent",
+      "none": "Eingin",
+      "truncated": "Styttur",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Stillingar",
+      "title": "Stillingar"
+    },
+    "sidebar": {
+      "session.new": "Nýggj samrøða",
+      "toggle.open": "Lat síðurúðuna upp"
+    },
+    "conversation": {
+      "placeholder.default": "Send boð ella byrja eina uppgávu, / skipanir, @ fílur ella samrøður",
+      "placeholder.hero": "Lýs hvat tú ynskir at byggja, / skipanir, @ fílur ella samrøður",
+      "input.send": "Send boð",
+      "input.stop": "Steðga"
+    },
+    "chat": {
+      "view.chat": "Prát"
+    },
+    "command": {
+      "search.placeholder": "Leita…"
+    },
+    "model": {
+      "trigger.fallback": "Vel model",
+      "menu.model": "Modell"
+    },
+    "approval": {
+      "waiting": "Bíðar eftir góðkenning",
+      "reject": "Nokta"
+    },
+    "question": {
+      "action.next": "Næsta",
+      "option.recommended": "Viðmælt"
+    },
+    "plan": {
+      "chip.label": "Ætlan"
+    },
+    "workspace": {
+      "section.workspaces": "Arbeiðsøki",
+      "section.sessions": "Samrøður",
+      "search.placeholder": "Leita í samrøðum..."
+    },
+    "feedback": {
+      "action.like": "Gott svar",
+      "action.dislike": "Ringt svar"
+    },
+    "job": {
+      "status.running": "koyrir"
+    }
+  }
+}

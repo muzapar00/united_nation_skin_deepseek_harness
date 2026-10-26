@@ -1,0 +1,83 @@
+{
+  "code": "pa",
+  "namespaces": {
+    "common": {
+      "ok": "ਠੀਕ ਹੈ",
+      "cancel": "ਰੱਦ ਕਰੋ",
+      "close": "ਬੰਦ ਕਰੋ",
+      "copy": "ਕਾਪੀ ਕਰੋ",
+      "copied": "ਕਾਪੀ ਹੋ ਗਿਆ",
+      "copy.failed": "ਕਾਪੀ ਨਹੀਂ ਹੋਈ",
+      "copy.value": "ਮੁੱਲ ਕਾਪੀ ਕਰੋ",
+      "retry": "ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ",
+      "loading": "ਲੋਡ ਹੋ ਰਿਹਾ ਹੈ…",
+      "load.failed": "ਲੋਡ ਨਹੀਂ ਹੋਇਆ",
+      "submit": "ਜਮ੍ਹਾਂ ਕਰੋ",
+      "submitting": "ਜਮ੍ਹਾਂ ਹੋ ਰਿਹਾ ਹੈ…",
+      "next": "ਅੱਗੇ",
+      "previous": "ਪਿੱਛੇ",
+      "skip": "ਛੱਡੋ",
+      "delete": "ਮਿਟਾਓ",
+      "edit": "ਸੋਧੋ",
+      "save": "ਸੰਭਾਲੋ",
+      "search": "ਖੋਜੋ",
+      "more": "ਹੋਰ",
+      "collapse": "ਸਮੇਟੋ",
+      "expand": "ਫੈਲਾਓ",
+      "back": "ਵਾਪਸ",
+      "brand.localBuild": "DSH ਲੋਕਲ ਬਿਲਡ",
+      "unknown": "ਅਣਜਾਣ",
+      "none": "ਕੋਈ ਨਹੀਂ",
+      "truncated": "ਛੋਟਾ ਕੀਤਾ ਗਿਆ",
+      "number.thousand": "{value} ਹਜ਼ਾਰ",
+      "number.million": "{value} ਮਿਲੀਅਨ"
+    },
+    "settings": {
+      "trigger": "ਸੈਟਿੰਗਾਂ",
+      "title": "ਸੈਟਿੰਗਾਂ"
+    },
+    "sidebar": {
+      "session.new": "ਨਵਾਂ ਸੈਸ਼ਨ",
+      "toggle.open": "ਸਾਈਡਬਾਰ ਖੋਲ੍ਹੋ"
+    },
+    "conversation": {
+      "placeholder.default": "ਸੁਨੇਹਾ ਭੇਜੋ ਜਾਂ ਕੰਮ ਚਲਾਓ, / ਕਮਾਂਡਾਂ, @ ਫ਼ਾਈਲਾਂ ਜਾਂ ਸੈਸ਼ਨ",
+      "placeholder.hero": "ਜੋ ਤੁਸੀਂ ਬਣਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ ਦੱਸੋ, / ਕਮਾਂਡਾਂ, @ ਫ਼ਾਈਲਾਂ ਜਾਂ ਸੈਸ਼ਨ",
+      "input.send": "ਸੁਨੇਹਾ ਭੇਜੋ",
+      "input.stop": "ਬਣਾਉਣਾ ਰੋਕੋ"
+    },
+    "chat": {
+      "view.chat": "ਚੈਟ"
+    },
+    "command": {
+      "search.placeholder": "ਖੋਜੋ…"
+    },
+    "model": {
+      "trigger.fallback": "ਮਾਡਲ ਚੁਣੋ",
+      "menu.model": "ਮਾਡਲ"
+    },
+    "approval": {
+      "waiting": "ਮੰਜ਼ੂਰੀ ਦੀ ਉਡੀਕ",
+      "reject": "ਰੱਦ ਕਰੋ"
+    },
+    "question": {
+      "action.next": "ਅੱਗੇ",
+      "option.recommended": "ਸਿਫ਼ਾਰਸ਼ੀ"
+    },
+    "plan": {
+      "chip.label": "ਯੋਜਨਾ"
+    },
+    "workspace": {
+      "section.workspaces": "ਵਰਕਸਪੇਸਾਂ",
+      "section.sessions": "ਸੈਸ਼ਨ",
+      "search.placeholder": "ਸੈਸ਼ਨ ਖੋਜੋ…"
+    },
+    "feedback": {
+      "action.like": "ਵਧੀਆ ਜਵਾਬ",
+      "action.dislike": "ਮਾੜਾ ਜਵਾਬ"
+    },
+    "job": {
+      "status.running": "ਚੱਲ ਰਿਹਾ ਹੈ"
+    }
+  }
+}

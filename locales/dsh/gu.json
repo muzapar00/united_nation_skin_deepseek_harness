@@ -1,0 +1,83 @@
+{
+  "code": "gu",
+  "namespaces": {
+    "common": {
+      "ok": "ઠીક છે",
+      "cancel": "રદ કરો",
+      "close": "બંધ કરો",
+      "copy": "કૉપિ કરો",
+      "copied": "કૉપિ થયું",
+      "copy.failed": "કૉપિ નિષ્ફળ",
+      "copy.value": "મૂલ્ય કૉપિ કરો",
+      "retry": "ફરી પ્રયાસ કરો",
+      "loading": "લોડ થઈ રહ્યું છે…",
+      "load.failed": "લોડ કરવામાં નિષ્ફળ",
+      "submit": "સબમિટ કરો",
+      "submitting": "સબમિટ થઈ રહ્યું છે…",
+      "next": "આગળ",
+      "previous": "પાછળ",
+      "skip": "છોડો",
+      "delete": "કાઢી નાખો",
+      "edit": "સંપાદિત કરો",
+      "save": "સાચવો",
+      "search": "શોધો",
+      "more": "વધુ",
+      "collapse": "સંકોચો",
+      "expand": "વિસ્તારો",
+      "back": "પાછળ",
+      "brand.localBuild": "DSH સ્થાનિક બિલ્ડ",
+      "unknown": "અજ્ઞાત",
+      "none": "કોઈ નહીં",
+      "truncated": "ટૂંકાવેલું",
+      "number.thousand": "{value} હજાર",
+      "number.million": "{value} મિલિયન"
+    },
+    "settings": {
+      "trigger": "સેટિંગ્સ",
+      "title": "સેટિંગ્સ"
+    },
+    "sidebar": {
+      "session.new": "નવું સેશન",
+      "toggle.open": "સાઇડબાર ખોલો"
+    },
+    "conversation": {
+      "placeholder.default": "સંદેશ મોકલો અથવા કાર્ય ચલાવો, / આદેશો, @ ફાઇલો અથવા સેશન",
+      "placeholder.hero": "તમે જે બનાવવા માગો છો તેનું વર્ણન કરો, / આદેશો, @ ફાઇલો અથવા સેશન",
+      "input.send": "સંદેશ મોકલો",
+      "input.stop": "બનાવવાનું બંધ કરો"
+    },
+    "chat": {
+      "view.chat": "ચેટ"
+    },
+    "command": {
+      "search.placeholder": "શોધો…"
+    },
+    "model": {
+      "trigger.fallback": "મોડલ પસંદ કરો",
+      "menu.model": "મોડલ"
+    },
+    "approval": {
+      "waiting": "મંજૂરીની રાહમાં",
+      "reject": "નકારો"
+    },
+    "question": {
+      "action.next": "આગળ",
+      "option.recommended": "સૂચિત"
+    },
+    "plan": {
+      "chip.label": "યોજના"
+    },
+    "workspace": {
+      "section.workspaces": "વર્કસ્પેસ",
+      "section.sessions": "સેશન",
+      "search.placeholder": "સેશન શોધો…"
+    },
+    "feedback": {
+      "action.like": "સારો જવાબ",
+      "action.dislike": "ખરાબ જવાબ"
+    },
+    "job": {
+      "status.running": "ચાલી રહ્યું છે"
+    }
+  }
+}

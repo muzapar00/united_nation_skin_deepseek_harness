@@ -1,0 +1,83 @@
+{
+  "code": "gn",
+  "namespaces": {
+    "common": {
+      "ok": "Néi",
+      "cancel": "Heja",
+      "close": "Emboty",
+      "copy": "Kopia",
+      "copied": "Ojekopia",
+      "copy.failed": "Ndoikói jekopia",
+      "copy.value": "Kopia tepy",
+      "retry": "Eha'ã jey",
+      "loading": "Oñemyenyhẽ…",
+      "load.failed": "Ndoikói oñemyenyhẽ",
+      "submit": "Emondo",
+      "submitting": "Oñemondóvo…",
+      "next": "Oúva",
+      "previous": "Ohasava'ekue",
+      "skip": "Ehasa",
+      "delete": "Embogue",
+      "edit": "Emoambue",
+      "save": "Eñongatu",
+      "search": "Eheka",
+      "more": "Hetave",
+      "collapse": "Emboty",
+      "expand": "Eipe'a",
+      "back": "Ejevy",
+      "brand.localBuild": "DSH ko'ápe ojejapóva",
+      "unknown": "Ndojekuaái",
+      "none": "Ndaipóri",
+      "truncated": "Oñekytĩ",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Ñemohenda",
+      "title": "Ñemohenda"
+    },
+    "sidebar": {
+      "session.new": "Ñomongeta pyahu",
+      "toggle.open": "Eipe'a yke"
+    },
+    "conversation": {
+      "placeholder.default": "Emondo marandu térã eme'ẽ tembiapo, / moneĩ, @ kuatia térã ñomongeta",
+      "placeholder.hero": "Emombe'u mba'épa rejaposéva, / moneĩ, @ kuatia térã ñomongeta",
+      "input.send": "Emondo marandu",
+      "input.stop": "Pepyta"
+    },
+    "chat": {
+      "view.chat": "Ñomongeta"
+    },
+    "command": {
+      "search.placeholder": "Eheka…"
+    },
+    "model": {
+      "trigger.fallback": "Eiporavo modelo",
+      "menu.model": "Modelo"
+    },
+    "approval": {
+      "waiting": "Oha'arõ ñemoneĩ",
+      "reject": "Ani emoneĩ"
+    },
+    "question": {
+      "action.next": "Oúva",
+      "option.recommended": "Ñe'ẽme'ẽva"
+    },
+    "plan": {
+      "chip.label": "Ñemohenda"
+    },
+    "workspace": {
+      "section.workspaces": "Tembiapo renda",
+      "section.sessions": "Ñomongeta",
+      "search.placeholder": "Eheka ñomongeta..."
+    },
+    "feedback": {
+      "action.like": "Ñe'ẽ porã",
+      "action.dislike": "Ñe'ẽ vai"
+    },
+    "job": {
+      "status.running": "ojejapóvo"
+    }
+  }
+}

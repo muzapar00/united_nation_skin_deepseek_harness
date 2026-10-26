@@ -1,0 +1,83 @@
+{
+  "code": "ff",
+  "namespaces": {
+    "common": {
+      "ok": "Eey",
+      "cancel": "Haaytu",
+      "close": "Uddu",
+      "copy": "Natto",
+      "copied": "Nattaama",
+      "copy.failed": "Nattugol waawaani",
+      "copy.value": "Natto njaram",
+      "retry": "Eto kadi",
+      "loading": "Ina loowa…",
+      "load.failed": "Loowgol waawaani",
+      "submit": "Neldu",
+      "submitting": "Ina nelda…",
+      "next": "Jokku",
+      "previous": "Ɓennuɗo",
+      "skip": "Yawto",
+      "delete": "Momtu",
+      "edit": "Ewnu",
+      "save": "Danndu",
+      "search": "Yiylo",
+      "more": "Ɓeydu",
+      "collapse": "Moɓɓu",
+      "expand": "Yaajnu",
+      "back": "Ruttu",
+      "brand.localBuild": "DSH Mahdi Nokku",
+      "unknown": "Anndaaka",
+      "none": "Alaa",
+      "truncated": "Taƴaama",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Eɓɓooji",
+      "title": "Eɓɓooji"
+    },
+    "sidebar": {
+      "session.new": "Yeewtere hesere",
+      "toggle.open": "Uddit ŋoral"
+    },
+    "conversation": {
+      "placeholder.default": "Neldu ɓataake wolla gollu e golle, / yamirɗe, @ fayle wolla yeewte",
+      "placeholder.hero": "Sifor ko njiɗ-ɗaa mahde, / yamirɗe, @ fayle wolla yeewte",
+      "input.send": "Neldu ɓataake",
+      "input.stop": "Dartin sosde"
+    },
+    "chat": {
+      "view.chat": "Yeewtere"
+    },
+    "command": {
+      "search.placeholder": "Yiylo…"
+    },
+    "model": {
+      "trigger.fallback": "Suɓo moodel",
+      "menu.model": "Moodel"
+    },
+    "approval": {
+      "waiting": "Ina faddii jaɓgol",
+      "reject": "Salo"
+    },
+    "question": {
+      "action.next": "Jokku",
+      "option.recommended": "Finaaɗum"
+    },
+    "plan": {
+      "chip.label": "Peewel"
+    },
+    "workspace": {
+      "section.workspaces": "Nokkuuji golle",
+      "section.sessions": "Yeewte",
+      "search.placeholder": "Yiylo yeewte..."
+    },
+    "feedback": {
+      "action.like": "Jaabawol moƴƴol",
+      "action.dislike": "Jaabawol bonngol"
+    },
+    "job": {
+      "status.running": "ina doga"
+    }
+  }
+}

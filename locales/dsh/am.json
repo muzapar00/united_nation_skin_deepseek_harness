@@ -1,0 +1,83 @@
+{
+  "code": "am",
+  "namespaces": {
+    "common": {
+      "ok": "እሺ",
+      "cancel": "ሰርዝ",
+      "close": "ዝጋ",
+      "copy": "ቅዳ",
+      "copied": "ተቀድቷል",
+      "copy.failed": "መቅዳት አልተሳካም",
+      "copy.value": "እሴቱን ቅዳ",
+      "retry": "እንደገና ሞክር",
+      "loading": "በመጫን ላይ…",
+      "load.failed": "መጫን አልተሳካም",
+      "submit": "አስገባ",
+      "submitting": "በማስገባት ላይ…",
+      "next": "ቀጣይ",
+      "previous": "ቀዳሚ",
+      "skip": "ዝለል",
+      "delete": "አጥፋ",
+      "edit": "አርትዕ",
+      "save": "አስቀምጥ",
+      "search": "ፈልግ",
+      "more": "ተጨማሪ",
+      "collapse": "አሳንስ",
+      "expand": "አስፋ",
+      "back": "ተመለስ",
+      "brand.localBuild": "DSH የአካባቢ ግንባታ",
+      "unknown": "ያልታወቀ",
+      "none": "የለም",
+      "truncated": "ተቆርጧል",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "ቅንብሮች",
+      "title": "ቅንብሮች"
+    },
+    "sidebar": {
+      "session.new": "አዲስ ውይይት",
+      "toggle.open": "የጎን አሞሌ ክፈት"
+    },
+    "conversation": {
+      "placeholder.default": "መልእክት ላኩ ወይም ተግባር ያካሂዱ፣ / ትዕዛዞች፣ @ ፋይሎች ወይም ውይይቶች",
+      "placeholder.hero": "መገንባት የሚፈልጉትን ይግለጹ፣ / ትዕዛዞች፣ @ ፋይሎች ወይም ውይይቶች",
+      "input.send": "መልእክት ላክ",
+      "input.stop": "ማመንጨት አቁም"
+    },
+    "chat": {
+      "view.chat": "ውይይት"
+    },
+    "command": {
+      "search.placeholder": "ፈልግ…"
+    },
+    "model": {
+      "trigger.fallback": "ሞዴል ይምረጡ",
+      "menu.model": "ሞዴል"
+    },
+    "approval": {
+      "waiting": "ማረጋገጫ በመጠበቅ ላይ",
+      "reject": "ውድቅ አድርግ"
+    },
+    "question": {
+      "action.next": "ቀጣይ",
+      "option.recommended": "የተመከረ"
+    },
+    "plan": {
+      "chip.label": "እቅድ"
+    },
+    "workspace": {
+      "section.workspaces": "የሥራ ቦታዎች",
+      "section.sessions": "ውይይቶች",
+      "search.placeholder": "ውይይቶችን ፈልግ..."
+    },
+    "feedback": {
+      "action.like": "ጥሩ መልስ",
+      "action.dislike": "መጥፎ መልስ"
+    },
+    "job": {
+      "status.running": "በሂደት ላይ"
+    }
+  }
+}

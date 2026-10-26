@@ -1,0 +1,65 @@
+# NOTICE
+
+This repository is a community project. It is **not** an official product of the
+United Nations and is **not** endorsed by the United Nations.
+
+## United Nations emblem, flag and name
+
+The United Nations emblem, the UN flag and the name "United Nations" are the
+property of the United Nations. They are used in this non-commercial project in
+an informational, educational and commemorative context, in the spirit of the
+UN's own guidance on the use of its name and emblem by non-commercial
+supporters, and with no suggestion of endorsement.
+
+Emblem vector: Wikimedia Commons, `Emblem of the United Nations (blue).svg`,
+used as the source for `assets/emblem-badge.svg` and `assets/emblem-mono.svg`.
+
+The flag vectors under `assets/flags/` come from the `flag-icons` package
+(MIT license, https://github.com/lipis/flag-icons), one flag per United Nations
+Member State (193) plus the United Nations flag. Flags are the symbols of
+sovereign States; displaying a flag here is not a statement about any disputed
+territory.
+
+## Photographs
+
+The background rotation uses six photographs from Wikimedia Commons, each with
+its own license and author. The full record is in `src/data/credits.json` and is
+shown in the skin's About panel:
+
+| File | Title | Author | License |
+|---|---|---|---|
+| benin.webp | Blue helmets from Benin, Bamako, 30 May 2018 | Kassim Traoré (VOA) | Public domain |
+| mali.webp | Bangladeshi peacekeepers offer hope to villagers in Northern Mali | MONUSCO Photos | CC BY-SA 4.0 |
+| nile.webp | UNMISS trucks collect drinking water from the Nile | Besserwisser123 | CC BY-SA 4.0 |
+| shamrock.webp | 42nd Infantry Group on Shamrock Parade, Lebanon | Irish Defence Forces | CC BY 2.0 |
+| juba.webp | Shelter supplies arrive at UN House, Juba, South Sudan | Oxfam East Africa | CC BY 2.0 |
+| outpost.webp | An Indonesian MONUSCO peacekeeper looks out from an outpost | MONUSCO Photos | CC BY-SA 4.0 |
+
+The images were resized and re-encoded to WebP for embedding. No endorsement by
+the photographers, the missions or the contributing countries is implied.
+
+## Text
+
+Quotations from the Charter of the United Nations, the Universal Declaration of
+Human Rights and the UNESCO Constitution are reproduced for informational and
+commemorative purposes. The United Nations Charter and the Universal Declaration
+are among the most widely reproduced public documents in the world; they remain
+United Nations documents.
+
+## Fonts
+
+The skin uses the system UI font stack and does not redistribute font files.
+
+## Translation packs
+
+The files under `locales/` and the content in `src/data/facts.json` /
+`src/data/quotes.json` are licensed CC BY-SA 4.0. Many were produced with
+AI assistance and reviewed against the English source; native-speaker
+corrections are welcome through pull requests.
+
+## License scope
+
+The MIT license in `LICENSE` covers the code and the original artwork authored
+for this project. Language packs under `locales/` and the knowledge/quote
+content in `src/data/` are released under CC BY-SA 4.0. Photographs remain under
+the licenses recorded above and in `src/data/credits.json`.

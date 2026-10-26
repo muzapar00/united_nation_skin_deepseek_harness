@@ -1,0 +1,83 @@
+{
+  "code": "ay",
+  "namespaces": {
+    "common": {
+      "ok": "Waliki",
+      "cancel": "Jaytaña",
+      "close": "Jist'antaña",
+      "copy": "Kikipachaña",
+      "copied": "Kikipachata",
+      "copy.failed": "Janiw kikipachkakiti",
+      "copy.value": "Chanipa kikipachaña",
+      "retry": "Wasitat luraña",
+      "loading": "Apkataski…",
+      "load.failed": "Janiw apkaña atkiti",
+      "submit": "Apayaña",
+      "submitting": "Apayaski…",
+      "next": "Qhipa",
+      "previous": "Nayra",
+      "skip": "Pasarayaña",
+      "delete": "Pichsuña",
+      "edit": "Askichaña",
+      "save": "Imaña",
+      "search": "Thaqhaña",
+      "more": "Juk'ampi",
+      "collapse": "Jist'antaña",
+      "expand": "Jistharaña",
+      "back": "Kutt'aña",
+      "brand.localBuild": "DSH aka chiqana lurata",
+      "unknown": "Jani yatita",
+      "none": "Jani kunas",
+      "truncated": "Kuchhuta",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Wakichawi",
+      "title": "Wakichawi"
+    },
+    "sidebar": {
+      "session.new": "Machaq aruskipawi",
+      "toggle.open": "Qhiya t'aqa jistharaña"
+    },
+    "conversation": {
+      "placeholder.default": "Mä qillqa apayaña jan ukax lurawi qalltaña, / kamachinaka, @ qillqatanaka jan ukax aruskipawinaka",
+      "placeholder.hero": "Kuns lurasa munxta uka qillqam, / kamachinaka, @ qillqatanaka jan ukax aruskipawinaka",
+      "input.send": "Qillqa apayaña",
+      "input.stop": "Luraña sayt'ayaña"
+    },
+    "chat": {
+      "view.chat": "Aruskipawi"
+    },
+    "command": {
+      "search.placeholder": "Thaqhaña…"
+    },
+    "model": {
+      "trigger.fallback": "Modelo ajlliña",
+      "menu.model": "Modelo"
+    },
+    "approval": {
+      "waiting": "Iyawsañatak suyt'aski",
+      "reject": "Jani iyawsaña"
+    },
+    "question": {
+      "action.next": "Qhipa",
+      "option.recommended": "Amuyasita"
+    },
+    "plan": {
+      "chip.label": "Amtawi"
+    },
+    "workspace": {
+      "section.workspaces": "Lurawi chiqanaka",
+      "section.sessions": "Aruskipawinaka",
+      "search.placeholder": "Aruskipawinaka thaqhaña..."
+    },
+    "feedback": {
+      "action.like": "Suma jaysawi",
+      "action.dislike": "Jani suma jaysawi"
+    },
+    "job": {
+      "status.running": "luraski"
+    }
+  }
+}

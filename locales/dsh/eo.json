@@ -1,0 +1,83 @@
+{
+  "code": "eo",
+  "namespaces": {
+    "common": {
+      "ok": "Bone",
+      "cancel": "Nuligi",
+      "close": "Fermi",
+      "copy": "Kopii",
+      "copied": "Kopiita",
+      "copy.failed": "Kopiado malsukcesis",
+      "copy.value": "Kopii valoron",
+      "retry": "Reprovi",
+      "loading": "Ŝargado…",
+      "load.failed": "Ŝargado malsukcesis",
+      "submit": "Sendi",
+      "submitting": "Sendado…",
+      "next": "Sekva",
+      "previous": "Antaŭa",
+      "skip": "Salti",
+      "delete": "Forigi",
+      "edit": "Redakti",
+      "save": "Konservi",
+      "search": "Serĉi",
+      "more": "Pli",
+      "collapse": "Faldi",
+      "expand": "Malfaldi",
+      "back": "Reen",
+      "brand.localBuild": "DSH loka konstruo",
+      "unknown": "Nekonata",
+      "none": "Neniu",
+      "truncated": "Tranĉita",
+      "number.thousand": "{value}K",
+      "number.million": "{value}M"
+    },
+    "settings": {
+      "trigger": "Agordoj",
+      "title": "Agordoj"
+    },
+    "sidebar": {
+      "session.new": "Nova seanco",
+      "toggle.open": "Malfermi flankan panelon"
+    },
+    "conversation": {
+      "placeholder.default": "Sendu mesaĝon aŭ rulu taskon, / komandoj, @ dosieroj aŭ seancoj",
+      "placeholder.hero": "Priskribu, kion vi volas konstrui, / komandoj, @ dosieroj aŭ seancoj",
+      "input.send": "Sendi mesaĝon",
+      "input.stop": "Haltigi generadon"
+    },
+    "chat": {
+      "view.chat": "Babilo"
+    },
+    "command": {
+      "search.placeholder": "Serĉi…"
+    },
+    "model": {
+      "trigger.fallback": "Elekti modelon",
+      "menu.model": "Modelo"
+    },
+    "approval": {
+      "waiting": "Atendante aprobon",
+      "reject": "Rifuzi"
+    },
+    "question": {
+      "action.next": "Sekva",
+      "option.recommended": "Rekomendita"
+    },
+    "plan": {
+      "chip.label": "Plano"
+    },
+    "workspace": {
+      "section.workspaces": "Laborspacoj",
+      "section.sessions": "Seancoj",
+      "search.placeholder": "Serĉi seancojn..."
+    },
+    "feedback": {
+      "action.like": "Bona respondo",
+      "action.dislike": "Malbona respondo"
+    },
+    "job": {
+      "status.running": "ruliĝanta"
+    }
+  }
+}
