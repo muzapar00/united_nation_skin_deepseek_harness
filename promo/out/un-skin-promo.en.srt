@@ -1,0 +1,64 @@
+1
+00:00:00,900 --> 00:00:03,200
+1945 · San Francisco
+
+2
+00:00:03,200 --> 00:00:04,700
+Preamble, Charter of the United Nations
+
+3
+00:00:04,800 --> 00:00:06,400
+We the Peoples of the United Nations,
+determined...
+
+4
+00:00:07,200 --> 00:00:10,400
+7,030 living languages
+
+5
+00:00:10,400 --> 00:00:11,900
+One dot, one language.
+
+6
+00:00:12,200 --> 00:00:14,600
+Most AI interfaces
+list only a dozen.
+
+7
+00:00:14,700 --> 00:00:16,600
+This is not a technical problem.
+It is a choice.
+
+8
+00:00:16,800 --> 00:00:21,600
+So we put every language
+in the interface.
+
+9
+00:00:21,700 --> 00:00:24,400
+White. UN blue.
+Peacekeeping. The Charter.
+
+10
+00:00:24,500 --> 00:00:26,400
+It looks like the UN.
+It still works like DSH.
+
+11
+00:00:26,600 --> 00:00:29,200
+Six peacekeeping photographs, slowly rotating.
+Each one credited: photographer, licence, contributing country.
+
+12
+00:00:29,300 --> 00:00:31,200
+The United Nations thanks you
+for your service and sacrifice.
+
+13
+00:00:31,700 --> 00:00:34,600
+It adds one button.
+Every existing control, untouched.
+
+14
+00:00:34,700 --> 00:00:39,600
+A place for every language.

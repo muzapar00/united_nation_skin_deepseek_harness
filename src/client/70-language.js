@@ -389,5 +389,5 @@ function GlobeButton(props) {
 }
 
 function OverlaySeat() {
-  return h(React.Fragment, null, h(LanguageOverlay), h(ToastHost))
+  return h(React.Fragment, null, h(LanguageOverlay), h(FlagWall), h(ToastHost))
 }

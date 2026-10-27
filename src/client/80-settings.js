@@ -166,8 +166,10 @@ function AboutCard() {
         title: t('about.title'),
         'aria-label': t('about.title'),
         onClick: function () {
-          setEggCount(eggCount + 1)
-          if (eggCount + 1 === 5) toast('UN80 · 1945—2025')
+          var next = eggCount + 1
+          setEggCount(next)
+          if (next === 3) setFlagWallOpen(true)
+          if (next === 5) toast('UN80 · 1945—2025')
         },
         style: { border: 0, background: 'transparent', padding: 0, cursor: 'pointer', lineHeight: 0 }
       }, h(EmblemBadge, { size: 52 })),
@@ -194,6 +196,24 @@ function AboutCard() {
           h('p', { dir: activeDirection() }, pickI18n(quote.text, lang)),
           h('div', { className: 'un-charter-src' }, pickI18n(quote.src, lang)))
       })),
+    h('div', { style: { marginTop: '14px' } },
+      h('div', { style: { fontSize: '11px', fontWeight: 700, letterSpacing: '.12em', textTransform: 'uppercase', color: 'var(--un-ink-3)', margin: '2px 0 8px' } },
+        t('ribbon.member') + ' · 193'),
+      h('details', { className: 'un-flag-mosaic-wrap' },
+        h('summary', null, '193 个会员国 · Member States'),
+        h('div', { className: 'un-flag-mosaic' },
+          UN_DATA.members.map(function (member) {
+            return h('figure', { key: member.c, className: 'un-flag-mosaic-item', title: member.e + ' · ' + member.z },
+              h(FlagThumb, { cc: member.c, w: 26, h: 20 }),
+              h('figcaption', null, baseLang(lang) === 'zh' ? member.z : member.e))
+          }))),
+      h('div', { style: { display: 'flex', alignItems: 'center', gap: '10px', marginTop: '10px' } },
+        h('button', {
+          type: 'button',
+          className: 'un-btn',
+          onClick: function () { setFlagWallOpen(true) }
+        }, h(Emblem, { size: 13 }), 'United Nations · 193'),
+        h(SdgStrip))),
     h('div', { style: { marginTop: '14px', fontSize: '10.5px', lineHeight: 1.6, color: 'var(--un-ink-3)' } },
       h('p', { style: { margin: '0 0 6px' } }, t('about.disclaimer')),
       h('p', { style: { margin: '0 0 4px' } }, t('about.credits') + ':'),
@@ -206,6 +226,30 @@ function AboutCard() {
       h('p', { style: { margin: '8px 0 0' } }, 'Emblem: United Nations. Code: MIT. Translations: CC BY-SA 4.0.')))
 }
 
+var TAGLINE_ORDER = ['zh', 'en', 'fr', 'es', 'ru', 'ar']
+
+function TaglineButton() {
+  var snapshot = useLocaleSnapshot()
+  var state = useState(-1)
+  var index = state[0]
+  var setIndex = state[1]
+  var active = snapshot.active || FALLBACK
+  var current = index < 0 ? t('tagline') : UN_DATA.taglines[TAGLINE_ORDER[index]] || t('tagline')
+  function cycle() {
+    var next = (index + 1) % TAGLINE_ORDER.length
+    setIndex(next)
+    var code = TAGLINE_ORDER[next]
+    toast(displayNameOf(code) + ' · ' + UN_DATA.taglines[code])
+  }
+  return h('button', {
+    type: 'button',
+    className: 'un-hero-tag un-hero-tag-button',
+    title: t('tagline') + ' · 1945',
+    onClick: cycle,
+    dir: active === 'ar' || current === UN_DATA.taglines.ar ? undefined : undefined
+  }, current + ' · 1945')
+}
+
 function UnitedNationsSection(props) {
   var snapshot = useLocaleSnapshot()
   var direction = activeDirection()
@@ -215,7 +259,7 @@ function UnitedNationsSection(props) {
       h('div', { style: { minWidth: 0 } },
         h('h2', { className: 'un-hero-title' }, t('title')),
         h('p', { className: 'un-hero-sub' }, t('subtitle')),
-        h('span', { className: 'un-hero-tag' }, t('tagline') + ' · 1945'))),
+        h(TaglineButton))),
     h(LanguageCard, { onOpenPicker: function () { if (typeof props.close === 'function') props.close(); setPickerOpen(true) } }),
     h(AppearanceCard),
     h(AboutCard))

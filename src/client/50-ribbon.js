@@ -63,6 +63,7 @@ function buildFactPlaylist(lang) {
         kind: 'member',
         label: t('ribbon.member'),
         flag: member.f,
+        cc: member.c,
         text: memberName(member, lang) + ' · United Nations'
       })
       continue
@@ -126,7 +127,8 @@ function FactsRibbon() {
     onMouseLeave: function () { hover.current = false }
   },
   h('div', { className: 'un-facts-main' },
-    h('span', { className: 'un-facts-flag', key: 'flag-' + item.id }, item.flag),
+    h('span', { className: 'un-facts-flag', key: 'flag-' + item.id },
+      item.cc !== undefined ? h(FlagThumb, { cc: item.cc, fallback: item.flag, w: 22, h: 16 }) : item.flag),
     h('span', { className: 'un-facts-label' }, item.label),
     h('span', { className: 'un-facts-text un-fade-in', key: item.id, title: item.text }, item.text)),
   h('button', {

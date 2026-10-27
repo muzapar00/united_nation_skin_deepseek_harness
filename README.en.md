@@ -31,7 +31,8 @@ A **third-party theme for DeepSeek Harness (DSH)**. It registers no model tools,
 1. **Re-paints the interface** with UN blue `#009EDB`, deep navy `#0A2540` and paper white, by remapping the host's `--dsw-*` tokens. Two schemes — Daylight and Blue hour — follow the system or stay fixed.
 2. **Rotates six UN peacekeeping photographs** behind the conversation, slowly dissolving, with the photographer, license and contributing country always credited in the corner. A tribute to peacekeepers.
 3. **Adds two quiet ribbons** above the composer: one for UN facts, Member State spotlights and “The United Nations thanks you for your service and sacrifice”; one for lines from the UN Charter, the Universal Declaration, UNESCO and China's proposals to the United Nations. One kind of information per place.
-4. **Adds a world language picker**: all 7,030 living languages, searchable, filterable by region, with honest coverage badges. 127 languages ship a complete skin interface and a DSH core vocabulary pack. Missing strings always fall back to English.
+4. **Ships 193 Member State flags** as real images in the Member State spotlight, the photo caption, a settings mosaic and a hidden flag wall.
+5. **Adds a world language picker**: all 7,030 living languages, searchable, filterable by region, with honest coverage badges. 127 languages ship a complete skin interface and a DSH core vocabulary pack. Missing strings always fall back to English.
 
 It adds exactly **one button** (a globe beside Settings, also `Ctrl/Cmd + Shift + L`). Every existing control, layout and flow is untouched.
 
@@ -190,6 +191,26 @@ preamble, photo credits, the un.org link, the non-endorsement notice and a five-
 
 Preferences live in `localStorage` (`dsh.un.v1`); the language itself is persisted by DSH's own
 settings document. All images and language packs are embedded — the skin works offline.
+
+## Flags and easter eggs
+
+All **193 Member State flags plus the UN flag** ship as vectors in `assets/flags/`, and the interface
+actually uses them: a Member State spotlight in the facts ribbon, the contributing-country flag on the
+peacekeeping photo caption, a 193-flag mosaic in About, and a hidden full-screen **flag wall**.
+
+| Flag wall | Member State mosaic |
+|---|---|
+| ![Flag wall](docs/screenshots/flag-wall-zh.png) | ![Member State mosaic](docs/screenshots/settings-flags-zh.png) |
+
+| Egg | How | What happens |
+|---|---|---|
+| Flag wall | Click the hero emblem, or the About emblem three times, or the Konami code | All 193 flags, full screen |
+| UN80 | About emblem, five clicks | `UN80 · 1945—2025` badge |
+| Six official languages | Click “We the Peoples · 1945” in Settings | Cycles the Charter preamble opening in zh/en/fr/es/ru/ar |
+| SDG strip | Under the About credits | The 17 official SDG colours, tooltips, links to un.org |
+| “peace” | Type `peace` outside an input | The UNESCO Constitution line on the defences of peace |
+| Console | Open devtools | The Charter preamble's first line |
+| Date facts | Open on a UN observance | 27 Jan, 7 Apr, 8–9 May, 29 May, 24 Oct, 10 Dec rotate first |
 
 ## Content, credits and disclaimers
 

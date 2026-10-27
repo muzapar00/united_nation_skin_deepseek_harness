@@ -1,0 +1,19 @@
+[
+  { "n": 1, "color": "#E5243B", "en": "No poverty", "zh": "无贫穷" },
+  { "n": 2, "color": "#DDA63A", "en": "Zero hunger", "zh": "零饥饿" },
+  { "n": 3, "color": "#4C9F38", "en": "Good health and well-being", "zh": "良好健康与福祉" },
+  { "n": 4, "color": "#C5192D", "en": "Quality education", "zh": "优质教育" },
+  { "n": 5, "color": "#FF3A21", "en": "Gender equality", "zh": "性别平等" },
+  { "n": 6, "color": "#26BDE2", "en": "Clean water and sanitation", "zh": "清洁饮水和卫生设施" },
+  { "n": 7, "color": "#FCC30B", "en": "Affordable and clean energy", "zh": "经济适用的清洁能源" },
+  { "n": 8, "color": "#A21942", "en": "Decent work and economic growth", "zh": "体面工作和经济增长" },
+  { "n": 9, "color": "#FD6925", "en": "Industry, innovation and infrastructure", "zh": "产业、创新和基础设施" },
+  { "n": 10, "color": "#DD1367", "en": "Reduced inequalities", "zh": "减少不平等" },
+  { "n": 11, "color": "#FD9D24", "en": "Sustainable cities and communities", "zh": "可持续城市和社区" },
+  { "n": 12, "color": "#BF8B2E", "en": "Responsible consumption and production", "zh": "负责任消费和生产" },
+  { "n": 13, "color": "#3F7E44", "en": "Climate action", "zh": "气候行动" },
+  { "n": 14, "color": "#0A97D9", "en": "Life below water", "zh": "水下生物" },
+  { "n": 15, "color": "#56C02B", "en": "Life on land", "zh": "陆地生物" },
+  { "n": 16, "color": "#00689D", "en": "Peace, justice and strong institutions", "zh": "和平、正义与强大机构" },
+  { "n": 17, "color": "#19486A", "en": "Partnerships for the goals", "zh": "促进目标实现的伙伴关系" }
+]

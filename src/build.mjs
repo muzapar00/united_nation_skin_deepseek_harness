@@ -56,11 +56,18 @@ for (const file of fs.readdirSync(coreDir).sort()) {
 }
 
 /* ---------- data ---------- */
+const flags = {}
+for (const file of fs.readdirSync(path.join(root, 'assets/flags-thumb')).sort()) {
+  if (!file.endsWith('.webp')) continue
+  flags[file.slice(0, -5)] = 'data:image/webp;base64,' + fs.readFileSync(path.join(root, 'assets/flags-thumb', file)).toString('base64')
+}
 const languages = readJson('src/data/languages.json')
 const members = readJson('src/data/members.json')
 const facts = readJson('src/data/facts.json')
 const quotes = readJson('src/data/quotes.json')
 const credits = readJson('src/data/credits.json')
+const taglines = readJson('src/data/taglines.json')
+const sdgs = readJson('src/data/sdgs.json')
 
 const featureByCode = {}
 for (const item of languages.featured) featureByCode[item.c] = item
@@ -82,14 +89,12 @@ const PHOTO_COUNTRY = {
 
 const images = credits.map((credit) => {
   const country = PHOTO_COUNTRY[credit.file] || { cc: 'un', en: 'United Nations', zh: '联合国' }
-  const flagFile = country.cc === 'un' ? 'assets/flags/un.svg' : 'assets/flags/' + country.cc + '.svg'
   const data = 'data:image/webp;base64,' + fs.readFileSync(path.join(root, 'assets/bg', credit.file + '.webp')).toString('base64')
   return {
     id: credit.file,
     data,
     country,
-    flag: country.cc === 'un' ? '🇺🇳' : undefined,
-    flagSvg: fs.existsSync(path.join(root, flagFile)) ? svgUri(flagFile) : null,
+    flagThumb: flags[country.cc] || null,
     credit: { title: credit.title, author: credit.author, license: credit.license, source: credit.source }
   }
 })
@@ -105,7 +110,10 @@ const DATA = {
   facts,
   quotes,
   credits,
-  emblem
+  emblem,
+  flags,
+  taglines,
+  sdgs
 }
 
 /* ---------- assemble ---------- */
@@ -151,4 +159,4 @@ console.log('built client.js')
 console.log('  size        ', size('client.js'))
 console.log('  languages   ', Object.keys(locales).length, 'skin packs,', Object.keys(core).length, 'core packs')
 console.log('  catalog     ', languages.catalog.length, 'languages,', languages.featured.length, 'featured')
-console.log('  images      ', images.length, 'backgrounds')
+console.log('  images      ', images.length, 'backgrounds,', Object.keys(flags).length, 'flag thumbnails')

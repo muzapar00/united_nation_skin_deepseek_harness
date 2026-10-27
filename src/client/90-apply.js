@@ -15,7 +15,12 @@ function BrandName() {
 }
 
 function HeroMark() {
-  return h('div', { className: 'un-hero' }, h(Emblem, { size: 44, className: 'un-hero-mark' }))
+  return h('div', {
+    className: 'un-hero',
+    style: { cursor: 'pointer' },
+    title: 'United Nations',
+    onClick: function () { setFlagWallOpen(true) }
+  }, h(Emblem, { size: 44, className: 'un-hero-mark' }))
 }
 
 function registerSlot(ctx, name, registration, component, label) {
@@ -67,12 +72,40 @@ function applyLocale(ctx) {
   }, 'un-skin: locale follow')
 }
 
+var KONAMI = ['ArrowUp', 'ArrowUp', 'ArrowDown', 'ArrowDown', 'ArrowLeft', 'ArrowRight', 'ArrowLeft', 'ArrowRight', 'b', 'a']
+
+function typingInField(target) {
+  if (target === null || target === undefined) return false
+  var tag = String(target.tagName || '').toLowerCase()
+  return tag === 'input' || tag === 'textarea' || tag === 'select' || target.isContentEditable === true
+}
+
 function applyShortcuts(ctx) {
+  var buffer = []
+  var word = ''
   function onKey(event) {
     var modifier = event.metaKey || event.ctrlKey
     if (modifier && event.shiftKey && (event.key === 'L' || event.key === 'l')) {
       event.preventDefault()
       setPickerOpen(true)
+      return
+    }
+    if (typingInField(event.target)) return
+    buffer.push(event.key)
+    if (buffer.length > KONAMI.length) buffer.shift()
+    if (buffer.join('|') === KONAMI.join('|')) {
+      buffer = []
+      setFlagWallOpen(true)
+      return
+    }
+    if (typeof event.key === 'string' && event.key.length === 1) {
+      word = (word + event.key.toLowerCase()).slice(-5)
+      if (word === 'peace') {
+        word = ''
+        var quote = null
+        for (var i = 0; i < UN_DATA.quotes.length; i++) if (UN_DATA.quotes[i].id === 'q-unesco') quote = UN_DATA.quotes[i]
+        if (quote !== null) toast(pickI18n(quote.text, activeLang()))
+      }
     }
   }
   document.addEventListener('keydown', onKey)

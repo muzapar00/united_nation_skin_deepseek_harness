@@ -22,13 +22,18 @@ function updateCaption() {
   if (BG.root === null) return
   var image = captionText()
   var capLine = BG.root.querySelector('.un-bg-cap-line')
+  var capLineFlag = BG.root.querySelector('.un-bg-cap-flagimg')
+  var capLineText = capLine !== null ? capLine.querySelector('span') : null
   var capThanks = BG.root.querySelector('.un-bg-cap-thanks')
   var capCredit = BG.root.querySelector('.un-bg-cap-credit')
   if (capLine !== null) {
-    var flag = image.flagSvg !== undefined
-      ? null
-      : null
-    capLine.textContent = '🇺🇳 ' + t('ribbon.peacekeeping') + ' · ' + image.country.en
+    if (image.flagThumb) {
+      capLineFlag.src = image.flagThumb
+      capLineFlag.style.display = ''
+    } else {
+      capLineFlag.style.display = 'none'
+    }
+    capLineText.textContent = ' ' + t('ribbon.peacekeeping') + ' · ' + image.country.en
   }
   if (capThanks !== null) capThanks.textContent = t('ribbon.thankYou')
   if (capCredit !== null) {
@@ -85,6 +90,9 @@ function mountBackground(ctx) {
   var cap = document.createElement('div')
   cap.className = 'un-bg-cap'
   var line = document.createElement('div'); line.className = 'un-bg-cap-line'
+  var lineFlag = document.createElement('img'); lineFlag.className = 'un-bg-cap-flagimg'; lineFlag.alt = ''; lineFlag.loading = 'lazy'
+  var lineText = document.createElement('span')
+  line.appendChild(lineFlag); line.appendChild(lineText)
   var thanks = document.createElement('div'); thanks.className = 'un-bg-cap-thanks'
   var credit = document.createElement('div'); credit.className = 'un-bg-cap-credit'
   cap.appendChild(line); cap.appendChild(thanks); cap.appendChild(credit)
