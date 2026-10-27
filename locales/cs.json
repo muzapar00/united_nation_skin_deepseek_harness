@@ -64,5 +64,6 @@
     "ribbon.member": "Členský stát",
     "fact.label": "Zajímavost o OSN",
     "quote.label": "Charta a ideály"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

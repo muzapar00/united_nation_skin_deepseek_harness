@@ -64,5 +64,6 @@
     "ribbon.member": "Держава-член",
     "fact.label": "Факт про ООН",
     "quote.label": "Статут та ідеали"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

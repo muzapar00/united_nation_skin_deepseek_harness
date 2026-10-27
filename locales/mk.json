@@ -64,5 +64,6 @@
     "ribbon.member": "Земја членка",
     "fact.label": "Факт за ОН",
     "quote.label": "Повелба и идеали"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

@@ -64,5 +64,6 @@
     "ribbon.member": "Անդամ պետություն",
     "fact.label": "ՄԱԿ-ի փաստ",
     "quote.label": "Կանոնադրություն և իդեալներ"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

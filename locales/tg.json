@@ -64,5 +64,6 @@
     "ribbon.member": "Давлати узв",
     "fact.label": "Факти СММ",
     "quote.label": "Маншур ва идеалҳо"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

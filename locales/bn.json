@@ -64,5 +64,6 @@
     "ribbon.member": "সদস্য রাষ্ট্র",
     "fact.label": "জাতিসংঘ তথ্য",
     "quote.label": "সনদ ও আদর্শ"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

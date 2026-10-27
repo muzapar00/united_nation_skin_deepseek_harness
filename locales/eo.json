@@ -64,5 +64,6 @@
     "ribbon.member": "Membroŝtato",
     "fact.label": "Fakto pri UN",
     "quote.label": "Ĉarto kaj idealoj"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

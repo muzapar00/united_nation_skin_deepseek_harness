@@ -64,5 +64,6 @@
     "ribbon.member": "الدولة العضو",
     "fact.label": "هل تعلم؟",
     "quote.label": "الميثاق والمُثُل"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

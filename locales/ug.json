@@ -64,5 +64,6 @@
     "ribbon.member": "ئەزا دۆلەت",
     "fact.label": "بىرلەشمە مىللەت بىلىمى",
     "quote.label": "نىزامنامە ۋە ئىدىيە"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

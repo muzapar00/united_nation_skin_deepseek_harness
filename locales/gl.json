@@ -64,5 +64,6 @@
     "ribbon.member": "Estado membro",
     "fact.label": "Curiosidade da ONU",
     "quote.label": "Carta e ideais"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

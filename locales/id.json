@@ -64,5 +64,6 @@
     "ribbon.member": "Negara Anggota",
     "fact.label": "Fakta PBB",
     "quote.label": "Piagam dan cita-cita"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

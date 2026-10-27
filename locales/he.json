@@ -64,5 +64,6 @@
     "ribbon.member": "מדינה חברה",
     "fact.label": "עובדה על האו״ם",
     "quote.label": "המגילה והאידיאלים"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

@@ -41,6 +41,10 @@ for (const code of codes.sort()) {
   let pack
   try { pack = JSON.parse(fs.readFileSync(file, 'utf8')) } catch (e) { fail(`${code}: invalid JSON — ${e.message}`); continue }
   if (pack.code !== code) fail(`${code}: "code" is ${JSON.stringify(pack.code)}`)
+  if (pack.reviewStatus !== undefined) {
+    if (!['source', 'unreviewed', 'reviewed'].includes(pack.reviewStatus)) fail(`${code}: reviewStatus must be source|unreviewed|reviewed`)
+    if (pack.reviewStatus === 'reviewed' && (typeof pack.reviewedBy !== 'string' || !pack.reviewedBy.trim())) fail(`${code}: reviewStatus "reviewed" requires a non-empty reviewedBy`)
+  } else warn(`${code}: no reviewStatus (defaults to unreviewed)`)
   if (!pack.strings || typeof pack.strings !== 'object') { fail(`${code}: "strings" object missing`); continue }
   const expected = metaOf[code]
   if (expected && pack.native !== expected.n) warn(`${code}: native "${pack.native}" differs from catalog "${expected.n}" (ok if intentional)`)

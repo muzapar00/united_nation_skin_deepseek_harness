@@ -64,5 +64,6 @@
     "ribbon.member": "Nasod nga Miyembro",
     "fact.label": "Kamatuoran sa UN",
     "quote.label": "Tsarter ug mga ideal"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

@@ -64,5 +64,6 @@
     "ribbon.member": "Medlemsstat",
     "fact.label": "Visste du?",
     "quote.label": "Pakten og idealene"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

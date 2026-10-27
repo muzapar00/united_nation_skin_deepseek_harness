@@ -64,5 +64,6 @@
     "ribbon.member": "Stato membro",
     "fact.label": "Lo sapevi?",
     "quote.label": "Carta e ideali"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

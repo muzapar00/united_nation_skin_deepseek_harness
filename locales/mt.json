@@ -64,5 +64,6 @@
     "ribbon.member": "Stat Membru",
     "fact.label": "Fatt tan-NU",
     "quote.label": "Il-Karta u l-ideali"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

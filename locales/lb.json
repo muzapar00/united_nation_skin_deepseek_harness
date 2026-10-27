@@ -64,5 +64,6 @@
     "ribbon.member": "Memberstaat",
     "fact.label": "UN-Fakt",
     "quote.label": "Charta an Idealer"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

@@ -64,5 +64,6 @@
     "ribbon.member": "Дзяржава-член",
     "fact.label": "Факт пра ААН",
     "quote.label": "Статут і ідэалы"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

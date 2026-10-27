@@ -64,5 +64,6 @@
     "ribbon.member": "ประเทศสมาชิก",
     "fact.label": "เกร็ดความรู้สหประชาชาติ",
     "quote.label": "กฎบัตรและอุดมการณ์"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

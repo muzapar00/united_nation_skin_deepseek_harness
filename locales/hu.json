@@ -64,5 +64,6 @@
     "ribbon.member": "Tagállam",
     "fact.label": "ENSZ-érdekesség",
     "quote.label": "Alapokmány és eszmények"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

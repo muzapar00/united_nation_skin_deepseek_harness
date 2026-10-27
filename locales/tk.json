@@ -64,5 +64,6 @@
     "ribbon.member": "Agza döwlet",
     "fact.label": "BMG fakty",
     "quote.label": "Tertipnama we ideallar"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

@@ -64,5 +64,6 @@
     "ribbon.member": "ⴰⵡⴰⵏⴽ ⴰⵎⴷⵔⴰⵡ",
     "fact.label": "ⵜⵓⵙⵙⵏⴰ ⵅⴼ ⵜⵉⵎⵜⵜⴰ ⵉⵎⵓⵏⵏ",
     "quote.label": "ⴰⵙⴰⴷⵓⴼ ⴷ ⵜⵉⴽⵜⵉⵡⵉⵏ"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

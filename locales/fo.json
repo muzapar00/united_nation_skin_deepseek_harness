@@ -64,5 +64,6 @@
     "ribbon.member": "Limsland",
     "fact.label": "Faktum",
     "quote.label": "Sáttmálin og hugsjónirnar"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

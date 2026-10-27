@@ -64,5 +64,6 @@
     "ribbon.member": "Država članica",
     "fact.label": "Zanimivost o ZN",
     "quote.label": "Listina in ideali"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

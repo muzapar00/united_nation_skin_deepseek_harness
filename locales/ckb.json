@@ -64,5 +64,6 @@
     "ribbon.member": "دەوڵەتی ئەندام",
     "fact.label": "ڕاستی نەتەوە یەکگرتووەکان",
     "quote.label": "پیمااننامە و ئایدەکان"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

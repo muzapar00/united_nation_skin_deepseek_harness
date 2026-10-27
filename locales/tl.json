@@ -64,5 +64,6 @@
     "ribbon.member": "Estadong Miyembro",
     "fact.label": "Katotohanan tungkol sa UN",
     "quote.label": "Karta at mga mithiin"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

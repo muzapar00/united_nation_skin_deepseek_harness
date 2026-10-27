@@ -64,5 +64,6 @@
     "ribbon.member": "회원국",
     "fact.label": "유엔 상식",
     "quote.label": "헌장과 이념"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

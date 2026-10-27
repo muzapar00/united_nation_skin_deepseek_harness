@@ -64,5 +64,6 @@
     "ribbon.member": "غړی دولت",
     "fact.label": "د ملګرو ملتونو حقیقت",
     "quote.label": "منشور او ارمانونه"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

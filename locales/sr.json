@@ -64,5 +64,6 @@
     "ribbon.member": "Држава чланица",
     "fact.label": "Чињеница о УН",
     "quote.label": "Повеља и идеали"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

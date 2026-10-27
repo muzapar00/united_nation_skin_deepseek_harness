@@ -64,5 +64,6 @@
     "ribbon.member": "Lidstaat",
     "fact.label": "VN-feit",
     "quote.label": "Handves en ideale"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

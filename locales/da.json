@@ -64,5 +64,6 @@
     "ribbon.member": "Medlemsstat",
     "fact.label": "FN-fakta",
     "quote.label": "Pagt og idealer"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

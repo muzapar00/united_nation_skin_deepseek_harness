@@ -64,5 +64,6 @@
     "ribbon.member": "አባል ሀገር",
     "fact.label": "የተባበሩት መንግስታት መረጃ",
     "quote.label": "ቻርተርና እሴቶች"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

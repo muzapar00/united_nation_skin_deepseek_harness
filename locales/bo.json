@@ -64,5 +64,6 @@
     "ribbon.member": "ཚོགས་མི་རྒྱལ་ཁབ",
     "fact.label": "མཉམ་འབྲེལ་རྒྱལ་ཚོགས་ཀྱི་དངོས་དོན",
     "quote.label": "ཆིངས་ཡིག་དང་ཕུགས་བསམ"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

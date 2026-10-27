@@ -64,5 +64,6 @@
     "ribbon.member": "წევრი სახელმწიფო",
     "fact.label": "გაეროს ფაქტი",
     "quote.label": "ქარტია და იდეალები"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

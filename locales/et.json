@@ -64,5 +64,6 @@
     "ribbon.member": "Liikmesriik",
     "fact.label": "ÜRO fakt",
     "quote.label": "Harta ja ideaalid"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

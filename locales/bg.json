@@ -64,5 +64,6 @@
     "ribbon.member": "Държава членка",
     "fact.label": "Факт за ООН",
     "quote.label": "Харта и идеали"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

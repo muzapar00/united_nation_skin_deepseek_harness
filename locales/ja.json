@@ -64,5 +64,6 @@
     "ribbon.member": "加盟国",
     "fact.label": "国連の豆知識",
     "quote.label": "憲章と理念"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

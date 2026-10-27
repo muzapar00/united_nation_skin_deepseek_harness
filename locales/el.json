@@ -64,5 +64,6 @@
     "ribbon.member": "Κράτος μέλος",
     "fact.label": "Γεγονός για τον ΟΗΕ",
     "quote.label": "Χάρτης και ιδανικά"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

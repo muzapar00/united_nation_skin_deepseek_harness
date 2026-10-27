@@ -64,5 +64,6 @@
     "ribbon.member": "Әгъза дәүләт",
     "fact.label": "БМО факты",
     "quote.label": "Устав һәм идеаллар"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

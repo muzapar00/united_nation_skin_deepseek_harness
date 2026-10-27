@@ -64,5 +64,6 @@
     "ribbon.member": "Lidstaat",
     "fact.label": "Wist je dat?",
     "quote.label": "Handvest en idealen"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

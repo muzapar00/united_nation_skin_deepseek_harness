@@ -64,5 +64,6 @@
     "ribbon.member": "Mitgliedstaat",
     "fact.label": "Schon gewusst?",
     "quote.label": "Charta und Ideale"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

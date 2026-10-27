@@ -64,5 +64,6 @@
     "ribbon.member": "会员国",
     "fact.label": "联合国小知识",
     "quote.label": "宪章与理念"
-  }
+  },
+  "reviewStatus": "source"
 }

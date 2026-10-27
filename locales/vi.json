@@ -64,5 +64,6 @@
     "ribbon.member": "Quốc gia thành viên",
     "fact.label": "Kiến thức LHQ",
     "quote.label": "Hiến chương và lý tưởng"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

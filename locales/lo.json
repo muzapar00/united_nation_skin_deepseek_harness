@@ -64,5 +64,6 @@
     "ribbon.member": "ປະເທດສະມາຊິກ",
     "fact.label": "ຄວາມຮູ້ສະຫະປະຊາຊາດ",
     "quote.label": "ກົດບັດ ແລະ ອຸດົມຄະຕິ"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

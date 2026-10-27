@@ -64,5 +64,6 @@
     "ribbon.member": "Estat membre",
     "fact.label": "Curiositat de l'ONU",
     "quote.label": "Carta i ideals"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

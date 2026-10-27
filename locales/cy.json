@@ -64,5 +64,6 @@
     "ribbon.member": "Aelod-wladwriaeth",
     "fact.label": "Ffaith y CU",
     "quote.label": "Y Siarter a'r delfrydau"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

@@ -64,5 +64,6 @@
     "ribbon.member": "Мүчө мамлекет",
     "fact.label": "БУУ фактысы",
     "quote.label": "Устав жана идеалдар"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

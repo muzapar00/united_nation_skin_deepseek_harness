@@ -170,6 +170,9 @@ total 125
 
 ### Contribute a language
 
+**Review status lives in [docs/REVIEW.md](docs/REVIEW.md)**: all 127 packs are AI-assisted and
+unreviewed; 29 under-resourced languages are marked priority A.
+
 Translations are plain JSON, no build tooling required: `locales/<code>.json` for the 60 skin
 strings, `locales/dsh/<code>.json` for the 52 host strings. Validate with
 `node scripts/check-locales.mjs <code>`, then `node src/build.mjs --check`. See

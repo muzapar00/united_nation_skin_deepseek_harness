@@ -64,5 +64,6 @@
     "ribbon.member": "Estatu kidea",
     "fact.label": "NBEko bitxikeria",
     "quote.label": "Gutuna eta idealak"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

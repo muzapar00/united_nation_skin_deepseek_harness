@@ -64,5 +64,6 @@
     "ribbon.member": "Valstybė narė",
     "fact.label": "Faktas apie JT",
     "quote.label": "Chartija ir idealai"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

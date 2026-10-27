@@ -64,5 +64,6 @@
     "ribbon.member": "Государство-член",
     "fact.label": "Знаете ли вы?",
     "quote.label": "Устав и идеалы"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

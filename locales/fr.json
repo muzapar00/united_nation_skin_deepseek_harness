@@ -64,5 +64,6 @@
     "ribbon.member": "État Membre",
     "fact.label": "Le saviez-vous ?",
     "quote.label": "Charte et idéaux"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

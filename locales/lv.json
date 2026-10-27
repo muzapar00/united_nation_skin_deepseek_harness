@@ -64,5 +64,6 @@
     "ribbon.member": "Dalībvalsts",
     "fact.label": "Fakts par AN",
     "quote.label": "Statūti un ideāli"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

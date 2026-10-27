@@ -64,5 +64,6 @@
     "ribbon.member": "Shtet anëtar",
     "fact.label": "Fakt për OKB-në",
     "quote.label": "Karta dhe idealet"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

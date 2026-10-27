@@ -64,5 +64,6 @@
     "ribbon.member": "Jäsenvaltio",
     "fact.label": "YK-tieto",
     "quote.label": "Peruskirja ja ihanteet"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

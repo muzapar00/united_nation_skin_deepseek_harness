@@ -64,5 +64,6 @@
     "ribbon.member": "Aðildarríki",
     "fact.label": "Staðreynd um SÞ",
     "quote.label": "Sáttmálinn og hugsjónir"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

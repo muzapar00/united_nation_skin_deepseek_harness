@@ -64,5 +64,6 @@
     "ribbon.member": "Stat membru",
     "fact.label": "Curiozitate despre ONU",
     "quote.label": "Carta și idealuri"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

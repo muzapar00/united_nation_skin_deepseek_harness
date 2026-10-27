@@ -64,5 +64,6 @@
     "ribbon.member": "رکن ریاست",
     "fact.label": "اقوام متحدہ کی حقیقت",
     "quote.label": "چٹر اور اصول"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

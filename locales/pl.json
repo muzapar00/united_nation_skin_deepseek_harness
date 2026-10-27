@@ -64,5 +64,6 @@
     "ribbon.member": "Państwo członkowskie",
     "fact.label": "Ciekawostka o ONZ",
     "quote.label": "Karta i ideały"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

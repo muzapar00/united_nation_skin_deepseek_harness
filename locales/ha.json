@@ -64,5 +64,6 @@
     "ribbon.member": "Ƙasar memba",
     "fact.label": "Gaskiyar MDD",
     "quote.label": "Yarjejeniya da manufofi"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

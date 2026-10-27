@@ -64,5 +64,6 @@
     "ribbon.member": "Ballstát",
     "fact.label": "Fíric na Náisiún Aontaithe",
     "quote.label": "An Chairt agus na hidéil"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

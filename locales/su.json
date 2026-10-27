@@ -64,5 +64,6 @@
     "ribbon.member": "Nagara anggota",
     "fact.label": "Kanyataan PBB",
     "quote.label": "Piagam jeung cita-cita"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

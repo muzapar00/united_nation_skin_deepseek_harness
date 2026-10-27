@@ -64,5 +64,6 @@
     "ribbon.member": "Гишүүн орон",
     "fact.label": "НҮБ-ын баримт",
     "quote.label": "Дүрэм ба үзэл санаа"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

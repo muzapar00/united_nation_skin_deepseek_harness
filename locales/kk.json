@@ -64,5 +64,6 @@
     "ribbon.member": "Мүше мемлекет",
     "fact.label": "БҰҰ фактісі",
     "quote.label": "Жарғы мен идеалдар"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

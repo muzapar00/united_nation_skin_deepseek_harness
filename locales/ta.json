@@ -64,5 +64,6 @@
     "ribbon.member": "உறுப்பு நாடு",
     "fact.label": "ஐக்கிய நாடுகள் தகவல்",
     "quote.label": "சாசனமும் கொள்கைகளும்"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

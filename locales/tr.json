@@ -64,5 +64,6 @@
     "ribbon.member": "Üye Devlet",
     "fact.label": "BM bilgisi",
     "quote.label": "Şart ve idealler"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

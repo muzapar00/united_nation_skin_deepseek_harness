@@ -64,5 +64,6 @@
     "ribbon.member": "Država članica",
     "fact.label": "Zanimljivost o UN-u",
     "quote.label": "Povelja i ideali"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

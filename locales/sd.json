@@ -64,5 +64,6 @@
     "ribbon.member": "ميمبر رياست",
     "fact.label": "گڏيل قومن جي حقيقت",
     "quote.label": "چارت ۽ آدرش"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

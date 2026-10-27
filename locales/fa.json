@@ -64,5 +64,6 @@
     "ribbon.member": "دولت عضو",
     "fact.label": "دانستنی سازمان ملل",
     "quote.label": "منشور و آرمان‌ها"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }

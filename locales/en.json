@@ -64,5 +64,6 @@
     "ribbon.member": "Member State",
     "fact.label": "UN fact",
     "quote.label": "Charter and ideals"
-  }
+  },
+  "reviewStatus": "source"
 }

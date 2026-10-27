@@ -64,5 +64,6 @@
     "ribbon.member": "Whenua Mema",
     "fact.label": "Meka o Te Kotahitanga",
     "quote.label": "Te Kawenata me ngā wawata"
-  }
+  },
+  "reviewStatus": "unreviewed"
 }
