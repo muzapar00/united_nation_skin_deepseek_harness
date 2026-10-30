@@ -1,6 +1,6 @@
 {
   "name": "dsh-theme-un",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "United Nations — a UN-style theme for DeepSeek Harness with a 7,000-language picker and 128 translated interfaces.",
   "type": "module",
   "main": "index.js",

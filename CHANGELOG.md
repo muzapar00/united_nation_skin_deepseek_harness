@@ -2,6 +2,19 @@
 
 All notable changes to the United Nations skin for DeepSeek Harness.
 
+## 0.2.1 — 2026-10-27
+
+### Fixed
+
+- **Send button contrast.** The composer's send button used the `button-info-fill` token, which the
+  skin had mapped to a 10 % blue tint — a white arrow on a nearly white pill, so an enabled button
+  looked disabled. The token is now a solid UN blue (`#0077A8`, dark: `#1D9BCB`), clearly darker than
+  the pale disabled state.
+- **Send feedback.** A restrained spring: the button squashes to 88 % while pressed, springs back on
+  release, and a single soft ring plus a short pop runs when a message is actually sent (mouse or
+  Enter). The state is keyed on the composer's primary button by class, so it also works when the
+  interface is in Chinese, Arabic or any other language.
+
 ## 0.2.0 — 2026-10-27
 
 ### Added

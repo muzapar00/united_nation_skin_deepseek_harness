@@ -114,6 +114,51 @@ function applyShortcuts(ctx) {
   }, 'un-skin: shortcuts')
 }
 
+function applySendFeedback(ctx) {
+  var timer = null
+  function flash() {
+    document.body.classList.remove('un-sent')
+    void document.body.offsetWidth
+    document.body.classList.add('un-sent')
+    if (timer !== null) window.clearTimeout(timer)
+    timer = window.setTimeout(function () {
+      document.body.classList.remove('un-sent')
+      timer = null
+    }, 640)
+  }
+  function hasText(target) {
+    if (target === null || target === undefined) return false
+    if (target.tagName === 'TEXTAREA') return String(target.value || '').trim() !== ''
+    return String(target.textContent || '').trim() !== ''
+  }
+  function onClick(event) {
+    var target = event.target
+    if (target === null || target === undefined || target.closest === undefined) return
+    var button = target.closest('button[class*="_primary"]')
+    if (button === null || button.disabled) return
+    if (button.closest('[class*="composerStack"]') === null) return
+    flash()
+  }
+  function onKey(event) {
+    if (event.key !== 'Enter' || event.shiftKey || event.isComposing) return
+    var target = event.target
+    if (target === null || target === undefined) return
+    if (!target.isContentEditable && target.tagName !== 'TEXTAREA') return
+    if (target.closest === undefined || target.closest('[class*="composer"]') === null) return
+    if (hasText(target)) flash()
+  }
+  document.addEventListener('click', onClick, true)
+  document.addEventListener('keydown', onKey, true)
+  ctx.effect(function () {
+    return function () {
+      document.removeEventListener('click', onClick, true)
+      document.removeEventListener('keydown', onKey, true)
+      if (timer !== null) window.clearTimeout(timer)
+      document.body.classList.remove('un-sent')
+    }
+  }, 'un-skin: send feedback')
+}
+
 function logIntro() {
   try {
     var quote = UN_DATA.quotes[0]
@@ -145,6 +190,7 @@ function apply(ctx) {
 
   applyLocale(ctx)
   applyShortcuts(ctx)
+  applySendFeedback(ctx)
 
   ctx.effect(function () { return mountBackground(ctx) }, 'un-skin: background rotation')
 
