@@ -214,6 +214,8 @@ function AboutCard() {
           onClick: function () { setFlagWallOpen(true) }
         }, h(Emblem, { size: 13 }), 'United Nations · 193'),
         h(SdgStrip))),
+    h('p', { style: { margin: '12px 0 0', fontSize: '10.5px', lineHeight: 1.6, color: 'var(--un-ink-3)' } },
+      '在左侧 Plugins 页可整体开关本插件 · Toggle the whole plugin in the sidebar Plugins page.'),
     h('div', { style: { marginTop: '14px', fontSize: '10.5px', lineHeight: 1.6, color: 'var(--un-ink-3)' } },
       h('p', { style: { margin: '0 0 6px' } }, t('about.disclaimer')),
       h('p', { style: { margin: '0 0 4px' } }, t('about.credits') + ':'),

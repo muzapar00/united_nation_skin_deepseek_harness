@@ -31,12 +31,12 @@
 - [它会改变什么，不会改变什么](#它会改变什么不会改变什么)
 - [安装](#安装)
   - [前置条件](#前置条件)
-  - [方式一：一键脚本（推荐）](#方式一一键脚本推荐)
-  - [方式二：从 GitHub 安装](#方式二从-github-安装)
-  - [方式三：手动安装](#方式三手动安装)
+  - [方式一：DSH 原生插件页（推荐）](#方式一dsh-原生插件页推荐)
+  - [方式二：旧版 DSH](#方式二旧版-dsh)
   - [验证安装](#验证安装)
   - [更新](#更新)
   - [卸载](#卸载)
+  - [故障排查](#故障排查)
 - [语言：世界上每一门语言都值得被听见](#语言世界上每一门语言都值得被听见)
   - [选择器怎么工作](#选择器怎么工作)
   - [覆盖度与回退](#覆盖度与回退)
@@ -90,85 +90,62 @@
 
 ## 安装
 
+> **这是一个普通 DSH 插件，不是对 DSH 的改动。** 皮肤作为 profile bundle 安装，DSH 安装目录里的文件一个字节都没有动。装好后在左侧边栏 **Plugins** 页随时开关；关掉就恢复原生界面。
+
 ### 前置条件
 
-- **DeepSeek Harness ≥ 0.1.5**（`dsh web` 或桌面版均可；桌面版使用 `desktop` profile）。
-- **Node.js 22+**（DSH 自带；安装脚本用它改一个 JSON 文件）。
-- 第一次安装后需要**完全退出并重新启动** DSH。主题在启动时挂载，热更新不会加载新的 bundle。
+- **DeepSeek Harness ≥ 0.2.2**（推荐：有原生 Plugins 插件页，可开关、可卸载）
+  旧版本 0.1.5–0.2.1 仍可用，见下方「旧版 DSH」。
+- Web 版或桌面版均可（桌面版使用 `desktop` profile）。
+- 从 GitHub 安装需要能访问 github.com；从本地仓库安装需要仓库路径保持存在。
 
-> 配置文件在哪里？
-> - Linux / macOS：`~/.dsh`（或环境变量 `$DSH_HOME`）
-> - Windows：`%USERPROFILE%\.dsh`
-> - DSH 的每个“profile”是 `$DSH_HOME/profiles/<名字>`：Web 是 `web`，桌面版是 `desktop`，你也可以用 `--profile` 指定自定义名字。
+### 方式一：DSH 原生插件页（推荐）
 
-### 方式一：一键脚本（推荐）
+1. 打开左侧边栏的 **Plugins**。
+2. 点 **Add plugin**，粘贴下面任意一个：
+   - GitHub：`github:muzapar00/united_nation_skin_deepseek_harness`
+   - 本地目录：本仓库的绝对路径（会记录为 `link:`，适合持续开发）
+3. 点 **Install**；安装完成点 **Enable now**。
+4. 插件出现在 **Installed plugins** 里，卡片标题是 **United Nations**。
 
-**Windows（PowerShell）**
+**开关**：
 
-```powershell
+| 操作 | 结果 |
+|---|---|
+| 卡片 / 详情页的开关 → 关 | 立即移除配色、背景轮播、丝带、品牌位和“联合国”设置页，恢复 DSH 原生外观；无需编辑任何文件 |
+| 开关 → 开 | 皮肤立即恢复（HMR 下无需刷新；若页面未跟上，刷新一次） |
+| 详情页 → **Remove** | 彻底卸载插件，profile 恢复安装前状态 |
+
+> 本地路径安装是 `link:`：仓库被移动或删除后插件会失效，先 **Remove** 再移动。想长期稳定使用，用 GitHub 地址安装。
+
+### 方式二：旧版 DSH
+
+**适用于 DSH 0.1.5–0.2.1。** 旧版没有原生插件页，用下面任一方式；装完需要完全重启 DSH。
+
+**一键脚本**
+
+```bash
+# Linux / macOS
+git clone https://github.com/muzapar00/united_nation_skin_deepseek_harness.git
+cd united_nation_skin_deepseek_harness
+./scripts/install.sh
+
+# Windows PowerShell
 git clone https://github.com/muzapar00/united_nation_skin_deepseek_harness.git
 cd united_nation_skin_deepseek_harness
 powershell -ExecutionPolicy Bypass -File .\scripts\install.ps1
 ```
 
-**Linux / macOS**
+脚本参数：`--profile web`、`--all`、`--dry-run`、`--dsh-home <路径>`。
+
+**CLI**
 
 ```bash
-git clone https://github.com/muzapar00/united_nation_skin_deepseek_harness.git
-cd united_nation_skin_deepseek_harness
-./scripts/install.sh
-```
-
-脚本会：
-
-1. 找到 `$DSH_HOME/profiles` 下的 `desktop`（存在则优先）或 `web`；
-2. 把整个包复制到 `<profile>/node_modules/dsh-theme-un`；
-3. 在 `<profile>/package.json` 的 `dsh.profile.bundles` 里追加 `dsh-theme-un`（已有则跳过）；
-4. 打印下一步。
-
-常用参数：
-
-```bash
-./scripts/install.sh --profile web     # 只装 Web
-./scripts/install.sh --all             # 装到所有 profile（web + desktop + 自定义）
-./scripts/install.sh --dry-run         # 只打印将要做什么，不改任何文件
-./scripts/install.sh --dsh-home /path  # 指定 DSH_HOME
-```
-
-装完**完全退出 DSH 再打开**（Windows 托盘也要退出；Web 版按 `Ctrl+C` 后重新 `dsh web`）。
-
-### 方式二：从 GitHub 安装
-
-适合想跟着仓库持续更新的人：
-
-```bash
-# 1. 装进 profile（npm / git / 本地路径由 dsh 转发）
 dsh plugin --profile web add github:muzapar00/united_nation_skin_deepseek_harness
-
-# 2. 让这个包作为 bundle 生效：编辑 $DSH_HOME/profiles/web/package.json
-#    "dsh": { "profile": { "bundles": [ ..., "dsh-theme-un" ] } }
+# 再把 "dsh-theme-un" 加入 $DSH_HOME/profiles/web/package.json 的 dsh.profile.bundles
 ```
 
-<details>
-<summary>为什么还要改 <code>bundles</code>？</summary>
-
-DSH 的 profile 由按顺序叠加的 bundle 补丁组成。`dsh plugin add` 只把包放进 `node_modules`；只有当包名出现在 `dsh.profile.bundles` 里时，它自带的 `cordis.patch.yml`（挂载行）才会被应用。这是 DSH 的显式设计，不是本项目的特殊要求。一键脚本帮你做了这一步。
-</details>
-
-桌面版把 `--profile web` 换成 `--profile desktop`（Windows 的桌面 profile 默认是 `%USERPROFILE%\.dsh\profiles\desktop`）。
-
-### 方式三：手动安装
-
-```bash
-# 1. 放进 profile 的 node_modules
-cp -r united_nation_skin_deepseek_harness "$DSH_HOME/profiles/web/node_modules/dsh-theme-un"
-
-# 2. 编辑 $DSH_HOME/profiles/web/package.json，在 dsh.profile.bundles 末尾加 "dsh-theme-un"
-
-# 3. 完全重启 DSH
-```
-
-也可以不改 `bundles`，改成在 `<profile>/cordis.patch.yml` 里直接挂一行：
+**手动**：把仓库复制到 `<profile>/node_modules/dsh-theme-un`，并把它加入 `dsh.profile.bundles`；或在 `<profile>/cordis.patch.yml` 里直接挂一行（二选一，不要重复）：
 
 ```yaml
 - insert:
@@ -176,54 +153,46 @@ cp -r united_nation_skin_deepseek_harness "$DSH_HOME/profiles/web/node_modules/d
       name: 'dsh-theme-un'
 ```
 
-两种方式**只选一种**，都做会重复挂载同一个 id。
+> 旧版的开关 = 从 `bundles` 里移除或在插件行上设 `disabled: true`，然后重启。升级到 0.2.2 后建议改用原生插件页。
 
 ### 验证安装
 
-重启后，你应该看到：
+无论在哪个版本，装好后应看到：
 
-- 左上角的品牌位变成 **联合国徽记 + United Nations / DeepSeek Harness**；
-- 设置按钮旁边多了一个**地球按钮**；
-- 聊天背景开始缓慢淡入淡出维和照片，右下角有“联合国维持和平行动 · 出兵国”与“联合国感谢您的服务与牺牲”；
-- 输入框上方出现两条细丝带；
-- **设置 → 联合国** 出现一整页设置。
+- 左上角品牌位变成 **联合国徽记 + United Nations / DeepSeek Harness**；
+- 设置按钮旁多一个**地球按钮**；
+- 聊天背景缓慢淡入淡出维和照片，右下角有出兵国国旗和“联合国感谢您的服务与牺牲”；
+- 输入框上方两条细丝带；
+- **设置 → 联合国** 一整页设置；
+- 在 **Plugins** 页能看到 **United Nations** 卡片和开关（0.2.2+）。
 
 没看到？看[故障排查](#故障排查)。
 
 ### 更新
 
-```bash
-# 方式一（复制安装）
-cd united_nation_skin_deepseek_harness
-git pull
-./scripts/install.sh          # 或 .\scripts\install.ps1
+- **GitHub 安装**：在 Plugins 里 **Remove**，再按方式一重新安装（或直接安装新版本地址）。
+- **本地 link 安装**：`git pull` 后刷新页面；如果改了 `client.js`，在 Plugins 里把开关关掉再打开，让 DSH 重新加载 bundle。
+- **旧版脚本安装**：`git pull && ./scripts/install.sh`，然后完全重启。
 
-# 方式二（GitHub 安装）
-dsh plugin --profile web add github:muzapar00/united_nation_skin_deepseek_harness
-```
-
-然后完全重启 DSH。语言包、照片、README 与 `client.js` 都在同一次更新里。`CHANGELOG.md` 记录每个版本。
+版本记录见 [CHANGELOG.md](CHANGELOG.md)。
 
 ### 卸载
 
-```bash
-node scripts/uninstall.mjs --profile web   # 或 --all
-# 或：./scripts/uninstall.sh --profile web
-```
-
-它会删掉 `node_modules/dsh-theme-un` 并从 `bundles` 移除包名。如果你用的是 `cordis.patch.yml` 挂载行，请把那一行也删掉。重启 DSH 即恢复原样。
+- **DSH ≥ 0.2.2（推荐）**：Plugins → **United Nations** → **Remove**。DSH 会删除依赖并取消 bundle 选择，无需手工改文件。
+- **旧版**：`node scripts/uninstall.mjs --profile web`（或 `--all`），再删除你手工加过的挂载行。
 
 ### 故障排查
 
 | 现象 | 原因与处理 |
 |---|---|
-| 设置里没有“联合国”，也没有地球按钮 | bundle 未生效。确认 `dsh.profile.bundles` 含 `dsh-theme-un`，且 `<profile>/node_modules/dsh-theme-un/client.js` 存在；然后**完全**重启（不是刷新页面）。 |
-| 页面空白或控制台报 `client.js missed` | `client.js` 缺失或损坏。在仓库里跑 `node src/build.mjs`，重新安装。 |
+| 设置里没有“联合国”，也没有地球按钮 | 插件被关掉了。打开 **Plugins → Installed plugins**，把 **United Nations** 的开关打开（0.2.2+）；旧版检查 `dsh.profile.bundles` 是否含 `dsh-theme-un`。 |
+| 页面空白或控制台报 `client.js missed` | `client.js` 缺失或损坏。在仓库里跑 `node src/build.mjs`，重新安装/刷新。 |
 | 只有配色没有背景照片 | 设置 → 联合国 → 背景轮播被关；或系统“减少动态效果”开启；或标签页在后台。 |
 | 背景太强 / 太淡 | 设置 → 联合国 → 背景强度（20–92），默认 78%。 |
 | 我的语言没被翻译 | 搜索后选中即可生效，缺的句子回退英文；欢迎[贡献翻译](locales/_TRANSLATING.md)。 |
-| 和其他皮肤冲突（例如长征终端） | 皮肤会叠加令牌层。建议在 `bundles` 里只保留一个主题包，或在设置里关掉本项目的背景/丝带。 |
-| 桌面版没生效 | 桌面版用 `desktop` profile；`install.ps1` 会自动优先选它。确认 `%USERPROFILE%\.dsh\profiles\desktop`。 |
+| 和其他皮肤冲突（例如长征终端） | 皮肤会叠加令牌层。在 **Plugins** 里只保留一个主题类插件开启。 |
+| 桌面版没生效 | 桌面版使用 `desktop` profile；旧版脚本会自动优先选它。 |
+| 移动仓库后插件失效 | 本地安装是 `link:`。重新安装，或改用 GitHub 地址安装。 |
 
 ---
 

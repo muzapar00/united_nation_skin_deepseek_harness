@@ -2,6 +2,28 @@
 
 All notable changes to the United Nations skin for DeepSeek Harness.
 
+## 0.3.0 — 2026-11-08
+
+### Changed
+
+- **Packaged as a first-class DSH plugin.** The skin is now installed through DSH's own plugin
+  manager (`install_bundle`) instead of hand-copying files into the profile. It appears under
+  **Plugins → Installed plugins** as **United Nations** with its title, description and icon, and the
+  card's switch turns the whole theme off and back on live (HMR), with no profile edit and no edit to
+  the DSH installation.
+- **Plugin display metadata.** `locale/en.json` and `locale/zh.json` provide the title and description
+  the Plugins page and Settings inventory read without activating the plugin; the existing `icon.png`
+  is used as the card icon.
+- **Documentation.** Both READMEs now lead with the native Plugins-page install and switch, describe
+  the off/on/uninstall behaviour, and keep the script/CLI/manual route as a legacy path for DSH
+  0.1.5–0.2.1.
+
+### Notes
+
+- A local-directory install is recorded as a `link:` dependency: the checkout must stay in place. A
+  GitHub install is a self-contained copy.
+- Nothing in the DSH installation directory is modified; the plugin lives in the profile.
+
 ## 0.2.1 — 2026-10-27
 
 ### Fixed

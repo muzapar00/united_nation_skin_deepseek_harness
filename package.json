@@ -1,14 +1,15 @@
 {
   "name": "dsh-theme-un",
-  "version": "0.2.1",
-  "description": "United Nations — a UN-style theme for DeepSeek Harness with a 7,000-language picker and 128 translated interfaces.",
+  "version": "0.3.0",
+  "description": "United Nations — a switchable UN-style theme for DeepSeek Harness with a 7,030-language picker and 127 translated interfaces.",
   "type": "module",
   "main": "index.js",
   "exports": {
     ".": "./index.js",
     "./client": "./client.js",
     "./package.json": "./package.json",
-    "./skin.json": "./skin.json"
+    "./skin.json": "./skin.json",
+    "./locale/*.json": "./locale/*.json"
   },
   "files": [
     "index.js",
@@ -24,7 +25,8 @@
     "README.en.md",
     "CHANGELOG.md",
     "NOTICE",
-    "LICENSE"
+    "LICENSE",
+    "locale/*.json"
   ],
   "icon": "./icon.png",
   "keywords": [

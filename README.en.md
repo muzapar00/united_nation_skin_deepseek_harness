@@ -38,54 +38,64 @@ It adds exactly **one button** (a globe beside Settings, also `Ctrl/Cmd + Shift 
 
 ## Install
 
+> **This is an ordinary DSH plugin, not a change to DSH.** The theme installs as a profile bundle;
+> nothing in the DSH installation directory is touched. Once installed, the **Plugins** page in the
+> sidebar switches it on and off; switching it off restores the native interface.
+
 ### Requirements
 
-- **DeepSeek Harness ≥ 0.1.5** (Web or desktop; the desktop uses the `desktop` profile).
-- **Node.js 22+** (bundled with DSH; the installer uses it to edit one JSON file).
-- A **full restart** after install — the theme mounts at boot, not on hot reload.
+- **DeepSeek Harness ≥ 0.2.2** (recommended: the native Plugins page can install, switch and remove
+  it). DSH 0.1.5–0.2.1 still works through the legacy route below.
+- Web or desktop (the desktop app uses the `desktop` profile).
+- GitHub reachable for a GitHub install; the local checkout must stay in place for a `link:` install.
 
-`$DSH_HOME` is `~/.dsh` (Linux/macOS) or `%USERPROFILE%\.dsh` (Windows). Profiles live in `$DSH_HOME/profiles/<name>`: `web`, `desktop`, or any custom name.
+### Native Plugins page (recommended)
 
-### One-command install (recommended)
+1. Open **Plugins** in the sidebar.
+2. Choose **Add plugin** and paste either:
+   - `github:muzapar00/united_nation_skin_deepseek_harness`, or
+   - the absolute path of this checkout (installed as `link:`, convenient while developing).
+3. **Install**, then **Enable now**. The plugin appears under **Installed plugins** as
+   **United Nations**.
 
-**Windows**
+**Switch**:
 
-```powershell
-git clone https://github.com/muzapar00/united_nation_skin_deepseek_harness.git
-cd united_nation_skin_deepseek_harness
-powershell -ExecutionPolicy Bypass -File .\scripts\install.ps1
-```
+| Action | Result |
+|---|---|
+| Toggle off (card or detail page) | Palette, background rotation, ribbons, brand slot and the United Nations settings page are removed; the native interface returns immediately. No files edited. |
+| Toggle on | The skin returns (HMR applies it live; refresh once if the page lags). |
+| Detail page → **Remove** | Uninstalls the plugin and restores the profile to its pre-install state. |
 
-**Linux / macOS**
+> A local-path install is a `link:` — move or delete the checkout and the plugin breaks; **Remove** it
+> first. A GitHub install is a copy and stands on its own.
+
+### Legacy DSH (0.1.5–0.2.1)
+
+Older DSH has no native Plugins page; use one of these routes and fully restart DSH afterwards.
+
+**One-command installer**
 
 ```bash
+# Linux / macOS
 git clone https://github.com/muzapar00/united_nation_skin_deepseek_harness.git
 cd united_nation_skin_deepseek_harness
 ./scripts/install.sh
+
+# Windows PowerShell
+powershell -ExecutionPolicy Bypass -File .\scripts\install.ps1
 ```
 
-The script finds the `desktop` profile (if present) or `web`, copies the package into
-`<profile>/node_modules/dsh-theme-un`, appends `dsh-theme-un` to `dsh.profile.bundles`, and prints
-the next step. Useful flags: `--profile web`, `--all`, `--dry-run`, `--dsh-home <path>`.
+Flags: `--profile web`, `--all`, `--dry-run`, `--dsh-home <path>`.
 
-Then **fully quit DSH and start it again**.
-
-### From GitHub
+**CLI**
 
 ```bash
 dsh plugin --profile web add github:muzapar00/united_nation_skin_deepseek_harness
 # then add "dsh-theme-un" to dsh.profile.bundles in $DSH_HOME/profiles/web/package.json
 ```
 
-`dsh plugin add` installs the package; DSH only applies a package's own bundle patch when its name is
-listed in `dsh.profile.bundles`. That is deliberate DSH behaviour, and the one-command installer does
-it for you.
-
-### Manual
-
-Copy the package into `<profile>/node_modules/dsh-theme-un` and add `"dsh-theme-un"` to
-`dsh.profile.bundles` — or, instead of editing `bundles`, insert the row directly in
-`<profile>/cordis.patch.yml`:
+**Manual** — copy the package into `<profile>/node_modules/dsh-theme-un` and add it to
+`dsh.profile.bundles`, or insert the row directly in `<profile>/cordis.patch.yml` (one route only):
 
 ```yaml
 - insert:
@@ -93,29 +103,34 @@ Copy the package into `<profile>/node_modules/dsh-theme-un` and add `"dsh-theme-
       name: 'dsh-theme-un'
 ```
 
-Use one route only; both would mount the same id twice.
+On legacy, "off" means removing it from `bundles` or setting `disabled: true` on the row, then
+restarting. Upgrade to 0.2.2 to get the native switch.
 
-### Verify, update, uninstall
+### Verify
 
-After a full restart you should see: the UN emblem and “United Nations / DeepSeek Harness” in the
-sidebar, a globe button beside Settings, a dissolving peacekeeping background credited in the corner,
-two thin ribbons above the composer, and **Settings → United Nations**.
+After install you should see the UN emblem and “United Nations / DeepSeek Harness” in the sidebar, a
+globe button beside Settings, a dissolving credited peacekeeping background, two thin ribbons above
+the composer, **Settings → United Nations**, and — on 0.2.2+ — the **United Nations** card with a
+switch in **Plugins**.
 
-```bash
-git pull && ./scripts/install.sh          # update (copy install)
-dsh plugin --profile web add github:...   # update (GitHub install)
-node scripts/uninstall.mjs --profile web  # uninstall
-```
+### Update and uninstall
+
+- **GitHub install**: **Remove** in Plugins, then install the newer source.
+- **Local `link:` install**: `git pull` and refresh; after a `client.js` change, switch the plugin off
+  and on so DSH reloads the bundle.
+- **Legacy**: `git pull && ./scripts/install.sh`, then fully restart; uninstall with
+  `node scripts/uninstall.mjs --profile web`.
 
 ### Troubleshooting
 
 | Symptom | Fix |
 |---|---|
-| No “United Nations” section, no globe | `dsh-theme-un` missing from `dsh.profile.bundles`, or `client.js` missing in the installed package. Fix, then fully restart. |
-| Blank page / `client.js missed` | The built bundle is missing. Run `node src/build.mjs`, reinstall. |
+| No “United Nations” section or globe | The plugin is switched off. Open **Plugins → Installed plugins** and switch **United Nations** on (0.2.2+); on legacy check `dsh.profile.bundles`. |
+| Blank page / `client.js missed` | The built bundle is missing. Run `node src/build.mjs`, reinstall/refresh. |
 | Palette but no photos | Background rotation off, reduced motion on, or the tab is hidden. |
-| Desktop app untouched | It uses the `desktop` profile; the installer prefers it when present. |
-| Conflicts with another skin | Keep one theme bundle enabled; otherwise two token layers stack unpredictably. |
+| Conflicts with another skin | Keep one theme plugin switched on in **Plugins**. |
+| Desktop app untouched | It uses the `desktop` profile; the legacy installer prefers it. |
+| Plugin broke after moving the checkout | `link:` install. Reinstall, or install from GitHub. |
 
 ---
 
